@@ -1,0 +1,1001 @@
+NOTA_FISCAL;NOME;CPF;CIDADE;CARGO;ENDERECO;EMAIL;DATA_NASCIMENTO;IDADE;DATA_EMISSAO;VALOR_NOTA;COMISSAO;VENDEDOR
+978475;Dra. Daniela Cirino;409.187.256-58;Martins;Acompanhante;Via Isaac da Cunha, 867;bpeixoto@example.com;15/08/2017;8;27/11/2024;586;8,79;Vendedor_E
+250183;Srta. Maria Júlia Guerra;568.029.734-56;Cavalcante do Oeste;Instrumentista musical;Núcleo Letícia Castro, 97;andradeisis@example.org;30/12/2017;8;02/07/2025;366;5,49;Vendendor_A
+801253;Matheus Montenegro;529.613.874-00;Pires Alegre;Presidente da República;Pátio de Santos, 268;maria-lauracassiano@example.net;12/09/1995;30;15/08/2025;567;8,5;Vendendor_C
+708993;Bella Souza;630.259.418-98;Casa Grande;Atleta de canoagem;Via Silva, 47;davi-luiz49@example.net;27/09/1920;105;02/06/2025;746;11,19;Vendendor_C
+974257;Josué Alves;734.012.658-90;Almeida de Cassiano;Peixeiro;Distrito Pinto, 53;britoheloisa@example.org;13/08/1912;113;10/06/2025;853;12,79;Vendendor_C
+249290;Eloá Casa Grande;875.241.639-91;Campos do Oeste;Engenheiro agrimensor;Via Nicolas Pimenta, 64;emanuelcirino@example.com;21/09/1984;41;03/06/2025;451;6,76;Vendendor_A
+281190;José Camargo;632.570.981-03;Carvalho;Diarista;Área de Cavalcanti, 74;joao-lucascasa-grande@example.com;09/07/1966;59;18/12/2024;310;4,65;Vendendor_C
+312902;Isabelly Albuquerque;506.189.473-10;Barros de Porto;Agente funerário;Vale Hadassa Carvalho;luiz-henriquesouza@example.net;06/08/1978;47;03/01/2025;131;1,96;Vendendor_B
+762852;Hellena Camargo;968.240.371-50;Lopes;Profissional de cinema;Largo de Souza, 178;leoda-costa@example.net;18/08/1955;70;22/10/2025;767;11,5;Vendendor_B
+789966;Sr. Augusto Novaes;734.698.501-00;Pereira do Oeste;Agente funerário;Loteamento Silva, 3;benjamin30@example.net;09/04/1958;67;02/02/2025;137;2,05;Vendedor_E
+955059;Pietro Jesus;127.648.903-03;Oliveira;Ferroviário;Loteamento de Nascimento, 12;peixotojoao-guilherme@example.org;30/03/2007;18;25/01/2025;957;14,35;Vendendor_C
+833022;Sr. Luigi Freitas;163.280.795-59;Novaes;Funileiro;Rua Lorenzo Duarte, 43;vitoria12@example.org;20/05/1965;60;08/10/2025;962;14,43;Vendendor_B
+521516;Srta. Lara Almeida;203.697.481-31;Cirino do Galho;Psiquiatra;Largo de Machado, 3;nicolascamara@example.com;02/07/1968;57;15/07/2025;277;4,16;Vendendor_B
+679802;Alice Moura;317.208.659-30;Oliveira;Engenheiro petroquímico;Viela Antonella Vargas, 60;leticia63@example.com;25/09/1980;45;16/07/2025;890;13,35;Vendedor_E
+845828;Jade Duarte;751.082.496-67;Carvalho das Flores;Cirurgião bucal;Parque Isabelly Porto;barrosfelipe@example.net;08/10/2024;1;01/01/2025;690;10,35;Vendendor_A
+932379;Eloah Cavalcante;102.543.678-44;Pacheco Alegre;Patologista;Esplanada Fogaça, 577;jfarias@example.com;22/07/1995;30;30/09/2025;317;4,75;Vendendor_B
+921691;José Cunha;974.618.350-84;Santos de Souza;Eletricista;Via Leandro Rezende, 34;zcunha@example.net;09/07/2013;12;25/08/2025;183;2,75;Vendedor_E
+648153;Fernando da Costa;689.417.350-84;Peixoto;Somelier;Área Porto, 4;kcarvalho@example.com;29/04/2017;8;02/09/2025;739;11,08;Vendendor_C
+390021;José Pedro Abreu;436.725.908-00;Vasconcelos;Jogador de basquete;Lagoa de da Mata, 51;mariana34@example.org;07/06/2023;2;27/06/2025;124;1,86;Vendedor_E
+824020;Maria Helena Novais;569.480.273-00;Freitas da Prata;Clínico geral;Lagoa Fonseca, 532;mathiasda-mata@example.org;24/07/2013;12;18/12/2024;37;0,55;Vendedor_E
+367773;Luiza Porto;735.904.628-92;Alves;Naturólogo;Vale Dias, 51;hda-costa@example.org;11/10/1999;26;17/02/2025;118;1,77;Vendedor_D
+297371;Matteo Moreira;430.629.158-89;Cassiano da Serra;Gravurista;Campo Enzo das Neves, 60;da-rosadaniela@example.net;13/02/1932;93;01/01/2025;241;3,61;Vendedor_E
+690428;Vitor da Costa;984.716.053-84;Vargas;Tecnólogo em produção Sucroalcooleira;Vila de Costa, 44;tsilveira@example.net;31/05/2015;10;12/10/2025;246;3,69;Vendendor_B
+994937;Matheus Jesus;184.572.039-32;da Mota;Vereador;Sítio de Moura, 5;montenegrokaique@example.com;19/04/1914;111;27/09/2025;570;8,55;Vendedor_E
+516443;Sr. André Lopes;241.387.596-46;Almeida da Serra;Empresário;Conjunto Sousa, 1;mirella69@example.org;10/06/2014;11;08/08/2025;533;8,0;Vendendor_A
+842953;Maria Júlia Barros;630.972.548-38;da Cruz;Apicultor;Vila Maria Cecília Costela, 39;zgomes@example.net;18/06/2014;11;05/05/2025;726;10,89;Vendedor_E
+578655;Clarice Vasconcelos;874.296.150-58;Carvalho da Serra;Técnico tributarista;Favela de Cirino, 30;silvabruna@example.org;24/07/1976;49;02/05/2025;617;9,25;Vendendor_B
+883747;Enrico Santos;201.647.359-25;Cirino;Telefonista;Colônia Rafael Rezende, 4;barbara52@example.net;28/05/1924;101;07/07/2025;31;0,46;Vendedor_E
+737439;Gabriel Oliveira;358.124.069-60;Costela;Técnico em edificações;Vereda Silva, 78;joao-vitorda-luz@example.com;22/10/1922;103;02/06/2025;158;2,37;Vendendor_B
+420451;Mariah Gonçalves;423.715.906-06;Viana das Flores;Publicitário;Viaduto Farias;camaraerick@example.com;25/04/2021;4;17/07/2025;324;4,86;Vendendor_A
+899560;Liam Campos;413.068.297-04;Duarte de Moreira;Piloto automobilístico;Vale de Silva;emanuelly66@example.org;24/11/1958;67;25/11/2024;443;6,64;Vendedor_E
+148569;Sara Gonçalves;860.419.327-87;Jesus;Remador;Esplanada Abreu;yanramos@example.net;13/09/1955;70;15/04/2025;275;4,12;Vendedor_D
+256867;Caio Leão;836.024.917-22;Mendes de da Cunha;Engenheiro civil;Estrada de Pinto, 11;costelaana-beatriz@example.net;10/10/1985;40;24/02/2025;884;13,26;Vendendor_B
+846666;Fernando Pereira;804.236.759-74;Pires;Corretor de imóveis;Condomínio de Rodrigues, 49;alice04@example.org;11/11/2017;8;29/09/2025;394;5,91;Vendendor_A
+947390;Nicole das Neves;049.217.368-04;Mendonça;Tecnólogo em silvicultura;Condomínio Ian da Mata, 333;nascimentosamuel@example.net;26/07/2008;17;01/02/2025;566;8,49;Vendendor_A
+302040;Maria Laura Rios;085.246.193-33;Lima;Agrimensor;Vereda Calebe Cardoso, 25;maria-lizpeixoto@example.com;12/04/2002;23;01/11/2025;507;7,6;Vendendor_A
+394622;Dom Freitas;841.307.695-10;Novais;Ecólogo;Aeroporto Paulo Ramos, 15;zmontenegro@example.org;24/01/2022;3;04/12/2024;375;5,62;Vendedor_D
+137764;Maria Sophia Nunes;627.813.409-87;Rocha;Engenheiro de materiais;Recanto Abreu, 48;emanuelly53@example.net;06/05/1926;99;18/12/2024;493;7,39;Vendendor_C
+461895;Luiza Pastor;416.928.705-30;Lopes;Radiooperador de vôo;Praça de Sousa, 2;pmarques@example.com;06/04/1969;56;10/01/2025;678;10,17;Vendendor_C
+929151;Kevin Fogaça;365.487.129-19;Farias do Galho;Tecnólogo em produção de bebidas;Quadra Mendonça, 34;da-conceicaodavi-miguel@example.org;07/08/1986;39;19/02/2025;620;9,3;Vendendor_C
+759172;Ian Novais;782.304.956-29;da Conceição;Taxista;Esplanada de Correia, 832;rafaelarocha@example.net;26/11/1918;107;12/10/2025;414;6,21;Vendendor_B
+552882;Arthur Miguel Fernandes;586.203.174-07;Nascimento;Corretor de seguros;Condomínio Luiz Felipe Porto, 60;enovaes@example.org;25/05/1921;104;12/07/2025;8;0,12;Vendendor_B
+893447;Benjamim das Neves;401.835.679-00;Ramos;Moldador;Estação Isaque Abreu, 228;joao-felipe05@example.net;02/12/1941;84;08/02/2025;905;13,57;Vendedor_E
+735179;Isabel Freitas;450.826.917-67;Martins do Norte;Endocrinologista;Área Isabelly Fogaça, 6;goncalvesleo@example.org;30/08/2006;19;01/08/2025;70;1,05;Vendedor_D
+104497;Emanuelly Silva;514.376.209-06;da Luz;Auxiliar administrativo;Campo Ana Lívia Santos, 15;oliviabrito@example.org;12/10/1991;34;03/02/2025;904;13,56;Vendendor_A
+296804;Clara das Neves;412.638.059-06;Marques;Portuário;Estrada Pires, 5;pedro-henrique05@example.com;08/06/1971;54;14/08/2025;415;6,22;Vendendor_A
+876289;Ryan Rocha;568.304.217-80;da Mata de Goiás;Caixa;Alameda de Pastor, 62;matteo91@example.com;18/02/2012;13;05/04/2025;645;9,67;Vendedor_D
+635286;Beatriz Pastor;764.329.180-22;da Paz do Amparo;Museólogo;Área Gabriel Ribeiro, 79;rodrigo36@example.com;03/04/1976;49;27/09/2025;882;13,23;Vendendor_C
+326047;Ravy Abreu;961.308.542-42;Azevedo;Encanador;Praça de Oliveira, 13;emanuellypastor@example.com;30/04/1984;41;22/03/2025;755;11,32;Vendedor_D
+711213;Gustavo da Rosa;418.935.206-33;da Conceição;Embalador;Favela Rezende, 27;da-rochaana-carolina@example.net;12/09/1981;44;16/07/2025;64;0,96;Vendedor_E
+479151;Dra. Bella Rocha;658.127.049-02;Ferreira;Educador integrado à saúde pública;Rua Peixoto, 9;augusto06@example.net;04/04/1980;45;27/06/2025;449;6,73;Vendendor_A
+361794;Isaac Peixoto;326.145.098-33;da Paz de Goiás;Alfaiate;Trecho Silva, 8;xda-mata@example.org;15/01/1914;111;08/03/2025;597;8,96;Vendedor_D
+109150;Sra. Ayla Campos;638.572.149-37;Rezende da Praia;Impressor;Distrito de Mendes, 7;gustavo68@example.com;18/09/1999;26;12/05/2025;681;10,21;Vendendor_A
+801606;Manuela Garcia;372.946.051-06;da Paz;Lamboteiro;Colônia Montenegro, 40;vieiramarcelo@example.com;17/02/1947;78;14/06/2025;588;8,82;Vendendor_C
+602281;Bella Gomes;374.821.590-88;Fernandes;Físico;Lagoa de Garcia, 5;domcirino@example.org;14/08/2012;13;21/03/2025;790;11,85;Vendendor_B
+118240;Lunna Fonseca;345.670.981-10;Aparecida;Trompetista;Vale de Abreu;alicia78@example.net;30/03/2009;16;16/09/2025;465;6,97;Vendendor_A
+581132;Dr. Igor Sá;734.186.092-87;Almeida de Nunes;Assessor parlamentar;Vale de Pimenta, 87;jda-mata@example.com;21/09/1931;94;22/06/2025;186;2,79;Vendendor_A
+520875;Dr. Otávio Alves;895.462.013-24;Sá de Cavalcanti;Cientista da informação e documentação;Praia Jesus, 72;vda-costa@example.org;19/01/1957;68;07/02/2025;768;11,52;Vendendor_C
+126828;Valentina Cardoso;702.359.846-47;Sales de Rezende;Técnico em desporto;Condomínio Cassiano, 25;luiz-felipeandrade@example.net;03/05/2013;12;11/11/2025;619;9,29;Vendendor_C
+991879;Dr. Henrique Lima;819.026.547-49;da Paz;Torneiro mecânico;Estação Caio da Mota, 12;ayllapinto@example.org;04/04/1968;57;11/02/2025;424;6,36;Vendendor_A
+552210;Allana Araújo;210.758.643-80;Aragão do Galho;Agente de combate à endemias;Ladeira Evelyn Sá, 86;fogacaana-vitoria@example.net;04/03/1933;92;29/11/2024;456;6,84;Vendedor_E
+764054;Vitor Teixeira;802.431.697-87;Caldeira do Amparo;Taxista;Lago Macedo, 26;da-pazenzo-gabriel@example.com;03/01/1964;61;29/09/2025;781;11,71;Vendendor_A
+842914;Isaque da Rosa;186.209.534-51;Aparecida das Pedras;Maitre;Recanto Isaque da Rocha, 4;limajoao@example.org;23/08/1919;106;26/11/2024;193;2,9;Vendedor_E
+110385;Pedro Lucas Siqueira;257.413.906-25;das Neves;Radialista;Aeroporto Aparecida, 55;joao-guilherme97@example.com;19/04/2012;13;25/12/2024;267;4,0;Vendendor_B
+142033;Thiago da Costa;402.385.967-29;Lopes de Sampaio;Construtor;Travessa de Porto, 246;yuri67@example.net;20/08/1913;112;07/04/2025;253;3,79;Vendendor_B
+509540;Sr. Mathias da Conceição;179.324.506-16;Pacheco da Praia;Consultor;Morro Luiz Otávio Alves, 934;hellena93@example.net;13/08/1938;87;15/02/2025;408;6,12;Vendedor_D
+530322;Danilo Pimenta;613.204.789-13;Lopes de Vargas;Coveiro/Sepultador;Conjunto de Rodrigues, 230;zmoura@example.com;09/07/1949;76;30/03/2025;336;5,04;Vendedor_E
+725402;João Barbosa;320.964.815-89;Vasconcelos;Investigador de Polícia;Fazenda de Macedo, 419;ayllacastro@example.net;18/12/1999;26;05/05/2025;243;3,65;Vendedor_E
+307249;Luiz Fernando Ribeiro;108.793.245-97;Moraes;Astrônomo;Recanto de Martins, 23;ana-ceciliafogaca@example.net;12/08/1950;75;01/01/2025;429;6,43;Vendendor_A
+932027;Heloísa Monteiro;642.150.378-08;Barros;Parteira tradicional;Estação Pedro Miguel Carvalho;hborges@example.com;18/01/2004;21;05/01/2025;541;8,12;Vendedor_E
+289059;Dr. Vicente Sales;967.081.534-75;Rocha;Letrista;Lagoa de Silveira, 655;jose-miguelgarcia@example.com;24/03/1952;73;29/12/2024;906;13,59;Vendendor_A
+703355;Marcelo Souza;690.513.427-99;Siqueira da Mata;Ortopedista;Núcleo Kaique Macedo, 88;gfreitas@example.net;18/03/2007;18;13/11/2024;101;1,51;Vendedor_D
+229123;Levi Costela;768.045.219-94;Correia de Minas;Oculista;Estação Costa, 28;rda-rocha@example.net;25/08/2017;8;22/11/2024;324;4,86;Vendedor_D
+599644;Bryan da Luz;163.598.470-00;Dias;Ceramista;Colônia Souza, 367;zmacedo@example.org;09/03/1910;115;02/02/2025;670;10,05;Vendedor_E
+706653;Gustavo Henrique Araújo;930.257.618-30;Sales;Presidente da República;Trevo Pinto, 60;aferreira@example.com;01/04/1965;60;22/09/2025;841;12,62;Vendedor_E
+509099;Calebe Duarte;318.029.476-04;Pacheco de Minas;Cenógrafo;Largo Borges;silveiravitor-gabriel@example.com;06/02/2024;1;03/11/2025;821;12,31;Vendedor_D
+143920;Sra. Ísis Rodrigues;520.784.619-11;Oliveira da Mata;Maestro;Sítio José Pedro Ramos;raquel62@example.org;15/05/1992;33;27/10/2025;953;14,29;Vendendor_C
+738630;Lucas Gabriel Moreira;857.632.041-07;Rezende de Goiás;Instrumentador cirúrgico;Praça Rafael Gonçalves, 192;ceciliafernandes@example.com;09/01/2008;17;19/11/2024;309;4,63;Vendendor_C
+163072;Sr. André Gonçalves;413.576.802-44;Castro de Minas;Clínico geral;Colônia Bryan Caldeira, 32;carlos-eduardo25@example.com;25/09/1979;46;05/01/2025;449;6,73;Vendendor_B
+669827;Melissa Abreu;685.049.127-01;Brito;Gastroenterologista;Trecho de Barros, 8;pachecoleticia@example.org;16/01/1947;78;14/05/2025;770;11,55;Vendedor_D
+930281;Dra. Joana Ferreira;169.205.384-15;Cavalcanti;Ortodontista;Colônia Aparecida, 5;yasmindias@example.com;16/11/1969;56;14/10/2025;131;1,96;Vendendor_C
+241111;Srta. Lavínia Gomes;589.024.316-06;Costela da Prata;Produtor de multimídia;Largo de Andrade, 47;maitecassiano@example.com;09/06/1955;70;27/02/2025;370;5,55;Vendedor_D
+919044;Antony Santos;439.076.851-48;Fonseca;Petroleiro;Praia Duarte, 26;abreubernardo@example.org;17/07/1949;76;28/04/2025;668;10,02;Vendedor_E
+237536;Isaque Moraes;936.745.280-29;Fonseca do Norte;Capoeirista;Residencial de Albuquerque, 387;marinaaragao@example.com;25/11/1918;107;21/07/2025;409;6,13;Vendedor_D
+116255;Heitor Cirino;219.840.573-32;Novais de Garcia;Catador de carangueijos;Parque Beatriz Camargo, 9;guerramilena@example.net;10/05/1952;73;08/09/2025;374;5,61;Vendedor_D
+688903;Sr. Ryan Freitas;832.605.941-24;Dias;Levantador de peso;Parque de Abreu, 82;leandroda-mota@example.com;17/07/1986;39;10/12/2024;429;6,43;Vendendor_A
+608630;João Miguel da Conceição;534.760.829-38;Costa;Físico nuclear;Largo Maria Clara Souza, 8;acaldeira@example.org;16/11/2004;21;17/12/2024;509;7,63;Vendedor_D
+329917;Otávio Vargas;325.874.169-73;Vieira do Campo;Cancerologista ou Oncologista;Largo Mathias Silveira, 47;daraujo@example.net;04/12/1936;89;08/06/2025;397;5,96;Vendendor_A
+150251;Eduarda Cavalcante;421.385.796-46;Silva;Letrista;Favela Luiz Gustavo Barbosa, 98;ravicavalcante@example.com;06/10/1955;70;02/10/2025;459;6,88;Vendendor_C
+303438;Maria Cecília Cavalcanti;084.135.762-53;Alves;Engenheiro de processos;Jardim de Peixoto, 42;otavio89@example.com;30/11/1957;68;14/01/2025;558;8,37;Vendedor_E
+902116;Srta. Ana Julia Cirino;170.893.462-69;Brito de Minas;Quitandeiro;Rodovia de Sampaio;imendes@example.com;09/05/1994;31;29/07/2025;760;11,4;Vendedor_E
+861434;Guilherme Cavalcanti;182.934.657-19;Montenegro;Motorista;Pátio Breno Barros;carvalhojade@example.net;20/12/2013;12;30/01/2025;661;9,91;Vendendor_A
+537700;Raquel Oliveira;594.621.870-02;da Conceição de Lima;Embalador;Trecho Enzo Melo, 9;vinicius64@example.com;22/05/1970;55;13/05/2025;379;5,68;Vendedor_D
+667933;Dr. Henry Gonçalves;064.329.781-22;da Conceição de Machado;Coveiro/Sepultador;Vale de Almeida, 249;thales25@example.com;06/05/1977;48;27/10/2025;678;10,17;Vendedor_D
+744207;Sra. Maria Luiza Câmara;395.017.862-77;Andrade de Moraes;Instrumentista musical;Conjunto Sales, 91;eloacampos@example.net;10/03/1948;77;11/12/2024;286;4,29;Vendedor_E
+334768;Luísa Marques;473.905.126-52;da Cunha dos Dourados;Pianista;Trevo Bernardo Vieira;luiz-otavioleao@example.org;19/12/1959;66;25/12/2024;544;8,16;Vendendor_B
+828711;Dr. Vicente Oliveira;871.459.320-32;Pacheco do Oeste;Maquinista;Avenida de Fonseca, 14;fernanda23@example.com;01/11/2010;15;23/10/2025;422;6,33;Vendendor_B
+705773;Sr. Theodoro Jesus;920.458.637-00;Cassiano de da Rosa;Webdesigner;Vila de das Neves, 50;matteomendes@example.net;16/06/2012;13;26/01/2025;488;7,32;Vendedor_E
+373267;Arthur Gabriel Sampaio;196.308.547-75;Correia;Percursionista;Vereda de Rodrigues, 2;leopinto@example.org;29/11/1964;61;20/01/2025;978;14,67;Vendendor_B
+905919;Calebe Fogaça;376.182.495-55;Almeida do Galho;Prefeito;Vereda de da Rocha;cmartins@example.net;13/07/1977;48;03/01/2025;493;7,39;Vendedor_E
+627227;Sr. Otávio Pimenta;456.780.923-83;da Cunha da Praia;Tecnólogo em recursos pesqueiros;Colônia de Rodrigues, 80;barbosaarthur@example.org;25/11/2006;19;13/05/2025;224;3,36;Vendendor_A
+465496;Sr. Dom Cassiano;159.634.072-06;Borges;Nutricionista;Lagoa Duarte, 6;luiz-otaviosouza@example.com;10/02/2010;15;10/03/2025;659;9,88;Vendedor_E
+428066;Helena Cassiano;071.645.932-99;Silva de Freitas;Agente penitenciário;Alameda de Vargas, 6;auroraduarte@example.com;14/04/1942;83;27/08/2025;729;10,93;Vendedor_E
+941200;Ravy Dias;560.371.492-16;Moura das Pedras;Técnico em documentação;Estação de Mendes, 28;nogueiraenzo@example.net;07/12/2010;15;29/08/2025;859;12,88;Vendedor_E
+766402;Srta. Maria Luísa Nogueira;471.890.326-22;da Rocha;Matemático;Jardim Luiz Gustavo Nunes, 347;hbarbosa@example.net;15/01/2012;13;06/03/2025;955;14,32;Vendedor_E
+229417;Mirella Fonseca;593.042.618-05;Pastor das Flores;Continuista;Estrada de Montenegro, 45;qda-mota@example.org;26/07/2011;14;14/05/2025;824;12,36;Vendendor_C
+409511;Ester da Paz;405.971.236-16;Araújo;Gestor de tecnologia da informação;Trecho Brenda Andrade, 5;das-nevesmaria-sophia@example.org;01/07/1987;38;31/01/2025;142;2,13;Vendendor_A
+140989;Gabriela Albuquerque;019.546.732-99;Jesus;Investigador de Polícia;Viaduto da Cruz, 30;costeladanilo@example.org;03/10/1965;60;15/06/2025;410;6,15;Vendedor_E
+456185;Marcela da Conceição;269.378.154-09;Cavalcanti de Cirino;Produtor musical;Trecho de Aragão;bpacheco@example.com;19/04/1929;96;07/03/2025;626;9,39;Vendedor_E
+455366;Dr. Vitor Gabriel Pinto;203.479.861-96;Peixoto;Figurinista;Via de Moraes, 471;leandropacheco@example.net;21/09/1939;86;07/09/2025;755;11,32;Vendendor_B
+837137;Ryan Fernandes;964.387.250-56;Aragão;Operador de vídeo;Vereda das Neves, 925;oliveirathales@example.net;31/05/1926;99;07/01/2025;390;5,85;Vendendor_C
+791476;Giovanna da Luz;506.731.824-44;Mendes;Jogador de hóquei;Quadra Bento Castro, 93;ana-livia76@example.com;09/10/1989;36;03/05/2025;187;2,8;Vendendor_B
+615921;Dra. Clarice da Conceição;531.762.480-08;Macedo;Tecnólogo em tecnologia da madeira;Trecho Monteiro, 88;sacecilia@example.com;24/10/1939;86;13/12/2024;714;10,71;Vendendor_A
+782265;Maria Laura Teixeira;470.952.183-23;Ramos de Vasconcelos;Comerciante;Largo Peixoto, 18;da-luzdiogo@example.com;18/06/1938;87;17/11/2024;860;12,9;Vendendor_A
+577684;Dra. Maria Flor Castro;243.061.795-16;Nunes;Radiologista;Chácara Sarah Moura, 26;emartins@example.org;31/10/1911;114;26/05/2025;858;12,87;Vendendor_C
+796470;Elisa Novais;675.380.421-80;Moraes;Contatólogo;Lagoa de Casa Grande, 7;camaralaura@example.org;10/10/2016;9;06/08/2025;407;6,1;Vendendor_B
+970669;Ravy Albuquerque;325.648.091-89;Silveira;Engenheiro florestal;Rodovia João Vitor Pereira, 18;andre08@example.org;20/04/1929;96;16/01/2025;55;0,82;Vendendor_C
+894874;Dr. Rodrigo Campos;150.432.879-50;Vasconcelos;Vendedor;Estação de Sousa, 509;da-rochaclarice@example.org;15/10/2003;22;03/12/2024;568;8,52;Vendendor_A
+926304;Luiz Otávio Câmara;851.047.326-90;Abreu;Gestor de recursos humanos;Conjunto de Silveira, 32;thalesda-rocha@example.net;17/06/1965;60;17/06/2025;976;14,64;Vendendor_A
+904995;Sr. Vinicius Pereira;673.805.419-00;Macedo;Engenheiro industrial;Favela Henry Farias, 91;lopesana-clara@example.net;24/06/1982;43;14/09/2025;757;11,36;Vendendor_B
+814119;Isabelly Santos;069.732.154-16;Moreira;Capitão;Lago Vasconcelos, 260;bella73@example.org;12/09/1915;110;26/11/2024;743;11,14;Vendendor_A
+197223;Dr. Fernando Albuquerque;784.635.021-80;Costela da Praia;Impressor;Estrada Rocha, 581;fonsecaheitor@example.org;17/12/1992;33;16/10/2025;114;1,71;Vendendor_A
+383977;Larissa da Rocha;329.456.018-42;Guerra do Sul;Artista de circo;Loteamento de Gonçalves, 449;xfernandes@example.org;21/09/1911;114;20/06/2025;262;3,93;Vendendor_C
+467260;Isadora da Paz;863.175.904-00;Siqueira;Espeleologista;Conjunto Pastor;sophie65@example.com;02/04/1957;68;31/10/2025;806;12,09;Vendendor_C
+979894;Dr. Lucas Gabriel Garcia;495.361.028-89;Silva;Alergologista;Estrada da Luz, 84;leticiasantos@example.net;03/03/2007;18;30/10/2025;61;0,91;Vendendor_A
+768358;Sra. Sofia Mendonça;365.701.249-43;Câmara do Oeste;Estilista;Loteamento Santos, 2;vasconcelosgabriel@example.org;30/11/1941;84;03/04/2025;322;4,83;Vendendor_C
+136441;Sra. Emanuella Dias;902.645.713-80;Barbosa Grande;Contramestre em transporte marítimo;Avenida Eloah Sales, 9;pachecoyasmin@example.net;19/07/1917;108;26/08/2025;394;5,91;Vendendor_B
+271056;Ana Albuquerque;893.076.241-78;Vargas Alegre;Médico cirurgião;Morro Luiz Fernando Brito, 48;costajoao-pedro@example.org;20/06/1965;60;28/02/2025;295;4,42;Vendedor_E
+842844;Asafe da Luz;347.096.182-40;da Rocha do Amparo;Chefe de cozinha;Parque Ramos;alice85@example.com;21/06/1923;102;01/01/2025;130;1,95;Vendedor_D
+525529;Thomas Vasconcelos;284.753.690-65;Lopes da Prata;Continuista;Rua Kaique Pinto, 72;lizbrito@example.com;29/09/1929;96;17/08/2025;248;3,72;Vendedor_E
+436117;Emilly Fernandes;612.785.304-44;Nascimento;Cancerologista ou Oncologista;Área Juliana Novaes, 68;luna04@example.net;11/12/1986;39;01/12/2024;828;12,42;Vendendor_C
+225144;Murilo Araújo;685.394.170-57;Aparecida;Encarregado de manutenção predial;Sítio Kamilly Vargas, 51;ncunha@example.org;19/05/1979;46;03/04/2025;76;1,14;Vendedor_D
+722079;Sr. Thales Moreira;864.957.310-00;Rezende;Jogador de hóquei;Recanto Mathias Rodrigues, 16;gnovais@example.net;13/12/2006;19;02/09/2025;604;9,06;Vendendor_A
+930176;Kamilly Cassiano;189.065.237-77;Lopes da Praia;Lancheiro;Viaduto Barros, 26;caleb60@example.org;26/07/2019;6;22/06/2025;353;5,29;Vendendor_B
+438106;Srta. Olivia Novaes;249.358.761-82;da Paz do Campo;Xilógrafo;Passarela de Lima, 23;pietrapereira@example.org;10/09/1991;34;02/09/2025;505;7,57;Vendedor_D
+611127;Isis Correia;329.601.854-98;Pimenta das Flores;Parteira tradicional;Núcleo de Freitas, 2;jose-pedrocasa-grande@example.com;07/05/1976;49;25/03/2025;557;8,36;Vendendor_C
+508835;Gabrielly Santos;647.081.253-80;Santos de Caldeira;Salgadeira;Área Nina Fonseca, 532;sara55@example.net;11/03/1988;37;19/02/2025;637;9,55;Vendendor_B
+289814;Ravi Lucca Novaes;425.809.731-41;Montenegro;Montador de negativos;Lago de Fogaça, 99;duartemaria-sophia@example.com;06/10/1948;77;05/04/2025;836;12,54;Vendedor_E
+178070;Danilo Siqueira;476.095.123-70;Montenegro;Cobrador de pedágio;Sítio Pinto;xnunes@example.net;01/09/1919;106;24/02/2025;998;14,97;Vendendor_B
+438497;Apollo Rezende;132.806.759-95;Ribeiro;Instrumentador cirúrgico;Travessa Lucas Gabriel Silva, 581;britoalicia@example.org;31/12/1927;98;03/08/2025;697;10,46;Vendendor_A
+201604;João Lucas da Cruz;890.521.734-60;Guerra;Tecnólogo em negócios imobiliários;Trecho Moreira, 6;larissa18@example.net;12/07/1926;99;16/03/2025;954;14,31;Vendendor_C
+436023;Benicio Farias;859.736.041-01;Freitas dos Dourados;Mototaxista;Via Ana Lívia Brito, 27;mariah42@example.org;18/09/1995;30;18/02/2025;404;6,06;Vendendor_C
+953748;Marina Freitas;160.782.593-77;Peixoto;Cabo;Viaduto de Barbosa, 41;maria-lizcassiano@example.org;08/11/1995;30;13/11/2024;326;4,89;Vendedor_E
+242079;Mariana Ramos;482.965.713-82;Novaes de Siqueira;Técnico em agropecuária;Distrito Anna Liz Aparecida, 40;guilhermeporto@example.com;04/12/1924;101;29/05/2025;679;10,19;Vendendor_B
+515056;João Vitor Ramos;370.651.984-48;Marques das Pedras;Tecnólogo em rochas ornamentais;Trevo de Costela, 1;rpinto@example.com;22/10/2024;1;24/07/2025;114;1,71;Vendedor_E
+925613;Ryan Nascimento;521.076.438-90;Caldeira Grande;Pára-quedista;Sítio de Borges, 752;savitoria@example.net;03/02/1921;104;07/05/2025;460;6,9;Vendendor_B
+510941;Luigi Melo;014.875.239-04;da Mota;Odontopediatra;Quadra Maria Laura Guerra, 87;luiz-gustavo87@example.com;23/11/2005;20;22/08/2025;214;3,21;Vendendor_B
+155534;Matheus Vieira;162.430.985-24;Guerra;Tintureiro;Distrito de Castro, 25;manuelaalmeida@example.com;21/07/1986;39;01/09/2025;543;8,14;Vendendor_C
+555037;Sofia Rios;061.275.384-08;Azevedo;Desembargador de justiça;Rodovia da Mota, 3;britodom@example.org;04/01/1956;69;19/01/2025;905;13,57;Vendendor_A
+243091;Manuella Gonçalves;286.739.541-00;Martins;Gagsman;Avenida Clarice Cassiano, 39;elisamelo@example.org;02/07/1931;94;07/10/2025;521;7,81;Vendedor_E
+758583;Marcelo Mendonça;812.074.965-02;Pacheco de Caldeira;Astronauta;Recanto Bianca Gonçalves, 4;melina92@example.com;08/12/1970;55;10/06/2025;287;4,3;Vendedor_D
+383728;Fernanda da Cunha;217.368.905-30;Mendonça;Assistente de direção;Parque de Casa Grande, 793;fda-cunha@example.org;07/04/1918;107;30/09/2025;670;10,05;Vendendor_B
+887460;Erick da Rosa;104.267.395-07;Albuquerque Paulista;Físico nuclear;Ladeira Costela, 71;fariasana@example.com;15/05/1958;67;27/05/2025;658;9,87;Vendedor_E
+959590;Dra. Bruna Costela;769.203.514-80;Câmara;Flautista;Sítio de Souza, 4;jose19@example.net;01/07/2019;6;02/07/2025;629;9,44;Vendedor_D
+185201;Kevin Gonçalves;130.658.749-20;Fernandes;Paparazzo;Jardim de Moraes, 49;ericksilva@example.net;09/03/1963;62;05/03/2025;720;10,8;Vendendor_B
+838086;João Guilherme da Rosa;164.352.089-05;Pastor;Cantor;Núcleo Pereira, 92;otavio42@example.net;06/10/1935;90;29/12/2024;439;6,58;Vendendor_A
+838549;Valentina Pacheco;637.582.190-86;Ribeiro;Assistente de produção;Distrito de Garcia, 899;gabrielly87@example.net;07/11/1975;50;25/12/2024;255;3,82;Vendedor_D
+303119;Letícia Porto;741.952.680-01;da Paz Verde;Profissional de recursos humanos;Viela de Pires;stephanycosta@example.net;21/05/1915;110;05/05/2025;70;1,05;Vendedor_D
+893820;Arthur Miguel Teixeira;674.852.031-26;Machado;Operador de bombas;Chácara Valentim Mendonça, 35;diaspedro-miguel@example.net;21/04/1963;62;05/08/2025;201;3,01;Vendedor_E
+191478;Dr. Luigi Sousa;823.517.960-12;Casa Grande;Profissional de marketing;Setor de Camargo, 281;machadorhavi@example.net;11/07/1947;78;08/04/2025;56;0,84;Vendendor_A
+922490;Erick Silveira;860.741.295-76;Siqueira de Cassiano;Lapidário;Estrada de Farias, 93;andradezoe@example.org;28/09/1927;98;17/01/2025;271;4,06;Vendendor_C
+694014;Davi Vieira;936.847.025-10;Correia;Profissional de linguística;Setor de Jesus, 1;bruno72@example.com;01/02/1942;83;19/12/2024;854;12,81;Vendedor_E
+426247;Cauã Aragão;428.730.916-22;Cunha;Capelão;Estação de Pereira, 402;miguel50@example.org;24/02/2001;24;29/03/2025;63;0,94;Vendendor_A
+672397;Enzo Gabriel Mendes;831.475.096-48;Costela Verde;Escrivão;Via José Pimenta, 46;ayla72@example.org;05/06/1959;66;10/07/2025;823;12,34;Vendedor_D
+457977;João Lucas Fonseca;371.420.569-16;Dias;Agente de combate à endemias;Parque de Duarte, 56;goncalvesfrancisco@example.org;25/01/1957;68;13/11/2024;309;4,63;Vendedor_D
+221726;Alice Garcia;320.591.876-21;Camargo Alegre;Corretor da bolsa de valores;Travessa Cirino, 6;augusto05@example.com;13/12/1992;33;01/12/2024;740;11,1;Vendedor_E
+859862;Clarice Sá;541.903.762-99;Leão;Tapeceiro;Alameda Thiago Aparecida;jesusarthur-gabriel@example.com;29/10/2019;6;18/03/2025;417;6,25;Vendendor_C
+535625;Heloísa Mendes;469.235.708-83;Rezende Grande;Ceramista;Passarela Monteiro;marcelo69@example.org;23/11/1931;94;13/10/2025;105;1,57;Vendedor_E
+972128;Gabriel Pacheco;864.237.905-74;Alves;Servente-de-obras;Praia Alícia Costa, 50;teixeirabrenda@example.org;20/02/2021;4;13/08/2025;698;10,47;Vendendor_C
+953591;Francisco Farias;759.281.430-79;Leão das Pedras;Ator;Área Bruno Lopes, 3;luiz-henrique95@example.org;30/04/1983;42;24/02/2025;233;3,49;Vendendor_A
+741571;Calebe Câmara;562.784.019-67;Dias de Barbosa;Construtor;Quadra Mariah Fernandes, 16;bda-rocha@example.org;24/04/1973;52;30/01/2025;24;0,36;Vendendor_B
+644059;Enrico Rios;687.901.524-76;Souza;Ortopedista;Largo Nascimento, 34;agatha57@example.org;03/03/1947;78;23/10/2025;281;4,21;Vendendor_A
+397386;Dr. João Gabriel Pacheco;169.542.830-70;Rocha Alegre;Capitão;Lagoa de Pires, 252;raraujo@example.net;22/01/1954;71;27/08/2025;147;2,21;Vendedor_E
+216775;Larissa Pereira;406.531.879-39;Moreira;Mecânico;Travessa Daniel Marques, 2;ana-beatrizfonseca@example.com;29/04/1988;37;12/12/2024;454;6,81;Vendendor_C
+515531;Agatha Lopes;659.148.037-48;Barros de Goiás;Instrumentista musical;Setor Maria da Mota, 40;aurora45@example.net;03/10/1996;29;23/10/2025;383;5,75;Vendendor_C
+373937;Isaac Fonseca;234.687.501-53;Melo;Profissional de marketing;Viela Pietra Moraes, 2;rafaelamelo@example.net;13/12/1990;35;17/05/2025;851;12,76;Vendendor_A
+408496;Emilly Novais;704.961.253-70;Monteiro;Profissional de tecnologia de laticínios;Favela Gonçalves, 88;danielacamara@example.net;23/01/1938;87;19/04/2025;881;13,21;Vendedor_E
+821404;Enzo Peixoto;492.670.581-85;Sá de Brito;Ambulante;Loteamento Theo Siqueira, 330;beniciomontenegro@example.net;24/10/1990;35;16/07/2025;695;10,42;Vendendor_B
+967301;Emanuel Campos;306.529.487-74;Farias;Gerente de inovações ou novos negócios;Viela André da Cunha, 45;antonellada-paz@example.com;19/04/1936;89;21/11/2024;968;14,52;Vendendor_A
+761278;Ana Cecília Pires;576.283.094-29;da Rosa da Praia;Retificador;Área Francisco Jesus, 51;ypimenta@example.net;19/02/1914;111;01/06/2025;616;9,24;Vendendor_A
+394563;Anthony Gabriel da Mota;041.987.235-32;Garcia Alegre;Engenheiro cartográfico;Chácara Daniel Monteiro, 28;lucas-gabriel98@example.org;06/12/2017;8;14/02/2025;809;12,13;Vendendor_A
+112290;Mateus Moraes;784.692.015-49;Borges do Galho;Infectologista;Residencial de Melo, 77;caue63@example.org;30/12/2003;22;04/06/2025;651;9,76;Vendendor_A
+642575;Ana Luiza Aparecida;094.872.513-32;Barbosa do Galho;Técnico em radiologia;Área Freitas, 54;sarah11@example.net;31/08/2008;17;16/04/2025;998;14,97;Vendedor_D
+825999;Maria Eduarda Camargo;869.342.107-78;Fernandes;Matemático;Rodovia Maria Pimenta, 299;aguerra@example.org;08/11/1921;104;04/04/2025;443;6,64;Vendendor_A
+240309;Ana Júlia Silveira;943.670.825-47;Costa da Prata;Corregedor de justiça;Conjunto Bárbara Cunha, 332;cpeixoto@example.net;25/01/2020;5;08/06/2025;952;14,28;Vendendor_C
+220462;Camila Cirino;762.508.349-74;da Luz do Oeste;Gerente de vendas;Trevo de Vasconcelos;samuelcorreia@example.org;07/06/1970;55;16/08/2025;424;6,36;Vendendor_B
+804429;Sr. Ravi Leão;854.260.379-65;Nascimento;Vendedor;Quadra Marina Pinto;juliana53@example.org;09/03/1930;95;12/10/2025;992;14,88;Vendedor_E
+861354;Maria Cecília Viana;941.230.685-70;Ribeiro;Camelô;Avenida Luiz Fernando Teixeira, 84;ravi90@example.org;17/01/1939;86;20/12/2024;694;10,41;Vendedor_E
+409613;Ian Azevedo;079.543.861-39;Rezende de Minas;Contador;Sítio Gabriela da Rocha, 46;theo12@example.net;24/09/2015;10;23/03/2025;92;1,38;Vendendor_A
+616004;Ravy Freitas;874.961.253-00;Rios Verde;Técnico em documentação;Aeroporto Ana Fogaça, 985;luigi26@example.net;05/09/1948;77;01/08/2025;389;5,83;Vendendor_B
+755538;Thales Rodrigues;126.879.540-20;Marques;Lutador de luta livre;Núcleo Apollo Sales, 211;portomaite@example.net;18/12/1992;33;16/12/2024;739;11,08;Vendendor_B
+347337;Dra. Jade Fernandes;367.594.821-82;Gonçalves;Chapeiro;Morro Brayan Mendes, 48;raelda-cunha@example.net;13/06/1920;105;08/03/2025;628;9,42;Vendendor_A
+583070;Carlos Eduardo Nascimento;974.623.158-82;Alves;Instalador de linha telefônica;Pátio Catarina Marques, 12;renan62@example.com;28/01/1966;59;18/12/2024;379;5,68;Vendendor_C
+780070;Lívia Oliveira;713.905.682-02;Silva Grande;Profissional de cinema;Setor Barros, 22;da-matarafael@example.com;24/12/1943;82;17/02/2025;31;0,46;Vendendor_C
+458501;Cecília das Neves;587.426.301-26;Machado;Serralheiro;Núcleo Gabriela Rios, 895;rebecaandrade@example.com;01/06/1972;53;05/12/2024;207;3,1;Vendendor_A
+564643;Allana Camargo;750.389.624-83;da Mota da Praia;Comandante;Vale de Costela, 833;fariasana-sophia@example.net;10/11/1977;48;07/07/2025;279;4,18;Vendendor_B
+958988;Dr. Vinícius Fogaça;291.065.438-98;Peixoto;Orçamentista;Parque Aparecida, 57;moraesmaria-julia@example.com;05/02/1983;42;07/04/2025;646;9,69;Vendendor_B
+846750;Catarina da Cruz;365.924.078-83;Porto;Assistente de câmera;Ladeira de Sampaio, 5;juliana22@example.org;24/01/1963;62;03/08/2025;270;4,05;Vendedor_D
+722351;Sr. Davi Lucas Porto;753.916.028-40;da Cunha;Serventuário;Chácara de Gomes;joao-miguelda-cunha@example.com;10/10/1982;43;01/02/2025;398;5,97;Vendedor_D
+602836;Emilly Câmara;473.180.956-84;Cassiano;Maitre;Lagoa Benicio Melo;vfarias@example.org;09/01/1934;91;18/11/2024;556;8,34;Vendedor_E
+194724;Mariah da Cruz;509.361.247-25;Camargo de Goiás;Telefonista;Setor de Rios, 42;cmendonca@example.net;03/09/2005;20;06/09/2025;5;0,07;Vendendor_C
+116343;Catarina da Cunha;108.534.976-48;Mendonça;Administrador;Avenida Barros, 78;eloaandrade@example.com;11/07/1960;65;20/12/2024;962;14,43;Vendendor_A
+700601;Apollo Jesus;820.791.364-96;Nogueira Alegre;Seguidor de compras;Largo de Campos, 38;souzatheo@example.com;22/08/1958;67;11/05/2025;414;6,21;Vendedor_D
+591305;Davi Miguel Monteiro;503.762.914-43;Freitas de Aragão;Encanador;Jardim Novaes;theo68@example.com;07/07/1994;31;16/09/2025;941;14,12;Vendendor_B
+363526;Srta. Ana Lívia Monteiro;513.608.729-30;Macedo de Santos;Técnico tributarista;Área de Moura, 78;maria-sophiaoliveira@example.net;09/09/1935;90;28/02/2025;309;4,63;Vendedor_E
+685333;Lavínia Marques;294.753.860-92;Melo dos Dourados;Urbanista;Praia Silva, 52;pastormilena@example.net;05/02/2016;9;04/06/2025;742;11,13;Vendendor_C
+403853;Evelyn Duarte;634.270.158-07;Sales;Pediatra;Praia Nascimento, 24;amelo@example.org;24/12/1990;35;08/08/2025;652;9,78;Vendendor_B
+708535;Rafael Ribeiro;192.504.836-51;Campos do Amparo;Capataz;Lagoa de Albuquerque, 906;joao-miguelpastor@example.org;08/06/2001;24;24/02/2025;839;12,58;Vendendor_B
+382496;Pietro Martins;631.709.485-39;Ramos das Flores;Agrimensor;Rua Aparecida;silveiramaya@example.org;06/01/1929;96;14/12/2024;66;0,99;Vendendor_A
+815758;Giovanna Vargas;406.859.372-83;Castro das Flores;Arrumadeira;Rua de Moura, 293;joanamachado@example.com;02/02/2009;16;06/03/2025;111;1,67;Vendendor_A
+511679;Maria Martins;530.647.918-93;Lopes da Mata;Salva-vidas;Viela Azevedo, 84;pintoisaac@example.org;23/08/2021;4;19/01/2025;115;1,72;Vendendor_C
+542935;Calebe Cardoso;562.780.139-59;Campos;Parteira tradicional;Via Maitê da Costa, 6;alicepacheco@example.com;26/07/1988;37;06/05/2025;511;7,67;Vendedor_D
+936084;Zoe Correia;341.985.026-33;Macedo da Serra;Quadrinista;Viela Ravi Pacheco, 801;beatriz40@example.com;05/02/2021;4;13/10/2025;79;1,19;Vendendor_B
+104007;Ana Teixeira;375.182.469-37;Pires de Minas;Timoneiro;Rua de da Cunha, 82;novaisluiz-felipe@example.org;22/03/2024;1;17/06/2025;324;4,86;Vendendor_A
+428772;Rebeca Novaes;169.574.208-76;Dias;Continuista;Largo de Pimenta, 7;apollo03@example.org;20/09/1921;104;26/11/2024;139;2,08;Vendendor_B
+295302;Cecília Andrade;280.596.341-51;Novaes do Norte;Cardiologista;Parque Olívia Lopes, 79;alana60@example.com;24/01/2025;0;13/06/2025;395;5,92;Vendendor_A
+101358;Rafaela Rezende;487.261.930-78;Marques;Borracheiro;Viela Raul Almeida, 600;camila36@example.com;28/01/2002;23;02/05/2025;91;1,36;Vendedor_E
+355202;João Lucas Moraes;953.704.628-10;Sales;Ventríloquo;Largo Melina Novais, 95;maria-flor56@example.net;06/01/1989;36;11/10/2025;759;11,38;Vendendor_A
+452218;Antônio Barbosa;309.526.471-25;Andrade;Administrador público;Colônia Pires, 640;maria-luizaviana@example.net;24/03/2014;11;20/10/2025;301;4,51;Vendendor_C
+976504;Luiza Lima;106.472.859-67;Dias do Oeste;Paisagista;Favela Rodrigo Teixeira;sapedro@example.org;13/07/1975;50;25/11/2024;58;0,87;Vendedor_D
+453701;Liam Novaes;905.172.483-79;Albuquerque;Cabeleireiro;Recanto João Lucas Nunes, 70;santosemanuel@example.net;08/05/1934;91;07/05/2025;454;6,81;Vendedor_D
+247865;Marcela da Paz;364.098.251-70;Sales do Amparo;Ortesista;Recanto de Dias, 61;luigicaldeira@example.com;21/08/1920;105;10/08/2025;415;6,22;Vendendor_A
+419934;Matheus Araújo;160.497.385-48;Peixoto;Engenheiro de produto ou produção;Vereda Vitor Hugo Mendes, 27;brenda46@example.org;27/10/2011;14;10/06/2025;453;6,79;Vendendor_A
+446338;Isabella da Costa;832.476.105-53;Vieira de das Neves;Tenista;Feira José Vieira, 93;pereiraenrico@example.org;16/11/2024;1;04/10/2025;279;4,18;Vendedor_D
+282954;Ana Clara Nunes;574.183.620-80;Campos;Armador;Sítio Isadora Carvalho;silveirahenrique@example.org;30/09/1926;99;25/05/2025;445;6,67;Vendendor_B
+950831;Maria Guerra;064.528.139-51;Gonçalves;Astrônomo;Alameda Marques, 4;ramosbarbara@example.com;16/05/1936;89;14/01/2025;554;8,31;Vendendor_C
+565679;Ana Cecília Dias;530.728.469-10;Mendonça de Novaes;Promotor de eventos;Via de Albuquerque, 89;macedocalebe@example.org;11/07/1987;38;14/07/2025;23;0,34;Vendendor_A
+349982;Gabriela Araújo;184.293.570-41;da Luz;Guitarrista;Loteamento Gael Gomes, 2;aylla87@example.net;06/07/1965;60;15/09/2025;397;5,96;Vendendor_B
+752013;Thales da Conceição;745.018.932-14;Aragão;Viveirista;Rodovia Luna Viana, 398;uda-luz@example.com;12/04/1999;26;20/07/2025;493;7,39;Vendendor_B
+704001;Luiz Henrique Novaes;276.154.830-26;da Rocha Verde;Policial militar;Lagoa Moreira, 954;gabrielcostela@example.com;06/05/1969;56;25/12/2024;411;6,17;Vendendor_C
+486285;Ana Liz Sales;820.617.493-13;Ramos do Galho;Transcritor;Viaduto de Ramos, 78;maria-liz83@example.net;02/05/2024;1;27/02/2025;192;2,88;Vendedor_E
+876080;Letícia Siqueira;473.286.019-22;Gomes da Praia;Técnico em agropecuária;Núcleo Gustavo Henrique Melo, 730;brenda18@example.org;04/07/2021;4;01/11/2025;226;3,39;Vendendor_C
+662516;Valentim Santos;154.763.289-55;Ramos do Campo;Corretor de imóveis;Recanto Enzo Gabriel Correia, 54;pimentadanilo@example.com;19/12/1953;72;22/10/2025;969;14,54;Vendendor_C
+344750;Sra. Sophie Alves;130.864.579-10;Cavalcante de Moura;Prensista;Morro João Guilherme Santos, 6;ana-liviasouza@example.com;27/02/1920;105;20/02/2025;471;7,06;Vendendor_B
+529670;Diego Sousa;820.695.417-11;da Cunha da Mata;Embaixador;Via Lima, 2;da-rochastella@example.org;20/08/1921;104;03/10/2025;809;12,13;Vendedor_E
+466747;Bento Moraes;025.134.786-90;Viana de Barros;Engenheiro de telecomunicações;Viela Rezende;camilacavalcanti@example.com;26/05/1948;77;18/06/2025;961;14,41;Vendendor_B
+705847;Liz Sampaio;082.371.596-59;Fernandes Grande;Atuário;Núcleo Rios;das-nevesisabelly@example.net;12/09/1970;55;05/09/2025;339;5,08;Vendendor_C
+415940;Olivia Nascimento;840.763.519-75;Rezende do Norte;Cinematográfo;Quadra Santos, 62;borgesvalentim@example.org;02/09/1961;64;24/02/2025;663;9,95;Vendedor_E
+332041;Ana Clara da Luz;580.942.713-88;Borges de Porto;Profissional de relacionamento com investidores RI;Colônia Maya Mendes, 92;rmonteiro@example.org;25/06/1983;42;01/05/2025;174;2,61;Vendendor_B
+768558;Ian Alves;403.287.951-60;Brito do Galho;Odontopediatra;Feira Ester das Neves, 3;liviaferreira@example.com;20/05/1973;52;10/07/2025;491;7,36;Vendedor_D
+376001;Leonardo Viana;945.281.360-15;Rezende das Flores;Profissional de manutenção industrial;Lago Nunes, 82;da-cruzdaniel@example.org;11/01/1990;35;14/02/2025;538;8,07;Vendedor_E
+299821;Rafael Campos;237.854.609-29;Pacheco;Oceanógrafo;Distrito José Abreu, 42;enzo-gabrielcirino@example.org;11/04/1942;83;26/03/2025;882;13,23;Vendedor_D
+184099;Laís Brito;157.230.648-35;Rocha;Dançarino;Estação Ian Aragão, 18;ana-luiza35@example.org;11/05/1930;95;15/04/2025;394;5,91;Vendedor_D
+579262;Maysa Fernandes;321.986.705-77;da Rosa Alegre;Paparazzo;Conjunto Gonçalves, 299;eloaalmeida@example.org;09/04/1957;68;29/07/2025;848;12,72;Vendendor_A
+923260;Dra. Isabelly Fernandes;963.051.487-75;Silveira;Cobaia Médica;Trecho de Melo, 976;andradeisabela@example.com;24/08/2008;17;23/05/2025;43;0,65;Vendedor_D
+182228;Sra. Sophia Cavalcante;895.602.437-56;Vasconcelos de Barros;Físico;Sítio Aparecida, 298;abreurebeca@example.org;11/06/1937;88;10/11/2025;87;1,3;Vendendor_B
+911664;Alícia Garcia;815.709.264-76;Leão da Praia;Apresentador;Conjunto Cauê Moreira, 1;fernandafogaca@example.net;28/11/2002;23;21/05/2025;793;11,89;Vendendor_B
+359314;Sophie Machado;819.305.627-21;Porto;Juiz de futebol;Alameda de Peixoto, 60;yalves@example.net;02/06/1969;56;02/05/2025;727;10,9;Vendedor_D
+604361;Stella Mendonça;927.168.035-95;Cavalcanti;Gerente de vendas;Estação Maria Sophia Cardoso, 19;tfarias@example.com;19/02/1982;43;01/05/2025;812;12,18;Vendendor_C
+511789;Srta. Zoe da Mata;748.125.960-76;Nascimento da Serra;Chargista;Vereda Heitor Freitas, 6;omartins@example.com;20/09/2008;17;16/01/2025;111;1,67;Vendendor_C
+820019;Maria Cecília Nascimento;951.436.082-60;Melo de Moraes;Radialista programador;Travessa Vargas, 2;pereirabianca@example.net;14/06/1981;44;06/09/2025;999;14,98;Vendendor_B
+928671;Dr. Henry Gabriel Santos;237.859.041-50;Andrade;Ator;Jardim Jesus;augusto78@example.org;16/03/2010;15;25/09/2025;164;2,46;Vendedor_E
+843428;Hadassa Nascimento;918.706.523-12;Mendonça;General;Rodovia Porto, 267;pimentacaua@example.net;18/01/1943;82;18/04/2025;952;14,28;Vendendor_C
+645322;Ayla da Conceição;538.426.107-26;Albuquerque de Castro;Tabelião;Via Luiza Novais;emanuelly28@example.org;21/11/2013;12;23/10/2025;181;2,71;Vendendor_B
+753306;Ísis Lopes;461.257.803-17;Sá das Pedras;Jogador de handebol;Conjunto da Cruz;ngoncalves@example.net;26/08/2022;3;17/12/2024;131;1,96;Vendendor_C
+442682;Ryan Camargo;398.521.647-91;Nascimento Verde;Manobrista;Aeroporto Lima, 15;lorenaazevedo@example.net;06/09/2006;19;15/07/2025;864;12,96;Vendendor_A
+752380;Igor da Rosa;279.608.534-10;Guerra;Avalista;Praça Farias;maria-sophiasales@example.net;22/12/2023;2;09/03/2025;523;7,84;Vendendor_A
+599349;Rafael Rios;197.523.064-70;Pastor da Prata;Agente de defesa sanitária;Recanto da Rocha;agathasiqueira@example.net;02/04/1946;79;19/01/2025;429;6,43;Vendendor_A
+688083;Ísis Moraes;980.125.473-41;Guerra;Capelão;Loteamento Oliveira, 63;barbosamaria-julia@example.com;05/07/1978;47;15/04/2025;439;6,58;Vendendor_C
+586187;Raquel Costela;425.917.063-52;Monteiro;Percursionista;Rodovia Zoe Novais, 3;fonsecagael@example.org;18/07/1958;67;25/07/2025;751;11,26;Vendedor_E
+795787;Ana Vitória Cirino;102.793.458-79;Campos Paulista;Intérprete;Distrito de Cassiano, 77;das-nevesyuri@example.com;25/01/1914;111;03/08/2025;935;14,03;Vendendor_B
+355161;Alícia Lima;429.618.750-30;Pastor;Paginador;Recanto Marques, 1;hellena94@example.org;29/03/2015;10;19/07/2025;294;4,41;Vendedor_D
+890864;Melissa Vieira;142.386.509-05;Vasconcelos;Florista;Viela Mateus Pires, 455;machadoana-clara@example.net;06/12/1998;27;27/02/2025;260;3,9;Vendendor_B
+186886;Matteo Leão;051.729.468-02;Aparecida Alegre;Webmaster;Área de da Paz, 12;apollo72@example.org;12/09/1997;28;06/10/2025;202;3,03;Vendedor_E
+427441;Srta. Sara Castro;609.837.152-03;Dias de Mendonça;Quiropraxista;Colônia Ana Júlia Azevedo, 99;manuellaaraujo@example.net;02/02/1911;114;20/09/2025;888;13,32;Vendendor_C
+997555;Ana Carolina Gonçalves;407.382.159-88;Azevedo;Procurador de justiça;Pátio Rodrigues, 10;giovannada-paz@example.org;25/01/2023;2;03/05/2025;724;10,86;Vendedor_D
+868661;Dra. Lavínia Costela;196.380.427-96;Silva;Tecnólogo em tecnologia da madeira;Alameda de Macedo, 614;teixeiradavi-luiz@example.org;26/03/1921;104;13/12/2024;623;9,34;Vendendor_C
+334088;Dra. Lorena Casa Grande;180.794.632-04;Oliveira da Serra;Editor;Lagoa Pacheco, 51;brayanrodrigues@example.net;12/09/2007;18;21/12/2024;103;1,54;Vendendor_B
+870768;Sophie Jesus;340.612.579-43;Pastor de Sá;Radialista;Setor de Sampaio;antonio33@example.net;29/11/1928;97;11/09/2025;123;1,84;Vendendor_C
+607527;Mirella Pereira;564.209.318-51;Fernandes;Tabelião;Área de Alves, 667;tcavalcanti@example.org;18/12/2002;23;05/07/2025;193;2,9;Vendedor_E
+853755;Dra. Sabrina Andrade;264.379.058-83;da Cunha;Lavador;Lago de da Rosa, 96;zmendonca@example.net;21/02/1963;62;10/04/2025;126;1,89;Vendendor_C
+490638;Alícia Santos;380.597.642-92;Porto;Porteiro;Lago da Conceição, 33;joaquimgarcia@example.net;17/08/2025;0;19/10/2025;503;7,54;Vendedor_E
+500459;Gustavo Borges;318.570.426-62;da Cruz;Acompanhante;Vila de Cavalcanti, 17;ymontenegro@example.com;15/02/1917;108;24/11/2024;785;11,78;Vendendor_B
+693756;Juliana Dias;243.519.076-06;Porto do Sul;Estivador;Via de Costela, 91;opires@example.net;07/07/1999;26;09/05/2025;263;3,94;Vendendor_C
+185518;Aylla Viana;031.759.468-01;Sousa;Militar da Aeronáutica;Estação Caio Souza;zsa@example.org;27/12/2021;4;22/01/2025;610;9,15;Vendendor_C
+363892;Esther Pinto;503.692.417-70;das Neves dos Dourados;Engenheiro de controle e automação;Área Lopes, 83;voliveira@example.com;06/04/1981;44;23/12/2024;970;14,55;Vendendor_B
+779380;Gustavo Sá;918.472.503-60;Moura Alegre;Optometrista;Vale Pimenta, 90;bianca96@example.com;30/10/1961;64;15/07/2025;401;6,01;Vendendor_B
+142876;Marcela Abreu;741.962.503-43;Moreira da Mata;Jornaleiro;Setor de Sales, 34;camarabianca@example.com;09/06/1984;41;05/09/2025;828;12,42;Vendendor_A
+917109;Hellena Rodrigues;856.971.423-82;Pimenta da Prata;Neurologista;Loteamento de Pinto, 59;ycostela@example.com;14/05/2012;13;13/12/2024;280;4,2;Vendedor_D
+257878;Raul Ribeiro;198.357.462-73;Fogaça;Auditor;Estrada de Pacheco, 41;vrodrigues@example.org;20/06/1982;43;05/04/2025;712;10,68;Vendedor_E
+209526;Léo Correia;410.395.278-41;Silva;Tradutor;Via Campos, 67;maysamelo@example.net;02/06/2015;10;24/10/2025;386;5,79;Vendendor_B
+852999;Caroline Machado;612.043.785-17;Sousa Verde;Moleiro;Loteamento de Vieira, 22;allana64@example.org;08/04/2000;25;10/04/2025;482;7,23;Vendendor_A
+469113;Raquel Campos;609.314.285-05;Novais do Sul;Cobrador de ônibus;Colônia Josué Câmara, 862;brunaguerra@example.net;16/05/1914;111;17/05/2025;683;10,24;Vendendor_C
+256958;Gabriel Cassiano;913.275.840-50;Machado do Galho;Profissional de tecnologia de laticínios;Parque Campos, 40;gael-henriquegomes@example.com;28/03/1934;91;06/11/2025;453;6,79;Vendendor_B
+482269;Luiz Miguel Pires;308.625.749-00;Garcia dos Dourados;Aeroviário;Rua Freitas;lopesjoao-lucas@example.net;22/10/1980;45;22/12/2024;351;5,26;Vendedor_E
+599538;Maria Sophia Rios;604.287.315-62;da Mata;Mecânico;Fazenda de Campos, 794;thiago42@example.com;21/12/1922;103;27/10/2025;883;13,24;Vendendor_C
+389896;Ana Beatriz Andrade;731.640.859-66;Macedo das Pedras;Polidor de produção;Lagoa da Luz;yda-conceicao@example.net;31/08/2017;8;02/03/2025;613;9,2;Vendendor_B
+458775;Gabriela Almeida;918.356.240-06;Pacheco;Engenheiro de transportes;Loteamento Fernandes;maria-clara12@example.com;20/10/2002;23;09/01/2025;866;12,99;Vendedor_D
+229784;Pedro da Rosa;058.792.364-47;Albuquerque do Norte;Técnico em aviação;Quadra de Garcia, 5;sabrinaalbuquerque@example.org;26/02/1949;76;17/06/2025;721;10,81;Vendedor_E
+222781;Esther Peixoto;638.549.170-66;Azevedo da Mata;Remador;Chácara de Martins;glima@example.org;31/05/1936;89;30/10/2025;156;2,34;Vendedor_D
+410012;Kevin Mendes;418.073.526-17;Moreira;Mergulhador;Residencial de Lima, 46;coliveira@example.org;06/08/2017;8;18/02/2025;857;12,85;Vendendor_A
+334049;Srta. Agatha Peixoto;895.741.023-60;Pinto;Gastroenterologista;Jardim de Silveira, 51;olivia85@example.net;01/01/2023;2;10/11/2025;400;6,0;Vendedor_E
+265061;Dr. José Pedro Araújo;804.576.312-44;Fonseca de da Mota;Topógrafo;Lagoa de Gonçalves, 43;gael-henrique22@example.net;17/07/1925;100;12/02/2025;994;14,91;Vendendor_A
+657269;Zoe Viana;120.349.768-78;Novaes de Fernandes;Sapateiro;Favela Farias, 16;sleao@example.org;18/09/1987;38;17/09/2025;239;3,58;Vendendor_B
+900342;Isaac Caldeira;937.160.245-70;Cunha de Silveira;Modelista;Distrito Albuquerque, 810;bianca31@example.org;03/10/1999;26;09/11/2025;63;0,94;Vendedor_E
+196472;Dr. João Miguel da Rosa;079.385.462-83;Araújo;Profissional de tecnologia de laticínios;Lago Machado, 45;tabreu@example.org;22/12/1976;49;10/11/2025;795;11,92;Vendendor_B
+190590;Alícia Martins;436.971.502-43;Pinto;Fundidor de placa de gesso;Morro de Correia, 98;da-conceicaohadassa@example.org;17/07/1934;91;19/06/2025;487;7,3;Vendendor_A
+742147;Sr. João Guilherme Moreira;563.179.428-46;Peixoto das Pedras;Agente comunitário de saúde;Praia Sabrina Cunha, 28;da-conceicaoarthur-gabriel@example.net;20/03/1974;51;15/02/2025;496;7,44;Vendedor_D
+627540;Caleb Vasconcelos;426.087.159-58;da Costa de Garcia;Maestro;Área de Farias, 9;santoseduarda@example.net;19/10/1978;47;11/11/2024;266;3,99;Vendendor_A
+342130;Sra. Helena Fernandes;032.896.514-60;Sá;Personal stylist;Colônia de Vasconcelos, 78;mariane62@example.net;09/02/2020;5;16/06/2025;686;10,29;Vendendor_C
+891817;Isabela da Conceição;023.915.864-42;Porto Grande;Técnico em edificações;Jardim Lopes, 18;casa-grandeclara@example.org;23/04/2004;21;06/05/2025;133;1,99;Vendedor_D
+235348;Nicolas Cardoso;813.257.960-77;Fonseca Alegre;Zootecnista;Jardim Costa;rezenderaul@example.com;26/05/1975;50;09/05/2025;29;0,43;Vendendor_A
+179728;Mariane Dias;420.756.813-17;Brito;Digitador;Jardim Arthur Miguel Pinto, 13;otto49@example.com;10/03/1952;73;13/07/2025;605;9,07;Vendendor_A
+951574;Bianca da Conceição;825.471.096-11;Moreira;Dentista;Campo de Freitas, 939;anna-lizda-conceicao@example.net;01/01/1963;62;06/11/2025;923;13,84;Vendendor_C
+440067;Maria Sophia Mendonça;981.520.634-60;da Cunha;Agente de defesa sanitária;Vereda Câmara, 1;vitor-hugoaraujo@example.org;11/06/1929;96;14/07/2025;952;14,28;Vendendor_B
+638100;Pedro Macedo;485.061.923-15;Câmara da Mata;Cinegrafista;Área Larissa Moraes, 69;antonio98@example.com;27/01/2007;18;27/12/2024;196;2,94;Vendendor_C
+901717;Isis Sá;457.213.869-91;Aparecida;Funileiro;Largo Sampaio, 8;ucamargo@example.com;29/07/1940;85;07/10/2025;964;14,46;Vendedor_E
+737003;Hadassa Sousa;307.296.845-47;Rios;Juiz de direito;Viela de Siqueira, 87;pcirino@example.com;11/04/2002;23;16/10/2025;183;2,75;Vendedor_E
+271191;Pedro Henrique Pires;150.782.936-12;Ferreira;Webdesigner;Avenida de Moreira, 24;francisco79@example.org;16/07/1939;86;18/10/2025;453;6,79;Vendendor_C
+900594;Valentina Vasconcelos;684.031.597-57;Macedo Grande;Contábil;Trecho de Mendonça, 31;claricenascimento@example.net;21/12/1911;114;04/06/2025;26;0,39;Vendedor_D
+170656;Yasmin Novais;254.018.736-62;Azevedo;Jogador de tênis de mesa;Vale Farias;omoura@example.net;04/05/2008;17;25/07/2025;461;6,92;Vendedor_E
+907458;Caroline Pires;175.638.402-90;da Luz de Pires;Ajudante de produção;Aeroporto de Araújo, 366;francisco36@example.com;03/11/1994;31;26/01/2025;30;0,45;Vendendor_B
+961886;Ana Sophia Correia;687.105.439-10;Silveira do Sul;Vigia parlamentar;Distrito Lucas Moreira, 89;bsales@example.net;10/10/1997;28;27/07/2025;269;4,04;Vendendor_B
+731505;Srta. Sophie Machado;087.263.159-12;Camargo das Flores;Acupunturista;Feira Vasconcelos, 5;upimenta@example.com;25/12/2017;8;17/09/2025;744;11,16;Vendendor_B
+886175;Brenda Campos;863.502.147-90;Silva de Montenegro;Cobrador de pedágio;Viaduto de Campos, 54;oda-cruz@example.net;18/10/1974;51;21/06/2025;178;2,67;Vendendor_B
+466104;Camila Brito;601.945.238-70;Caldeira Grande;Operador de telemarketing;Viaduto da Rosa, 2;da-cruzmaria-sophia@example.net;12/05/1949;76;19/04/2025;687;10,3;Vendedor_D
+945207;Alexia Cunha;587.263.490-00;Viana;Matemático;Lagoa de Albuquerque, 249;murilo88@example.org;25/10/1938;87;07/08/2025;83;1,24;Vendendor_A
+268424;Anna Liz Sá;073.521.849-88;Brito;Guardador de veículos;Ladeira Novaes;mramos@example.net;08/07/1984;41;31/07/2025;898;13,47;Vendendor_C
+904093;Antony Rodrigues;063.189.274-50;Marques Grande;Embalador;Feira de Lopes, 17;nmendes@example.net;10/09/1996;29;12/01/2025;583;8,74;Vendendor_B
+206816;Paulo Leão;216.570.984-94;Cavalcanti do Sul;Karateca;Parque Ribeiro, 80;pereiravitoria@example.com;19/10/1978;47;16/12/2024;58;0,87;Vendendor_C
+471694;Isabelly Rodrigues;784.901.532-05;Pacheco Verde;Engenheiro de iluminação;Viela de da Paz, 64;zoe72@example.com;17/10/1940;85;08/12/2024;439;6,58;Vendedor_D
+442246;Sra. Maria Helena Alves;456.701.839-75;Rocha da Mata;Argumentista;Distrito Allana da Conceição, 12;aaragao@example.com;04/02/1992;33;23/01/2025;672;10,08;Vendendor_B
+599518;Matheus Pimenta;208.651.439-51;Rodrigues;Apontador de mão-de-obra;Colônia João Gabriel da Costa, 22;juliamoreira@example.org;12/01/1938;87;14/09/2025;291;4,37;Vendedor_D
+519262;Samuel Leão;248.590.137-60;Carvalho;Promotor de eventos;Viaduto de Moreira, 6;vasconceloscatarina@example.com;22/02/1920;105;31/05/2025;827;12,4;Vendedor_E
+793040;Isadora Rezende;469.035.827-38;da Mota das Flores;Ambientalista;Vereda de Porto, 4;marcelo42@example.com;10/05/1969;56;16/09/2025;451;6,76;Vendendor_B
+350181;Liam Barbosa;709.168.542-30;Nogueira;Percursionista;Conjunto de Moura, 10;lorenavasconcelos@example.net;08/08/2025;0;10/10/2025;135;2,02;Vendedor_D
+694942;Alícia Monteiro;674.513.890-57;Peixoto;Comandante;Largo Ramos, 9;erickmendes@example.com;18/08/1910;115;17/12/2024;991;14,87;Vendedor_E
+317864;Dr. Bryan da Luz;816.750.934-66;Pereira;Personal stylist;Setor Henrique Carvalho, 87;siqueiraagatha@example.org;08/03/1946;79;02/11/2025;31;0,46;Vendedor_D
+290503;Heitor Nunes;598.473.162-28;da Conceição;Pastilheiro;Parque de Siqueira, 44;gael22@example.net;20/11/2024;1;11/06/2025;134;2,01;Vendendor_A
+737534;Isaque da Costa;423.695.017-07;Araújo;Argumentista;Fazenda Alana Rezende, 91;milena19@example.org;26/01/1928;97;03/04/2025;134;2,01;Vendendor_A
+344502;Calebe Teixeira;673.198.502-30;Pires de Caldeira;Meteorologista;Rodovia Ana Sophia Andrade, 81;gustavocirino@example.com;01/11/1941;84;27/11/2024;459;6,88;Vendendor_B
+769892;Agatha Melo;430.152.768-08;Costa;Maitre;Loteamento Pereira;diasmariane@example.org;16/10/1997;28;25/05/2025;402;6,03;Vendendor_B
+681082;Benjamin Cirino;024.619.853-24;Macedo do Norte;Percursionista;Viaduto Albuquerque, 79;leo73@example.net;09/11/2012;13;02/12/2024;837;12,55;Vendedor_E
+435101;Benicio Peixoto;695.721.843-00;Ribeiro;General;Rua de Ribeiro, 8;gabrielasilveira@example.net;01/04/1942;83;03/05/2025;387;5,8;Vendendor_B
+665620;Daniela Sá;932.504.786-10;Aparecida do Campo;Operador de telemarketing;Conjunto Renan Mendes, 39;cunhahenrique@example.com;07/02/1917;108;12/11/2024;640;9,6;Vendendor_B
+289993;Laís Peixoto;462.859.713-82;Viana de Nogueira;Cartógrafo;Viela Macedo, 29;theodorosantos@example.org;01/11/1954;71;01/09/2025;805;12,07;Vendendor_B
+709067;Caleb da Mota;642.918.057-30;Cavalcante de Andrade;Técnico em hardware;Pátio Luiz Henrique Jesus;mmarques@example.org;23/04/1945;80;13/04/2025;621;9,31;Vendendor_B
+971188;Paulo Alves;935.604.871-10;Duarte;Passador;Praça Francisco Pacheco, 3;catarina37@example.org;27/02/1974;51;16/12/2024;902;13,53;Vendedor_D
+605110;Heloisa Santos;572.804.693-29;Andrade;Juiz de futebol;Recanto José Pedro Campos, 422;theodoroda-luz@example.net;19/10/1932;93;23/02/2025;528;7,92;Vendendor_B
+177720;Eloá Martins;978.521.064-20;Teixeira;Cabo;Ladeira de Lima, 512;benicio83@example.com;02/05/1994;31;30/01/2025;575;8,62;Vendedor_E
+956505;Benicio Lima;971.068.534-10;Almeida;Psicólogo;Vale Cunha, 40;lavinia00@example.net;23/02/1999;26;27/01/2025;896;13,44;Vendedor_D
+102145;José Vasconcelos;305.712.869-68;Cirino;Coveiro/Sepultador;Via Antony Silva, 367;da-cruzpietra@example.org;01/07/1946;79;17/06/2025;875;13,12;Vendedor_D
+389969;Alexandre Garcia;362.178.049-13;Silveira Alegre;Ceramista;Área Luiz Felipe Vasconcelos, 10;luizajesus@example.com;29/10/1938;87;24/05/2025;39;0,58;Vendedor_E
+451585;Hadassa Viana;518.392.076-12;Câmara;Técnico em arquivo;Condomínio de Pires, 3;theodorocarvalho@example.net;02/03/1945;80;27/02/2025;349;5,23;Vendedor_D
+121553;Maria Clara Albuquerque;034.296.857-29;Duarte das Flores;Geógrafo;Trevo Casa Grande, 74;da-cunhaana-carolina@example.org;24/06/1965;60;10/01/2025;879;13,18;Vendendor_A
+747007;Vinicius Pires;924.810.736-22;Viana;Porteiro;Feira de Leão;daniela13@example.com;27/12/1969;56;10/03/2025;820;12,3;Vendendor_C
+890734;Srta. Alexia das Neves;823.614.079-22;Martins;Engenheiro de minas;Setor Laura Rodrigues, 8;fariassara@example.com;01/05/1985;40;05/02/2025;303;4,54;Vendendor_A
+740251;Melina Costela;258.036.174-07;Montenegro de Vieira;Supervisor;Vale de Porto, 630;laisda-luz@example.com;06/11/1992;33;20/05/2025;387;5,8;Vendedor_E
+424917;Yuri Vasconcelos;970.316.258-40;Gonçalves do Oeste;Orçamentista;Residencial Sá, 53;freitasenrico@example.com;10/11/2002;23;07/04/2025;393;5,89;Vendendor_B
+588713;Gustavo Oliveira;892.531.046-51;Dias;Infectologista;Fazenda Heitor Costa, 13;yteixeira@example.net;25/03/1981;44;10/09/2025;129;1,93;Vendendor_A
+799273;Larissa Câmara;895.607.431-39;Rios;Pesquisador;Chácara Diogo Rodrigues, 625;andradelorenzo@example.org;15/05/1985;40;19/11/2024;496;7,44;Vendendor_B
+920990;João Pedro Almeida;318.579.406-01;Lopes Verde;Cambista;Praia Fonseca, 80;andrademarina@example.org;04/05/1912;113;31/08/2025;744;11,16;Vendendor_C
+539135;Otto da Cunha;412.079.683-31;Vargas Grande;Militar da Marinha;Feira Leão, 8;henry-gabrielmachado@example.com;08/07/2003;22;05/11/2025;234;3,51;Vendedor_D
+589667;Marina Pereira;315.789.246-00;Cunha Grande;Polidor de produção;Rodovia de Castro;joao-miguelalves@example.org;03/03/1912;113;14/11/2024;439;6,58;Vendendor_C
+794680;Maria Luiza Caldeira;024.758.613-71;Cavalcante da Praia;Tenente;Feira de da Rocha, 28;ana-beatriz43@example.net;03/02/1946;79;13/10/2025;590;8,85;Vendendor_A
+101736;Luna Borges;859.362.074-47;Porto do Oeste;Jogador de futebol;Conjunto Laura Jesus, 53;liviasilva@example.com;08/02/2020;5;11/05/2025;919;13,79;Vendedor_D
+630150;Kaique da Cunha;234.610.978-96;Araújo de Barbosa;Funileiro;Via de Brito, 16;bryan20@example.com;31/01/2009;16;15/12/2024;442;6,63;Vendedor_D
+223897;Noah da Luz;251.483.097-41;Silveira do Galho;Florista;Pátio de Lima, 48;leaocaroline@example.org;01/03/2024;1;05/02/2025;802;12,03;Vendedor_D
+567103;Isabela Mendes;746.582.391-91;Albuquerque;Cartógrafo;Favela Borges, 76;isaque86@example.com;25/06/1911;114;29/08/2025;366;5,49;Vendendor_A
+241017;Camila da Luz;731.240.865-62;Sousa;Caminhoneiro;Favela da Cunha;asafecasa-grande@example.org;30/06/1964;61;28/06/2025;980;14,7;Vendendor_B
+302799;Vitor Hugo Campos;471.263.085-07;Rezende;Tecnólogo em negócios imobiliários;Rua Ana Lívia Azevedo, 789;guilherme18@example.com;10/01/1984;41;01/09/2025;666;9,99;Vendendor_A
+328153;Valentina Montenegro;169.740.852-49;Cavalcante;Neurocirurgião;Rua de Campos, 7;anthony12@example.org;09/04/1960;65;25/07/2025;211;3,17;Vendendor_A
+716969;Nina Fernandes;543.872.906-92;da Paz;Pintor;Colônia Alves;da-conceicaomurilo@example.net;27/05/1920;105;02/04/2025;338;5,07;Vendedor_D
+565830;Davi Lucas Pastor;348.719.520-88;Carvalho;Advogado;Via Leonardo Sampaio, 9;pastorravy@example.org;16/06/1910;115;03/05/2025;946;14,19;Vendedor_D
+901250;Yago Moreira;685.302.794-92;Pacheco do Sul;Cardiologista;Largo Cirino, 735;gael-henriqueduarte@example.org;14/01/1935;90;08/01/2025;145;2,17;Vendedor_D
+701102;Ana Clara Machado;350.876.921-68;Monteiro Grande;Cineasta;Jardim Ravi Lucca Pastor, 65;benjamin64@example.com;09/04/1990;35;06/07/2025;868;13,02;Vendedor_E
+144073;Danilo Costa;342.871.965-46;Gomes;Retificador;Viela de Montenegro, 81;ccirino@example.com;23/04/1965;60;01/09/2025;934;14,01;Vendedor_D
+890221;Henrique da Paz;509.287.164-49;Sousa;Webmaster;Viela Pires, 3;lais81@example.com;15/05/1973;52;02/05/2025;70;1,05;Vendendor_B
+138223;Dr. Léo Casa Grande;859.372.041-23;Nogueira do Sul;Catador de material reciclável;Setor Moreira;da-pazmaria-alice@example.org;01/08/1954;71;10/10/2025;735;11,03;Vendendor_B
+756392;Caio Duarte;930.516.478-10;Pereira;Vereador;Morro da Costa, 11;ravyribeiro@example.net;21/01/1995;30;23/04/2025;292;4,38;Vendedor_E
+535063;Ester Albuquerque;857.491.630-75;Nascimento;Arquiteto;Favela Alice Marques, 2;augusto50@example.org;17/01/1992;33;28/05/2025;720;10,8;Vendedor_E
+523177;Miguel Cirino;576.809.123-86;da Rosa;Artista plástico;Rua da Rosa, 38;guerrakevin@example.net;22/01/1932;93;15/07/2025;91;1,36;Vendendor_C
+559050;João Vitor Ribeiro;203.785.691-12;Marques de Goiás;Agente funerário;Setor Cunha, 43;pedro-miguelvargas@example.net;29/05/1975;50;13/05/2025;904;13,56;Vendendor_A
+827873;Carlos Eduardo Santos;659.014.283-15;Lima;Kite-surfer;Condomínio Ramos, 17;dmonteiro@example.net;05/01/1932;93;22/04/2025;986;14,79;Vendendor_A
+814910;Ravi Lucca Correia;731.856.940-66;Silva do Sul;Tecnólogo em produção de bebidas;Vila Fonseca, 81;laviniaguerra@example.org;26/06/2024;1;14/06/2025;828;12,42;Vendedor_D
+615573;Otávio Silva;519.064.382-42;Moraes Alegre;Zelador;Parque Luísa Duarte, 22;umonteiro@example.net;20/04/1935;90;31/05/2025;746;11,19;Vendendor_B
+699768;Otávio da Luz;674.523.190-52;Fonseca Alegre;Empregado doméstico;Núcleo de Gonçalves;anna-lizgomes@example.org;05/08/1985;40;08/04/2025;154;2,31;Vendendor_C
+252897;Henry Gabriel Correia;246.719.035-80;da Rosa de Correia;Zootecnista;Parque Maria Júlia Moreira, 337;ianrios@example.net;11/04/1965;60;04/06/2025;854;12,81;Vendedor_D
+592124;Dra. Ana Beatriz Martins;021.593.864-05;Rios da Prata;Ourives;Estação de da Rocha, 93;hmartins@example.com;19/05/1966;59;09/08/2025;806;12,09;Vendendor_B
+359054;Gabrielly Abreu;750.649.123-07;Carvalho;Escrivão;Fazenda Mariane Guerra, 84;thomas98@example.net;18/05/2023;2;23/07/2025;699;10,48;Vendendor_B
+232286;Ravy Andrade;865.917.243-46;Monteiro;Grafologista;Vereda Noah Campos, 30;enricoda-mata@example.net;27/08/1956;69;03/10/2025;974;14,61;Vendendor_B
+798308;Helena da Costa;374.061.529-06;da Rocha de Minas;Instrutor;Alameda Henry Guerra, 80;rodriguesalexandre@example.net;04/03/2015;10;28/02/2025;879;13,18;Vendendor_A
+747544;Dr. Eduardo Lima;790.486.152-67;Silva do Campo;Corretor da bolsa de valores;Avenida Correia;henry71@example.net;18/11/2024;1;30/08/2025;650;9,75;Vendendor_C
+918811;Dr. Antony Monteiro;648.972.015-94;da Costa do Sul;Sexólogo;Lago Eloá Sampaio, 57;maria-fernanda41@example.net;27/05/1946;79;10/08/2025;517;7,75;Vendendor_B
+161729;Caleb Alves;927.645.310-52;Caldeira da Prata;Auditor;Lago Juan Correia, 6;mathiascastro@example.org;10/10/1987;38;08/06/2025;943;14,14;Vendedor_E
+451438;Dr. Marcos Vinicius Souza;624.517.903-34;Novais;Gerente de vendas;Feira de da Cunha, 70;luarada-mata@example.org;05/03/1974;51;12/09/2025;391;5,87;Vendendor_B
+483390;Gael Sousa;645.908.327-47;Sousa;Profissional de comércio exterior;Campo de da Paz, 98;xda-cunha@example.com;20/11/1917;108;13/03/2025;656;9,84;Vendendor_A
+890371;Vicente Araújo;210.387.659-86;Porto Paulista;Sacoleira;Passarela de Jesus, 21;daniel43@example.org;06/01/1931;94;24/01/2025;925;13,88;Vendendor_C
+933252;Davi Borges;035.278.491-14;Peixoto;Construtor;Alameda de Brito, 342;luiz-felipe16@example.net;28/01/1931;94;18/06/2025;997;14,96;Vendendor_B
+938915;Sr. Lucas Gabriel Rocha;768.134.052-17;Camargo de Andrade;Arquiteto;Condomínio Mateus Teixeira, 8;davi-miguelsiqueira@example.com;11/01/1992;33;14/02/2025;392;5,88;Vendendor_C
+175373;José Duarte;681.305.492-98;Peixoto;Estampador de tecidos;Passarela de Porto, 56;maria-flor00@example.net;24/03/1961;64;29/05/2025;498;7,47;Vendendor_B
+393645;Luiz Miguel Carvalho;540.381.967-39;Viana;Engenheiro de supply chain ou logística;Conjunto Castro, 73;qrodrigues@example.net;03/08/1948;77;20/06/2025;79;1,19;Vendedor_D
+510666;Dr. Bruno Santos;546.138.290-89;Moura de Montenegro;Profissional de recursos humanos;Vereda Caldeira, 996;pgomes@example.net;26/01/2022;3;12/10/2025;96;1,44;Vendendor_B
+646357;Ana Santos;954.310.768-84;Barbosa do Galho;Treinador;Via Nathan Camargo, 85;kda-rocha@example.net;30/08/1955;70;06/04/2025;940;14,1;Vendendor_A
+887105;Calebe Castro;126.384.905-98;Azevedo;Médico legista;Condomínio Emanuella da Costa, 83;aliciacaldeira@example.net;25/12/1949;76;12/10/2025;521;7,81;Vendendor_C
+700821;Renan Lopes;219.036.478-78;Andrade de da Rosa;Arquivista;Chácara Maria Júlia Silva, 75;lucas64@example.net;20/02/1918;107;17/06/2025;611;9,16;Vendedor_E
+948920;Brayan Campos;359.087.412-05;Barros;Forneiro;Viaduto Pietra Cirino, 34;mateusgomes@example.com;19/05/1933;92;06/10/2025;457;6,85;Vendendor_B
+539881;Sra. Lorena Barros;935.621.748-37;da Rosa de Gomes;Co-piloto;Distrito Mendes, 348;allanapacheco@example.net;29/09/2009;16;08/10/2025;374;5,61;Vendedor_E
+734491;Maria Julia Alves;391.824.705-88;Pereira do Galho;Cartazeiro;Colônia Almeida, 2;ottosantos@example.org;15/10/1989;36;28/11/2024;730;10,95;Vendendor_B
+205115;Rhavi Machado;084.926.173-22;Sampaio de Goiás;Otorrinolaringologista;Lagoa Monteiro, 89;da-costamilena@example.net;10/10/1998;27;01/08/2025;248;3,72;Vendedor_D
+998308;Pedro Mendonça;172.849.356-00;Costela de Brito;Instalador de painéis;Sítio Natália Nogueira, 3;isadorapinto@example.org;02/11/2000;25;08/04/2025;506;7,59;Vendendor_A
+188682;Sr. Thales Rios;906.283.157-59;Cavalcante;Odontologista estético;Colônia Maria Eduarda Silva, 52;jade96@example.net;10/03/1936;89;08/01/2025;456;6,84;Vendendor_B
+570997;Liam Nogueira;560.738.214-17;da Costa da Serra;Carnavalesco;Quadra Sá, 4;ppacheco@example.com;01/02/2022;3;23/04/2025;755;11,32;Vendendor_C
+154889;Srta. Melissa Andrade;436.081.295-70;Araújo;Profissional de relações públicas;Fazenda João Pedro Costela, 92;rduarte@example.net;20/01/1942;83;04/05/2025;115;1,72;Vendendor_C
+378961;Ravi Macedo;913.478.560-48;Machado;Protesista;Quadra Cavalcante, 94;amandamendes@example.net;29/12/1934;91;20/01/2025;670;10,05;Vendendor_A
+552464;Sr. Marcelo da Luz;924.537.860-83;Lopes de Goiás;Cinematográfo;Via da Luz, 31;pmoraes@example.net;20/06/1941;84;17/12/2024;328;4,92;Vendendor_C
+421726;Lucca Barros;864.290.173-03;da Cunha do Sul;Cobaia Médica;Quadra de Monteiro, 57;mendesravi-lucca@example.net;14/02/1926;99;19/05/2025;921;13,81;Vendendor_A
+154872;Isabel Borges;726.015.489-67;da Paz da Prata;Ginecologista;Conjunto Cunha;lnascimento@example.org;26/10/1973;52;29/03/2025;832;12,48;Vendedor_E
+804325;Bianca Andrade;678.930.541-66;Castro;Redator;Feira de da Rosa, 494;iborges@example.com;19/07/2011;14;11/09/2025;309;4,63;Vendendor_A
+376120;Rodrigo Cirino;931.608.247-13;Cunha;Traumatologista;Vila Garcia, 97;isaac84@example.org;27/09/2025;0;29/01/2025;833;12,49;Vendendor_B
+967885;Sra. Ana Clara Câmara;563.817.029-40;Almeida;Designer de moda;Recanto de Gomes, 1;cirinoigor@example.com;16/08/1943;82;22/09/2025;732;10,98;Vendedor_D
+476580;Aurora Caldeira;783.614.905-66;Costela de Minas;Psicopedagogo;Setor Pinto, 68;cavalcantianna-liz@example.org;18/10/1942;83;07/11/2025;62;0,93;Vendendor_C
+315290;Matheus Barros;752.490.613-70;Andrade;Acupunturista;Lago de Abreu, 6;ibarbosa@example.net;06/02/1981;44;17/05/2025;48;0,72;Vendendor_A
+223164;Emanuelly Sousa;483.619.027-40;da Rocha do Galho;Radiooperador de vôo;Morro de Andrade, 97;caue17@example.net;26/07/1962;63;28/05/2025;891;13,37;Vendedor_D
+295282;Noah Alves;790.451.862-76;Fogaça;Podólogo;Pátio Caldeira, 9;caldeirapedro-lucas@example.com;24/07/1997;28;29/05/2025;44;0,66;Vendendor_A
+131236;Maria Clara Abreu;731.528.604-71;Mendonça das Flores;Datilógrafo;Loteamento Barros, 658;pcarvalho@example.net;12/12/1943;82;01/03/2025;60;0,9;Vendendor_C
+356384;Vitor Gabriel Rodrigues;570.349.168-10;Gonçalves;Armador;Morro Cassiano, 503;maria-isisda-paz@example.net;28/08/1972;53;18/09/2025;481;7,21;Vendedor_D
+526263;Antony Novaes;160.478.953-01;Barbosa de Goiás;Agricultor;Conjunto da Cunha, 64;galbuquerque@example.org;07/10/1966;59;02/05/2025;934;14,01;Vendendor_A
+947660;Isis Carvalho;206.941.835-98;da Mata do Sul;Surfista;Chácara Campos, 255;sousayan@example.com;13/09/1993;32;05/11/2025;591;8,87;Vendedor_D
+945660;Pedro da Rocha;830.672.145-44;Cavalcanti;Degustador;Sítio Andrade;nogueiradavi@example.com;12/11/1947;78;24/03/2025;570;8,55;Vendedor_D
+113773;Anthony Monteiro;638.015.497-39;Ribeiro Alegre;Coreógrafo;Núcleo de Fogaça, 28;da-conceicaoagatha@example.com;29/08/1951;74;27/01/2025;312;4,68;Vendendor_B
+796693;Luan Vasconcelos;940.376.182-22;Aragão da Prata;Lutador de jiu-jitsu;Chácara Daniela Alves, 36;barbosalorenzo@example.org;16/09/1921;104;02/04/2025;784;11,76;Vendedor_D
+351861;Caroline Farias;158.609.427-02;Nunes da Praia;Adestrador de animais;Recanto Cavalcanti, 89;luna78@example.net;10/12/1973;52;04/04/2025;153;2,29;Vendendor_C
+715450;Luiz Fernando Ferreira;637.459.102-06;Monteiro;Técnico em documentação;Vale de Cassiano, 64;eloahbarbosa@example.net;09/07/1924;101;07/02/2025;433;6,5;Vendendor_C
+567842;Mirella Porto;801.439.762-22;Aragão;Técnico em rede;Favela de Pimenta, 32;portoravy@example.net;14/07/1911;114;22/06/2025;510;7,65;Vendendor_C
+936922;Amanda Marques;853.621.479-19;Pimenta Verde;Engenheiro aeronáutico;Largo de Gomes, 3;jose-pedro12@example.com;10/02/2019;6;25/05/2025;937;14,05;Vendedor_E
+824700;Maria Luísa Cavalcante;563.917.208-86;Almeida;Engenheiro mecatrônico;Viaduto de Guerra, 95;joaodias@example.com;25/12/1995;30;01/07/2025;728;10,92;Vendedor_D
+325899;Henry Lima;463.819.570-93;Cavalcante Verde;Médico;Favela da Cunha, 489;avargas@example.com;30/04/2012;13;29/11/2024;11;0,16;Vendendor_C
+568379;Levi Leão;805.246.971-67;Cirino das Pedras;Afiador de ferramentas;Pátio Stephany Pimenta, 60;zvieira@example.net;13/11/2023;2;04/05/2025;25;0,38;Vendendor_C
+663094;José Pedro Rios;847.069.532-00;Vasconcelos de Cirino;Senador;Vila Thales Teixeira, 242;pastorheloisa@example.net;14/01/1972;53;09/02/2025;40;0,6;Vendedor_E
+771383;Heloísa Rezende;317.089.562-12;Pastor;Economista doméstico;Rodovia Ribeiro, 106;ufogaca@example.com;09/05/1976;49;02/07/2025;308;4,62;Vendendor_C
+960874;Isabela da Costa;408.231.956-51;Macedo;Estivador;Vale Maya Sá, 8;antonella89@example.org;07/10/1921;104;08/06/2025;828;12,42;Vendendor_A
+174824;Sr. Thales Barbosa;097.538.214-41;Sales;Técnico em radiologia;Campo Catarina Correia, 29;dpinto@example.net;14/12/2014;11;15/08/2025;406;6,09;Vendedor_E
+423246;Jade Vasconcelos;017.845.693-48;Campos de Souza;Jogador de boliche;Pátio Camargo, 14;fogacaemanuella@example.com;30/12/2010;15;16/07/2025;70;1,05;Vendedor_E
+763802;Heloísa Albuquerque;137.960.852-02;Cardoso;Cobaia Médica;Favela Natália Pereira, 16;gabrielaviana@example.org;09/03/1948;77;01/08/2025;579;8,69;Vendendor_B
+847041;Joana da Conceição;591.280.367-86;Pimenta;Zelador;Via Costa;garciajoaquim@example.net;05/04/2020;5;12/03/2025;340;5,1;Vendedor_E
+262394;Kaique Fogaça;356.780.419-75;Sá;Toxicologista;Recanto Mendonça, 45;luiz-gustavoborges@example.org;26/05/1953;72;26/08/2025;136;2,04;Vendendor_C
+874390;Lucas Gabriel Moura;038.529.716-59;Abreu do Norte;Dentista;Travessa Maria Júlia Alves, 14;jesusisaque@example.com;28/04/1993;32;01/03/2025;215;3,23;Vendedor_D
+862552;Emanuella Cavalcante;439.572.081-14;Costa de Cavalcante;Telegrafista;Largo de Novais, 32;qcaldeira@example.com;20/06/1917;108;18/10/2025;404;6,06;Vendendor_C
+135850;Lorenzo Porto;608.725.941-49;Correia;Meteorologista;Lagoa de Carvalho, 90;julianavasconcelos@example.com;23/11/1993;32;14/09/2025;274;4,11;Vendendor_B
+697803;Emanuel Pastor;584.960.237-29;Nogueira do Norte;Defensor Público;Residencial de Borges, 914;meloluisa@example.org;19/10/1995;30;03/09/2025;757;11,36;Vendendor_B
+960382;Cauã Nogueira;213.906.587-59;Farias;Profissional de recursos humanos;Praça Santos, 794;caroline24@example.org;19/06/1975;50;10/09/2025;371;5,56;Vendendor_B
+200497;Stephany Costela;821.940.763-87;Barbosa da Praia;Auxiliar de reprografia;Área Peixoto, 7;salesnoah@example.org;19/01/1951;74;27/12/2024;399;5,98;Vendedor_E
+239912;Srta. Rebeca Pacheco;312.576.409-25;Almeida de Cunha;Coronel;Esplanada José Pedro Machado, 43;omontenegro@example.com;31/01/1995;30;03/03/2025;954;14,31;Vendedor_E
+264052;Ana Vitória da Mata;018.743.962-13;Porto;Técnico em radiologia;Área de Peixoto;maria-helena61@example.com;27/04/1959;66;30/09/2025;195;2,92;Vendendor_C
+895264;Lívia Sousa;465.718.039-84;da Rocha da Praia;Guitarrista;Lago Luiza Pires, 56;gmachado@example.com;14/04/1954;71;23/02/2025;49;0,73;Vendendor_C
+969026;Elisa Abreu;527.061.894-01;Camargo Paulista;Seguidor de compras;Recanto Montenegro, 34;haragao@example.net;27/10/1963;62;17/01/2025;757;11,36;Vendendor_C
+890845;Vitor Azevedo;904.562.781-76;Sales de Moura;Matemático;Jardim Brenda Nogueira, 93;anthony-gabriel35@example.com;12/06/2020;5;18/09/2025;788;11,82;Vendedor_E
+483944;Ana Julia Ferreira;146.593.028-06;Campos;Bóia-fria;Avenida de Viana, 2;jose-pedro95@example.com;31/05/1929;96;04/04/2025;423;6,34;Vendendor_B
+994874;Srta. Natália Martins;847.529.601-76;Martins do Galho;Arquiteto;Recanto Machado, 8;da-cruzester@example.net;24/07/1915;110;01/05/2025;783;11,74;Vendedor_E
+712411;Theo Pastor;580.692.471-85;Pires;Portuário;Praça Benjamin Peixoto;machadomaria-eduarda@example.com;30/07/2002;23;18/12/2024;451;6,76;Vendendor_B
+245550;Amanda Rios;930.581.764-57;Monteiro;Esgrimista;Conjunto Araújo, 347;heitor30@example.net;02/04/1984;41;21/10/2025;119;1,78;Vendedor_E
+809047;Eduarda da Mota;524.031.786-08;Rodrigues;Publicitário;Jardim Cunha;saryan@example.com;14/02/1967;58;04/07/2025;274;4,11;Vendedor_D
+153374;Breno Sampaio;850.439.126-42;Azevedo;Obstetra;Núcleo de Abreu, 657;unogueira@example.com;18/11/1923;102;14/10/2025;575;8,62;Vendedor_D
+387470;Júlia Gomes;619.857.342-73;Souza do Campo;Engenheiro de minas;Setor Ester Pastor, 26;henry-gabriel36@example.net;03/03/1944;81;09/06/2025;251;3,76;Vendendor_A
+523038;Srta. Sophie Castro;674.183.209-22;Marques dos Dourados;Berçarista;Viela de da Mata, 99;aparecidabenicio@example.org;26/08/2017;8;26/02/2025;131;1,96;Vendedor_D
+280796;Natália da Costa;743.289.560-00;Machado;Flanelinha;Quadra de Ribeiro, 411;carlos-eduardo83@example.net;01/05/1996;29;15/03/2025;817;12,25;Vendedor_E
+388267;Isabel Ferreira;974.210.638-03;Guerra da Mata;Intérprete e tradutor de língua de sinais;Recanto Maria Fernanda Marques, 15;riostheodoro@example.net;07/02/2011;14;15/07/2025;412;6,18;Vendedor_E
+254947;Luara Gomes;593.126.748-46;Rios;Técnico em agropecuária;Travessa de das Neves, 32;silvamarcelo@example.org;26/07/1926;99;29/08/2025;624;9,36;Vendedor_D
+922225;Paulo da Cunha;429.156.738-37;Carvalho da Serra;Técnico em radiologia;Sítio Leão, 2;viniciusda-cunha@example.org;25/07/1991;34;02/08/2025;734;11,01;Vendedor_E
+325776;Sophie Nascimento;078.916.354-39;Castro;Contábil;Chácara de Fogaça, 41;riosleticia@example.com;02/09/2014;11;15/12/2024;332;4,98;Vendendor_B
+932995;Sophie Viana;219.870.534-60;Campos Paulista;Atleta de nado sincronizado;Alameda Davi Pires, 12;gabrielpereira@example.com;21/11/1945;80;02/08/2025;681;10,21;Vendendor_A
+481364;Gael Cunha;265.103.849-06;Campos;Maitre;Largo Heloisa Leão, 50;pda-cunha@example.org;03/04/2024;1;24/12/2024;724;10,86;Vendendor_B
+539406;Ana Pacheco;452.837.619-91;Melo do Amparo;Engenheiro de manufatura;Residencial de Cassiano, 992;beatriz37@example.org;26/07/1934;91;19/09/2025;334;5,01;Vendendor_A
+539286;Liam Cunha;309.746.182-50;Caldeira do Campo;Urologista;Distrito de da Cruz, 153;mathiascarvalho@example.org;02/08/1934;91;22/02/2025;398;5,97;Vendendor_C
+296789;Isis da Paz;624.087.591-02;Aragão Alegre;Profissional de relacionamento com investidores RI;Estação Maria Laura Macedo, 494;dom04@example.net;01/01/1964;61;11/02/2025;761;11,41;Vendendor_A
+664669;Ayla Borges;923.056.174-61;Sampaio Verde;Soldador;Viaduto Isaac Cirino, 2;gporto@example.net;02/08/1912;113;15/09/2025;549;8,23;Vendendor_C
+225161;Srta. Maria Sophia Azevedo;234.768.195-82;Cirino;Radiologista;Distrito Moura, 653;freitasana-beatriz@example.net;18/05/1986;39;13/10/2025;164;2,46;Vendendor_B
+122342;Davi Lucas Ramos;802.731.645-62;Teixeira;Ciclista;Colônia de Gonçalves, 40;leonardo93@example.org;22/02/1925;100;27/10/2025;438;6,57;Vendendor_C
+937923;Eloá Câmara;082.371.459-41;Siqueira;Angiologista;Alameda Santos, 54;duarteelisa@example.com;06/02/1976;49;05/02/2025;480;7,2;Vendendor_C
+429586;Dr. Rafael Silveira;972.806.341-50;Machado das Pedras;Gestor de qualidade;Núcleo de Garcia;goncalvesemanuelly@example.org;07/09/1989;36;24/01/2025;52;0,78;Vendendor_B
+146105;Benicio Melo;591.203.467-43;Rocha;Escoteiro;Fazenda Ana Beatriz Rocha, 64;caueborges@example.org;31/01/1964;61;18/02/2025;841;12,62;Vendendor_B
+504349;Dra. Aylla da Cruz;310.824.957-60;Macedo;Orçamentista;Via Vargas, 40;miguel09@example.com;19/12/1958;67;22/04/2025;307;4,6;Vendedor_D
+345633;Raquel Martins;827.413.960-78;Dias da Prata;Repórter;Aeroporto de Farias, 62;bgomes@example.net;19/04/1928;97;22/12/2024;899;13,48;Vendendor_B
+598311;Sr. Theodoro Lima;052.961.473-16;Rodrigues;Estofador;Praia de Moraes, 50;maria-cecilia95@example.net;15/02/1927;98;01/10/2025;823;12,34;Vendendor_B
+122542;José Miguel Costa;062.581.394-42;Aparecida de Goiás;Classificador contábil;Largo de Duarte, 262;ana-carolina95@example.com;20/05/1996;29;15/04/2025;741;11,12;Vendedor_D
+984291;Leandro Nunes;826.395.107-03;Aragão;Cumim;Colônia Fernandes;kleao@example.org;02/11/1914;111;08/08/2025;290;4,35;Vendendor_C
+826162;Dr. Marcelo Duarte;812.495.630-89;Souza Verde;Geólogo;Vila Nunes, 63;ida-rocha@example.com;15/06/1988;37;25/02/2025;377;5,65;Vendendor_C
+299064;Dra. Lívia Casa Grande;941.283.650-33;da Conceição;Intérprete e tradutor de língua de sinais;Aeroporto Gustavo Henrique Fonseca, 949;machadopaulo@example.net;31/08/1954;71;11/09/2025;970;14,55;Vendendor_A
+681289;Clarice Vargas;130.792.854-41;Jesus;Balconista;Rodovia Vasconcelos, 473;casa-grandeester@example.net;28/03/1970;55;31/10/2025;938;14,07;Vendedor_D
+396468;Srta. Agatha Jesus;596.347.182-64;Cavalcanti da Serra;Esgrimista;Vila de Nascimento, 5;alopes@example.com;02/01/1938;87;06/12/2024;544;8,16;Vendendor_A
+362780;Rafaela Rocha;097.521.863-86;das Neves;Contatólogo;Feira de Gonçalves, 7;alicialeao@example.org;13/03/1926;99;10/12/2024;545;8,17;Vendendor_A
+100466;Léo Ribeiro;438.712.650-71;Aparecida de da Cruz;Aeromoça;Colônia Sampaio, 14;scirino@example.com;14/09/1973;52;03/05/2025;32;0,48;Vendedor_D
+243808;Davi Lucca da Paz;372.608.941-13;Mendes;Capitão;Condomínio Pedro Henrique Porto, 22;ninarezende@example.net;21/08/1933;92;09/09/2025;702;10,53;Vendedor_E
+574980;Felipe Castro;236.914.580-33;Sousa;Peixeiro;Chácara Pires, 52;esousa@example.org;18/08/1937;88;27/06/2025;709;10,63;Vendedor_D
+849053;Yuri Vieira;689.437.025-74;Cavalcanti do Amparo;Ferreiro;Vila de Albuquerque, 12;aparecidasarah@example.net;16/02/1960;65;26/04/2025;808;12,12;Vendendor_B
+383973;Melissa da Rosa;650.318.749-10;Borges;Técnico em hardware;Loteamento da Conceição, 467;mbrito@example.com;12/02/1978;47;02/12/2024;822;12,33;Vendedor_D
+214740;Mateus da Mata;302.871.649-69;Peixoto;Atendente;Avenida de Correia, 93;ngoncalves@example.net;11/05/1939;86;18/01/2025;482;7,23;Vendendor_A
+199103;Maria Helena Sá;184.706.925-85;Pimenta;Jangadeiro;Parque de Cardoso;mendoncalorena@example.com;18/11/1933;92;22/04/2025;269;4,04;Vendendor_C
+355987;Yasmin das Neves;651.923.047-25;da Rosa de Carvalho;Profissional de recursos humanos;Morro Sousa, 728;beatriz83@example.net;25/10/2015;10;08/10/2025;492;7,38;Vendendor_B
+581354;Bárbara Câmara;964.315.872-19;Carvalho;Atendente;Pátio da Costa, 37;fda-luz@example.com;14/01/1927;98;21/04/2025;451;6,76;Vendedor_D
+590131;Isabelly Leão;892.713.504-05;Cavalcante de Rezende;Obstetra;Estação de Vargas;costelaana@example.com;26/07/1968;57;19/08/2025;830;12,45;Vendendor_C
+931313;Emanuelly Moreira;628.713.940-40;Monteiro;Ortoptista;Setor da Rosa, 71;emanuellamendonca@example.net;04/07/1988;37;25/12/2024;361;5,42;Vendedor_E
+336574;Maria Eduarda Teixeira;876.123.059-68;da Paz;Operador de vídeo;Quadra da Cunha, 82;nogueiralaura@example.org;01/02/1914;111;02/02/2025;503;7,54;Vendedor_D
+588044;Breno Brito;145.983.602-24;Marques do Norte;Engenheiro acústico;Trevo Porto, 10;hadassa03@example.net;28/04/1924;101;31/10/2025;903;13,54;Vendedor_E
+957144;Ana Clara das Neves;169.328.547-91;Pacheco da Praia;Recepcionista;Travessa Sá, 265;bento92@example.com;22/02/2021;4;08/02/2025;961;14,41;Vendendor_B
+520206;Srta. Fernanda Silveira;238.910.576-95;Pastor;Hematologista;Loteamento Maria Liz Araújo, 8;luigi83@example.net;21/07/2024;1;04/12/2024;157;2,35;Vendedor_D
+670497;Carlos Eduardo Albuquerque;379.158.604-10;das Neves Grande;Bombeiro;Morro Henrique Melo;melomaria-julia@example.net;30/08/2021;4;18/01/2025;845;12,67;Vendendor_A
+306429;Gabrielly da Cunha;251.708.439-41;Camargo;Gerente de banco;Rua de Cunha, 90;marcelo60@example.net;04/06/1932;93;01/05/2025;156;2,34;Vendendor_B
+635777;Sr. Diego da Rocha;214.086.397-69;Fonseca;Ufólogo;Rua Moreira, 66;stephany60@example.com;09/01/1932;93;04/12/2024;555;8,32;Vendedor_E
+535779;Gustavo Dias;632.798.504-10;Nascimento;Promotor de vendas;Trevo Pinto, 2;ioliveira@example.org;19/04/1965;60;26/05/2025;753;11,29;Vendedor_D
+834712;Maria Fernanda Monteiro;249.508.167-30;Oliveira de da Luz;Panificador/Padeiro;Distrito Eloah Borges, 783;jsilva@example.net;09/05/2022;3;02/01/2025;339;5,08;Vendedor_E
+921727;Larissa Cirino;129.850.476-76;Rios;Médico geneticista;Viaduto Levi Guerra, 9;lgoncalves@example.org;14/10/1999;26;05/12/2024;608;9,12;Vendendor_B
+820190;Mariana da Conceição;043.251.869-05;Macedo;Degustador;Jardim de Sampaio, 95;fogacakaique@example.com;07/03/1939;86;05/09/2025;906;13,59;Vendendor_C
+833953;Jade Gonçalves;047.856.132-62;da Conceição;Letrista;Passarela Ana Júlia Macedo, 1;joaquim26@example.com;10/09/1915;110;25/01/2025;819;12,29;Vendendor_C
+785012;Bianca Siqueira;752.963.481-09;Câmara;Ascensorista;Estrada de da Cruz, 78;ugoncalves@example.com;17/04/1981;44;27/10/2025;791;11,87;Vendendor_A
+396585;Dr. Arthur Miguel Aparecida;072.896.354-00;Macedo de Gonçalves;Penhorista;Esplanada de da Costa, 1;eduarda08@example.net;14/10/1939;86;15/03/2025;136;2,04;Vendendor_B
+482023;Dr. Murilo Aparecida;736.825.940-00;Viana;Médico geneticista;Vale Borges, 692;theo57@example.net;14/02/2022;3;04/05/2025;933;13,99;Vendedor_E
+655482;Sofia Pacheco;459.026.718-76;Peixoto do Amparo;Timoneiro;Conjunto Hellena da Luz, 419;rcarvalho@example.net;06/12/1929;96;22/01/2025;487;7,3;Vendendor_B
+492327;Joaquim Vargas;657.482.931-37;Correia de Goiás;Engenheiro de processos;Fazenda de Siqueira;jcavalcante@example.net;22/01/1957;68;26/03/2025;514;7,71;Vendendor_A
+251253;Luísa Pinto;573.491.286-73;Azevedo;Engenheiro de telecomunicações;Vale Pastor, 4;nathan90@example.com;13/04/1995;30;22/03/2025;621;9,31;Vendendor_C
+639747;Srta. Maria Helena da Conceição;896.135.204-06;Mendes dos Dourados;Alpinista;Lagoa Luiz Otávio Guerra, 83;riosjosue@example.net;12/12/1962;63;22/08/2025;957;14,35;Vendendor_A
+350203;Dr. Arthur Miguel Ribeiro;125.743.068-80;Correia;Economista;Residencial Silveira, 429;ubarros@example.net;09/02/1951;74;16/08/2025;508;7,62;Vendendor_B
+387479;Vitor Hugo Ribeiro;158.042.679-49;Nunes da Mata;Sushiman;Via Jade Moraes, 82;isabelly60@example.com;23/12/1932;93;18/02/2025;185;2,77;Vendendor_C
+992424;Henrique Freitas;109.256.483-70;Silveira de Minas;Assistente administrativo;Chácara de Duarte, 5;isadorapires@example.com;09/07/1948;77;17/06/2025;899;13,48;Vendendor_C
+560277;Lucca Fogaça;610.273.594-34;Aparecida;Carpinteiro;Rodovia Moraes, 90;claragarcia@example.net;10/12/1933;92;08/08/2025;549;8,23;Vendendor_C
+885071;Dra. Sara Lima;495.018.637-00;Porto Grande;Ajudante de produção;Passarela Ferreira, 534;benicio01@example.net;24/10/2006;19;13/05/2025;579;8,69;Vendendor_A
+270194;Henry Barbosa;453.127.096-70;Melo das Pedras;Engenheiro acústico;Favela de Abreu, 64;vfernandes@example.com;14/03/1960;65;20/12/2024;891;13,37;Vendendor_B
+662351;Sr. Otto Silveira;430.926.857-92;Peixoto do Galho;Instrumentador cirúrgico;Conjunto Macedo;montenegromaria@example.org;09/01/1981;44;14/03/2025;25;0,38;Vendedor_D
+277711;Sr. João Felipe Rios;982.651.307-59;Correia;Profissional de manutenção industrial;Loteamento Moura, 5;liviaoliveira@example.org;14/11/1971;54;27/01/2025;719;10,79;Vendendor_B
+931156;Lorena Camargo;680.473.125-53;da Rocha;Engenheiro cartográfico;Alameda Maya Cavalcante, 46;klopes@example.com;15/12/1945;80;01/12/2024;653;9,79;Vendedor_D
+256885;José Miguel Barros;982.614.037-69;Garcia;Controlador de vôo;Chácara Gabriel Pacheco, 3;isadoramonteiro@example.com;23/08/1964;61;03/05/2025;29;0,43;Vendedor_E
+777988;Sra. Luiza da Conceição;127.305.496-25;Novais;Policial civil;Parque de Gonçalves, 5;das-neveskaique@example.com;27/03/1957;68;14/08/2025;539;8,08;Vendendor_B
+239209;Liam Camargo;653.201.948-89;Siqueira de Vieira;Médico cirurgião;Avenida de Viana, 1;ravi-lucca22@example.org;06/09/1926;99;30/08/2025;9;0,14;Vendendor_B
+968250;João Miguel Araújo;125.946.830-51;Oliveira da Mata;Profissional de reciclagem;Avenida Camargo;monteiroalice@example.com;18/08/1989;36;23/02/2025;740;11,1;Vendendor_B
+688731;Yago da Luz;396.547.210-07;Lima da Serra;Numerólogo;Vale Raquel Nascimento, 324;maria-julia31@example.org;13/07/1999;26;11/09/2025;249;3,73;Vendedor_E
+479638;Ana Julia Cunha;046.873.251-90;das Neves;Meeiro;Feira Aragão, 76;matheusgarcia@example.org;10/12/1942;83;17/11/2024;689;10,33;Vendendor_B
+616652;Yasmin Cirino;497.621.350-16;Melo;Jornaleiro;Viaduto de Araújo;lbarbosa@example.org;29/11/2000;25;03/08/2025;218;3,27;Vendendor_B
+889572;Sra. Maria Isis da Rosa;618.327.549-28;Nunes;Guarda ou policial rodoviário;Favela Duarte, 14;oalmeida@example.net;21/09/1956;69;16/02/2025;222;3,33;Vendedor_D
+645179;Pedro Henrique Rios;839.524.610-24;Machado;Massoterapeuta;Passarela Otto Guerra, 3;da-costajulia@example.net;05/11/1969;56;14/03/2025;292;4,38;Vendedor_D
+209775;Mariane Abreu;145.376.829-73;da Paz;Catador de material reciclável;Distrito de da Conceição, 36;fernandonascimento@example.net;01/10/1963;62;27/11/2024;296;4,44;Vendedor_D
+781381;Maria Clara Andrade;742.596.381-73;Vasconcelos de Aparecida;Agente penitenciário;Alameda Clara Moraes, 912;sampaiomateus@example.org;23/07/1945;80;03/02/2025;975;14,62;Vendedor_D
+999076;Kaique Cavalcanti;209.834.175-04;Silveira de Souza;Editor;Largo Luiza Novais, 37;pietracasa-grande@example.net;23/01/1996;29;02/09/2025;457;6,85;Vendendor_B
+330712;Kamilly Nascimento;729.453.680-56;Sales da Praia;Selecionador de pessoal;Setor de Campos;gael86@example.org;17/02/1981;44;21/01/2025;510;7,65;Vendedor_E
+202556;Benicio da Cunha;205.463.817-07;Macedo da Praia;Assistente administrativo;Feira de Casa Grande;pintoisaque@example.com;05/12/1927;98;05/02/2025;775;11,62;Vendendor_C
+328114;Srta. Sophia Almeida;659.012.784-02;Andrade de Almeida;Desembargador de justiça;Área Barros, 7;isabella43@example.net;09/09/1988;37;22/01/2025;188;2,82;Vendedor_D
+542986;Sra. Stella Andrade;580.947.621-01;da Costa de Camargo;Laboratorista;Conjunto Ana Luiza Abreu, 60;moreiradaniela@example.org;26/04/1982;43;07/04/2025;694;10,41;Vendendor_C
+389164;Sr. Matteo Macedo;436.189.507-48;Pinto de Aparecida;Apontador de mão-de-obra;Loteamento da Rocha, 54;jose-pedroandrade@example.org;15/09/1995;30;11/04/2025;704;10,56;Vendedor_E
+608217;Srta. Ana Luiza Câmara;021.389.574-97;Macedo da Mata;Obstetra;Vereda de Castro, 34;fda-cunha@example.com;01/04/2022;3;17/04/2025;219;3,28;Vendendor_A
+522971;Luna Porto;370.961.852-59;Novais Verde;Musicoterapeuta;Travessa de Moraes, 71;teixeiracarlos-eduardo@example.com;15/02/1922;103;19/05/2025;860;12,9;Vendedor_E
+784583;Sra. Maria Ramos;872.063.419-69;Costela;Governador;Loteamento das Neves, 88;mariah67@example.org;05/08/2019;6;12/01/2025;481;7,21;Vendendor_B
+427186;Srta. Anna Liz da Mota;875.496.103-39;das Neves Grande;Profissional de recursos humanos;Lagoa da Cruz, 4;da-cruzisabel@example.com;05/09/2009;16;16/09/2025;851;12,76;Vendendor_C
+184257;Maria Eduarda Barros;023.984.571-41;da Cruz dos Dourados;Clarinetista;Chácara Ágatha Santos, 822;santosrael@example.net;18/07/1940;85;02/02/2025;284;4,26;Vendendor_C
+130248;Ísis Monteiro;395.628.107-12;Azevedo de Martins;Crítico;Viela Luiz Gustavo Fogaça, 65;peixotoluiz-fernando@example.com;31/10/1991;34;30/10/2025;274;4,11;Vendendor_A
+429019;Vitor Silva;701.845.296-11;Porto;Guarda roupeiro;Setor Barros, 6;marcelo06@example.org;03/03/2019;6;06/01/2025;148;2,22;Vendedor_D
+477181;Maria Isis Andrade;149.752.063-07;das Neves da Prata;Jogador de basquete;Parque de Moraes, 8;samuel44@example.net;19/03/1942;83;31/03/2025;553;8,29;Vendedor_E
+184800;Giovanna Fonseca;432.089.761-78;Fernandes;Fisioterapeuta;Conjunto Valentim Barros, 67;joana65@example.net;25/05/1943;82;13/04/2025;782;11,73;Vendedor_E
+550383;Dra. Juliana Machado;301.495.786-01;Fernandes de Minas;Penhorista;Conjunto João Vitor Novaes, 52;joao-vitor33@example.com;05/07/2003;22;30/07/2025;320;4,8;Vendedor_E
+652983;Mariah Jesus;930.187.452-05;Costa da Mata;Bartender;Estrada da Luz, 332;anna-liz96@example.org;15/12/1949;76;06/09/2025;399;5,98;Vendendor_A
+592391;Lunna Borges;452.961.308-98;Freitas da Prata;Assistente de produção;Vale Carvalho, 23;cecilialeao@example.net;27/07/1929;96;05/08/2025;303;4,54;Vendendor_B
+244752;Alexia Ramos;419.528.607-76;Gonçalves;Apontador de mão-de-obra;Fazenda Vieira, 24;da-conceicaopedro-henrique@example.org;27/07/2022;3;21/05/2025;800;12,0;Vendendor_A
+279455;Ana Laura Gonçalves;495.023.871-04;da Rocha dos Dourados;Tecelão;Área de Pires, 217;bernardo70@example.net;24/04/1965;60;19/08/2025;381;5,71;Vendendor_C
+872403;Diogo Borges;147.623.590-25;Martins;Engenheiro de materiais;Quadra Vieira, 52;mirella51@example.com;15/03/2000;25;14/01/2025;77;1,16;Vendendor_C
+122681;Manuela Pinto;403.921.876-04;Moreira da Prata;Serralheiro;Pátio de Leão, 9;antonellajesus@example.org;21/11/2012;13;22/03/2025;699;10,48;Vendendor_A
+756540;Marina Vasconcelos;065.214.738-08;da Conceição;Kite-surfer;Lago de Cunha, 276;souzajose-miguel@example.com;03/08/1956;69;07/02/2025;781;11,71;Vendendor_B
+360060;Bento Casa Grande;483.560.719-84;Albuquerque de Martins;Vereador;Trevo Rafaela Macedo, 18;goncalvesana-laura@example.org;26/07/2003;22;15/12/2024;418;6,27;Vendendor_B
+957381;Mirella Rodrigues;257.403.189-04;Moreira da Serra;Intérprete;Lagoa Vitor Gabriel Pires, 531;lopesravy@example.org;31/07/1930;95;23/06/2025;132;1,98;Vendedor_E
+536295;João Miguel Cassiano;475.826.091-58;Freitas do Galho;Nutrologista;Aeroporto de Nogueira, 33;manuellacavalcanti@example.net;31/10/1957;68;15/05/2025;82;1,23;Vendendor_B
+775043;Sr. Francisco Santos;841.637.950-57;Caldeira de Melo;Pastilheiro;Alameda de Cavalcante, 97;jsousa@example.net;07/07/1976;49;20/02/2025;641;9,62;Vendendor_C
+656053;Valentim da Costa;185.306.297-95;Gomes do Oeste;Arranjador musical;Alameda Rafaela Pimenta, 35;da-luzenzo-gabriel@example.net;19/09/1913;112;08/02/2025;959;14,38;Vendendor_A
+160154;Thales Cunha;197.826.503-40;Ribeiro;Comprador;Quadra Martins, 30;mirella86@example.org;28/11/1960;65;30/09/2025;376;5,64;Vendendor_C
+430243;Alice Martins;845.237.091-14;Cavalcanti;Guincheiro;Residencial de Martins;marquesvinicius@example.net;17/10/1955;70;20/12/2024;925;13,88;Vendendor_B
+835584;Luiza Silva;905.367.412-80;Farias;Tradutor;Núcleo Maitê Garcia, 34;correiaanthony@example.net;23/10/1969;56;15/05/2025;593;8,89;Vendendor_C
+773122;Dra. Sophie Mendes;423.968.751-91;Brito do Galho;Biblioteconomista;Travessa Maria Luiza Macedo, 2;fariasian@example.net;14/03/1959;66;29/10/2025;956;14,34;Vendedor_D
+337223;Laís Nascimento;685.123.097-68;Cardoso de Siqueira;Piloto automobilístico;Jardim Fonseca;arodrigues@example.org;19/11/1944;81;08/08/2025;985;14,77;Vendendor_A
+961189;Stella Andrade;974.280.563-65;Moura;Tecnólogo em produção moveleira;Passarela de Cardoso, 86;moraesclara@example.org;30/09/1963;62;11/02/2025;477;7,15;Vendendor_C
+610569;Maria Cecília das Neves;372.164.985-00;Nascimento de da Cruz;Dançarino;Feira Rodrigues, 76;novaisnicole@example.com;29/06/1967;58;08/06/2025;699;10,48;Vendendor_A
+482545;Sra. Catarina Carvalho;926.703.581-95;da Paz do Sul;Carnavalesco;Lago Danilo Casa Grande, 59;camaramaria-liz@example.com;15/04/1999;26;08/12/2024;22;0,33;Vendedor_D
+614786;Benjamin Albuquerque;847.013.629-13;Rios das Flores;Ufólogo;Trecho Agatha da Rocha;davi-luizcosta@example.com;14/03/1979;46;26/12/2024;786;11,79;Vendendor_B
+108179;Davi Lucca Fogaça;562.794.013-16;Cunha;Urbanista;Ladeira Martins;luan78@example.org;03/01/1963;62;26/03/2025;102;1,53;Vendendor_A
+333797;Isaac Teixeira;297.034.618-40;Peixoto do Campo;Engenheiro de transportes;Travessa Montenegro, 80;vitor-hugobrito@example.com;23/01/1981;44;28/01/2025;75;1,12;Vendendor_C
+324300;Maria Clara Pacheco;251.937.480-23;Fernandes do Norte;Clínico geral;Vereda João Felipe Casa Grande, 84;luisaalmeida@example.com;21/05/2017;8;14/12/2024;525;7,88;Vendedor_D
+453456;Helena Araújo;697.034.582-38;Abreu;Assistente social;Vale Matheus da Costa, 2;kda-costa@example.net;18/03/1947;78;27/06/2025;695;10,42;Vendedor_D
+511406;Dra. Maria Helena Macedo;268.945.703-29;Macedo dos Dourados;Desenhista;Setor Valentim da Costa;mpereira@example.org;23/07/1927;98;01/02/2025;324;4,86;Vendendor_C
+744090;Thiago Silva;256.093.478-74;Freitas Grande;Aeronauta;Núcleo de Aparecida, 73;bryan38@example.net;04/09/2009;16;16/05/2025;461;6,92;Vendendor_B
+860031;Léo Azevedo;925.401.783-32;Andrade do Amparo;Angiologista;Quadra Cauã Cunha, 895;mpereira@example.com;25/11/1990;35;17/02/2025;272;4,08;Vendedor_D
+509125;Kamilly Fogaça;132.598.470-14;Leão de Carvalho;Lixeiro/Coletor de lixo;Sítio Enzo Gabriel Silveira, 62;anthony52@example.org;24/01/1933;92;07/09/2025;792;11,88;Vendedor_E
+749535;Diogo Azevedo;601.734.928-78;Leão;Ambientalista;Esplanada de Azevedo, 1;sporto@example.org;13/04/1960;65;16/02/2025;71;1,06;Vendendor_A
+920455;Júlia Nogueira;928.534.601-42;Pinto do Oeste;Acompanhante;Área de da Paz, 62;da-cunhabeatriz@example.net;20/09/1952;73;03/08/2025;876;13,14;Vendedor_E
+251588;Mariana Abreu;703.621.498-87;Dias dos Dourados;Lapidário;Condomínio Theo Gonçalves, 33;liammelo@example.org;31/08/1934;91;23/06/2025;245;3,67;Vendendor_C
+438880;Pedro Lucas Cunha;468.213.095-15;Fonseca;Judoca;Praça de Azevedo, 420;ana-liviagoncalves@example.com;19/09/1957;68;09/09/2025;722;10,83;Vendendor_A
+771692;Dr. Nathan Barbosa;083.425.976-10;Viana Verde;Retificador;Trecho Gabrielly da Conceição, 326;almeidavitor-gabriel@example.org;24/10/1917;108;30/12/2024;73;1,09;Vendendor_B
+919603;Lorena das Neves;658.439.012-89;Nascimento da Serra;Diplomata;Alameda Antônio Camargo, 58;luizafonseca@example.net;01/06/1998;27;19/10/2025;118;1,77;Vendendor_A
+540570;Ágatha Rios;027.916.548-01;Porto;Borracheiro;Vereda Enrico Cavalcanti, 54;uduarte@example.com;14/01/1938;87;11/11/2025;492;7,38;Vendendor_A
+477263;Cecília Cardoso;763.451.290-70;Nogueira de Costa;Notário;Esplanada Brito, 88;alexia37@example.com;09/09/2015;10;05/07/2025;40;0,6;Vendedor_E
+591417;Ana Lívia Macedo;143.905.876-84;Machado;Cobrador de pedágio;Trevo Ryan Novaes, 68;rodrigo12@example.com;28/10/2004;21;02/01/2025;397;5,96;Vendendor_C
+476106;Yasmin Azevedo;471.082.395-23;Novaes Alegre;Gestor de recursos humanos;Colônia de Nunes, 73;camargorafael@example.org;26/04/1939;86;03/04/2025;694;10,41;Vendendor_C
+121508;Daniela Jesus;296.078.341-78;Câmara das Pedras;Patologista oral;Lagoa Luara Cunha, 2;thales46@example.net;19/10/1980;45;16/05/2025;132;1,98;Vendendor_C
+321279;Caio da Cruz;234.861.507-07;Rodrigues de Campos;Atuário;Colônia de da Costa, 28;jrodrigues@example.net;12/07/1987;38;13/10/2025;114;1,71;Vendedor_D
+724416;Asafe Cunha;058.629.743-00;Rezende;Alergologista;Rodovia Emanuella Vieira, 96;ryan97@example.net;23/09/1930;95;02/12/2024;701;10,51;Vendedor_E
+970592;Lucas Moreira;130.657.982-12;Farias;Carpinteiro;Distrito de Novais, 72;oliversampaio@example.com;04/11/2009;16;04/02/2025;776;11,64;Vendendor_C
+771257;Caroline Aparecida;967.034.152-34;da Cruz;Estilista;Morro Sabrina Cavalcante, 13;enzofarias@example.org;19/11/1992;33;10/05/2025;770;11,55;Vendedor_D
+524409;Rael da Rosa;652.309.418-98;Gomes do Sul;Agente de defesa sanitária;Via Castro, 936;augusto93@example.net;29/05/2016;9;09/07/2025;872;13,08;Vendedor_E
+749280;Vitória Abreu;205.386.914-33;Siqueira de Lopes;Caça-talentos/Olheiro;Loteamento Cunha;rcostela@example.net;07/12/1999;26;08/02/2025;293;4,39;Vendendor_C
+754384;Ana Laura Câmara;465.709.381-93;Castro do Galho;Técnico em higiene dentária;Morro Pedro Barbosa, 91;costelaemilly@example.org;15/07/2023;2;22/11/2024;643;9,64;Vendendor_C
+229429;Sr. Ryan Montenegro;275.940.136-70;da Mota;Funileiro;Praça de Caldeira, 451;mnovaes@example.net;02/01/2011;14;12/05/2025;167;2,5;Vendedor_D
+365032;Hellena Silveira;135.679.082-86;Pereira das Pedras;Retificador;Aeroporto Bella Marques, 1;heitor94@example.org;24/09/1914;111;01/03/2025;917;13,75;Vendedor_E
+790788;Sr. Alexandre Borges;869.532.407-92;Rocha do Amparo;Comprador;Largo de Cavalcante, 77;sarah63@example.org;27/07/2008;17;09/12/2024;4;0,06;Vendendor_C
+742538;Dr. Luiz Gustavo Moraes;961.074.582-20;Albuquerque;Fresador;Ladeira Rebeca Cunha;caioguerra@example.com;08/08/2009;16;23/04/2025;660;9,9;Vendendor_B
+843781;Bryan Costela;491.572.860-94;Rezende;Ator;Pátio de Gomes;ana-laura93@example.com;01/08/1953;72;03/08/2025;48;0,72;Vendedor_E
+412204;Otto Pimenta;085.641.392-51;Pinto;Assistente de produção;Condomínio Rios, 180;vasconceloslarissa@example.net;11/11/2005;20;26/08/2025;998;14,97;Vendedor_E
+201767;Julia Peixoto;618.247.039-96;Rezende da Serra;Arrumadeira;Jardim de Sousa, 43;yasminnovaes@example.org;16/08/2002;23;09/02/2025;217;3,25;Vendendor_B
+193205;Ana Clara Guerra;579.436.801-20;Gomes da Praia;Assistente de câmera;Chácara de Moura, 88;jgomes@example.com;10/12/1941;84;25/09/2025;883;13,24;Vendendor_B
+498594;Davi Lucca da Rocha;306.592.187-12;da Rosa da Mata;Profissional de tecnologia de laticínios;Pátio Freitas, 22;fcamara@example.org;30/03/1944;81;14/03/2025;257;3,85;Vendedor_D
+212394;Ana Carolina Pacheco;203.467.891-50;Moraes;Neurocirurgião;Quadra Cirino, 5;maria-julia52@example.org;27/08/1931;94;20/05/2025;241;3,61;Vendendor_A
+945736;Maria Fernanda Rocha;875.603.291-95;Mendonça;Bibliotecário;Conjunto de Aragão, 62;marquesbernardo@example.com;14/01/2002;23;06/09/2025;900;13,5;Vendedor_E
+347520;Pietra Leão;976.438.051-48;Sousa;Surfista;Alameda de Carvalho, 4;tnascimento@example.net;06/01/2023;2;18/02/2025;832;12,48;Vendendor_B
+210832;Kaique Martins;198.425.703-04;Montenegro;Corregedor de justiça;Praia de Cardoso, 693;lmonteiro@example.net;13/05/1939;86;15/04/2025;656;9,84;Vendendor_B
+520909;Vinícius Peixoto;471.506.928-85;Moura;Ferreiro;Praça Mendonça, 76;luiz-fernando52@example.com;03/12/1952;73;26/08/2025;594;8,91;Vendendor_C
+226316;Milena da Cunha;029.785.361-95;Souza;Papiloscopista;Alameda de Sousa, 905;luaravargas@example.org;14/05/1980;45;30/10/2025;149;2,23;Vendedor_D
+853675;Sr. João da Conceição;106.289.354-98;Ramos;Taxidermista/Embalsamador;Rodovia Cassiano, 4;alana91@example.org;26/04/1984;41;27/12/2024;117;1,75;Vendedor_D
+874262;Nina Rios;641.238.509-60;Marques de Ramos;Tatuador;Parque Ana Lívia Teixeira, 269;pedro-lucasrocha@example.com;01/09/1944;81;09/03/2025;461;6,92;Vendedor_D
+833506;Srta. Jade Mendonça;132.685.940-42;Vargas das Flores;Cineasta;Feira Liam Costela, 373;camargodavi-lucas@example.org;03/01/1991;34;20/09/2025;166;2,49;Vendedor_D
+606936;Rael Montenegro;510.473.986-48;Pereira;Ortopedista;Conjunto Almeida, 4;cda-luz@example.com;29/09/1946;79;14/05/2025;39;0,58;Vendendor_B
+448645;Maria Luísa Cunha;749.085.623-00;Cavalcante;Otorrinolaringologista;Fazenda de Melo, 101;luiz-miguelfarias@example.com;16/09/1975;50;06/05/2025;408;6,12;Vendendor_A
+864104;Maria Helena Abreu;397.805.612-77;Azevedo das Flores;Topógrafo;Setor de Albuquerque, 974;cduarte@example.com;24/03/1953;72;15/06/2025;84;1,26;Vendedor_D
+433216;Cecilia Vieira;187.369.450-48;Cardoso da Praia;Torreiro/Torrista;Pátio de Melo;leaomateus@example.net;18/12/2015;10;03/12/2024;565;8,47;Vendendor_A
+517474;Maria Sophia Almeida;719.403.586-39;Duarte;Músico;Rodovia de da Conceição;caldeiramatteo@example.net;06/05/1959;66;19/08/2025;955;14,32;Vendendor_C
+840969;Sra. Rebeca Pinto;467.980.321-50;Cardoso;Astronauta;Viela Vitor Freitas;diaskevin@example.org;14/09/1915;110;07/06/2025;898;13,47;Vendendor_B
+353587;Davi Luiz Santos;528.694.370-56;Leão;Traumatologista;Parque Ana Julia Carvalho, 65;fernandamachado@example.org;11/08/1989;36;08/12/2024;519;7,79;Vendendor_A
+264893;Luiz Felipe Moreira;148.902.635-51;Pastor Grande;Pastilheiro;Recanto de Nunes, 76;lunna23@example.net;17/03/2020;5;07/11/2025;903;13,54;Vendendor_C
+363407;Luna Farias;830.426.759-47;Macedo Verde;Ginecologista;Fazenda Nogueira, 23;lopestheo@example.com;08/12/1976;49;31/12/2024;708;10,62;Vendendor_A
+606213;Hellena Nunes;390.746.512-16;Costela;Cientista da informação e documentação;Ladeira Marcela da Cunha, 35;enzo03@example.net;16/06/1927;98;28/08/2025;780;11,7;Vendedor_E
+762609;Eloá Barros;458.197.306-66;Duarte;Capitão;Setor Luiz Miguel Cavalcante, 51;rezenderafael@example.org;30/09/1982;43;09/01/2025;594;8,91;Vendendor_B
+492754;Fernanda Brito;709.521.468-94;Dias de Vargas;Meeiro;Vila de Vasconcelos, 860;albuquerqueana-vitoria@example.org;16/03/1962;63;03/10/2025;561;8,41;Vendendor_B
+914253;Gael Carvalho;362.485.091-15;Albuquerque;Aeroviário;Quadra de Cardoso, 2;luiza92@example.net;09/10/1978;47;14/09/2025;575;8,62;Vendendor_A
+305261;Lunna Ramos;194.056.823-42;Barros;Jogador de hóquei;Aeroporto Lucas Pimenta, 33;monteiroagatha@example.net;22/08/1985;40;13/02/2025;545;8,17;Vendendor_C
+857687;Aurora Freitas;068.415.327-08;Duarte;Protesista;Núcleo de Cassiano, 836;cunhaluana@example.com;19/06/1961;64;06/02/2025;680;10,2;Vendedor_E
+692027;Rafaela Peixoto;024.315.786-07;Borges de Gonçalves;Peixeiro;Condomínio de da Rosa, 70;pastorhenry-gabriel@example.org;25/10/1933;92;28/11/2024;248;3,72;Vendendor_A
+126351;Valentina Cardoso;437.208.615-62;Porto;Designer de jóia;Conjunto Heitor Porto, 70;isabelamarques@example.com;05/02/2020;5;21/04/2025;772;11,58;Vendedor_D
+720590;Stephany da Paz;475.189.260-67;Sousa;Designer de interiores;Praia de Rocha, 70;barrosdavi@example.com;02/03/2024;1;13/08/2025;721;10,81;Vendendor_A
+360203;Kamilly Montenegro;615.983.207-77;Moreira do Galho;Piloto automobilístico;Estrada Letícia Almeida, 27;wborges@example.net;18/05/2010;15;05/10/2025;576;8,64;Vendendor_B
+273597;Sofia Monteiro;794.683.012-22;Montenegro;Tecnólogo em navegação fluvial;Largo de Andrade, 62;ana-liviacassiano@example.net;07/05/2008;17;26/11/2024;330;4,95;Vendendor_C
+965198;Vinicius Leão;501.286.947-85;Monteiro;Designer de interiores;Travessa de Mendes, 78;vitorcamara@example.net;01/09/1941;84;12/07/2025;390;5,85;Vendendor_A
+247682;Ana Pacheco;650.947.231-70;Cavalcanti de Fogaça;Engenheiro de horticultura;Morro Guerra, 28;cunhayan@example.org;20/03/1934;91;19/02/2025;250;3,75;Vendendor_C
+798023;Valentina Siqueira;185.743.096-48;Viana;Webdesigner;Largo de Nogueira, 777;guilhermecampos@example.net;12/10/2009;16;12/05/2025;49;0,73;Vendendor_A
+700894;Srta. Anna Liz Ferreira;652.143.978-28;da Cunha do Galho;Escriturário;Estrada Sales, 973;julia65@example.net;02/03/1931;94;04/04/2025;865;12,97;Vendendor_C
+914369;Bruna Cavalcante;759.034.816-39;Marques do Galho;Tecnólogo em produção moveleira;Via de Peixoto, 22;nascimentoana-laura@example.org;20/07/1968;57;25/05/2025;225;3,38;Vendendor_B
+769857;Rhavi Pinto;715.920.834-04;Cavalcante Verde;Geradorista;Favela de Mendonça, 67;fduarte@example.org;11/06/1948;77;20/02/2025;994;14,91;Vendendor_C
+766620;Maria Vitória Monteiro;170.634.852-53;Pastor;Odontologista legal;Alameda Novais;ana-vitoria09@example.org;23/07/1998;27;25/01/2025;776;11,64;Vendendor_A
+473732;Yago Albuquerque;890.136.745-93;Garcia;Regente;Chácara de Aparecida, 189;maria-vitoria96@example.org;03/07/1987;38;15/06/2025;23;0,34;Vendendor_C
+383760;Ryan Cardoso;163.859.470-84;Castro Grande;Engenheiro florestal;Vila Pimenta, 89;oda-luz@example.org;22/12/1948;77;07/05/2025;585;8,78;Vendendor_B
+815431;Mariah Costa;250.471.683-44;Silveira;Argumentista;Rodovia Mendonça;xborges@example.com;13/10/1959;66;05/02/2025;644;9,66;Vendedor_E
+496052;Dra. Luna da Conceição;504.371.829-32;Barros de Rocha;Telefonista;Praça de Garcia;carolinaaraujo@example.net;30/01/1937;88;04/06/2025;753;11,29;Vendendor_A
+192324;Ester Pires;879.135.402-14;Pinto do Oeste;Tapeceiro;Rua de da Cruz, 26;da-cruzjoao-felipe@example.net;01/08/1985;40;16/06/2025;983;14,74;Vendendor_B
+745767;Maysa Abreu;078.235.169-77;das Neves do Norte;Tecnólogo em negócios imobiliários;Residencial de Carvalho, 184;nascimentomaite@example.net;02/03/1932;93;08/04/2025;584;8,76;Vendedor_E
+328947;Luiz Otávio Porto;456.028.139-42;Leão da Prata;Montador de negativos;Trevo Aparecida, 12;sofia03@example.net;09/03/1956;69;16/06/2025;901;13,51;Vendendor_A
+424148;Luiz Gustavo Novais;204.873.591-60;Vasconcelos;Gastrônomo;Praia Barbosa, 59;silveiraana-luiza@example.com;15/09/1990;35;08/07/2025;987;14,8;Vendedor_E
+272083;Dom Teixeira;908.475.613-48;Cirino Grande;Pesquisador;Lagoa Silva, 17;garciaclara@example.com;13/06/1979;46;28/10/2025;932;13,98;Vendedor_D
+774314;Agatha da Cunha;723.058.196-68;Cirino;Síndico;Vale de Pires, 17;ana-cecilia28@example.com;31/05/1970;55;10/01/2025;487;7,3;Vendendor_A
+207303;Allana Nascimento;208.153.649-89;Melo;Triatleta;Sítio de Fonseca, 7;bcorreia@example.net;09/02/1942;83;24/05/2025;99;1,48;Vendedor_E
+538721;Eduarda Casa Grande;452.370.168-71;Vargas;Pediatra;Setor de Castro, 68;aparecidajoaquim@example.com;20/01/1961;64;05/03/2025;130;1,95;Vendedor_E
+577459;Manuela Siqueira;246.830.915-42;Pastor dos Dourados;Bartender;Pátio Maria Júlia Vargas, 3;fonsecaapollo@example.com;20/04/1911;114;19/04/2025;952;14,28;Vendendor_B
+572265;Ester Brito;783.201.549-79;Farias;Desembargador de justiça;Ladeira Machado, 15;diasbarbara@example.net;08/11/1942;83;23/07/2025;452;6,78;Vendendor_C
+420190;Heloisa Cirino;276.408.319-03;Vasconcelos;Procurador de justiça;Lago Camargo, 410;rteixeira@example.org;08/01/1968;57;08/10/2025;37;0,55;Vendedor_D
+251227;Ryan Vasconcelos;602.435.781-80;Leão de Goiás;Jardineiro;Travessa Marina Vasconcelos, 71;agatha98@example.org;01/08/2012;13;02/03/2025;614;9,21;Vendendor_B
+449779;Erick Alves;748.603.129-96;Pereira;Lamboteiro;Praia Yan Moura, 31;carlos-eduardosilva@example.net;04/04/2009;16;22/03/2025;568;8,52;Vendendor_A
+432900;Heitor Sousa;407.268.395-74;Cardoso do Oeste;Tecnólogo em silvicultura;Esplanada Moura, 58;luiz-felipe23@example.org;12/09/1977;48;17/03/2025;858;12,87;Vendedor_D
+124270;Dr. Rafael Casa Grande;514.870.963-48;Souza Grande;Artista plástico;Condomínio Carlos Eduardo Barbosa, 585;mariah78@example.org;14/08/1947;78;19/01/2025;838;12,57;Vendendor_C
+341022;Olivia Teixeira;246.198.075-67;Farias de Cirino;Broker/Corretor da bolsa de valores;Parque Costela, 38;lfogaca@example.net;14/04/1946;79;10/03/2025;372;5,58;Vendedor_D
+246042;Yuri Vieira;243.875.691-82;Cardoso de Cardoso;Diretor de produção;Via Augusto da Cruz, 8;sandrade@example.com;12/01/1924;101;09/11/2025;157;2,35;Vendedor_E
+477352;Ravi Lucca Nascimento;702.981.534-32;Peixoto de Rodrigues;Conferente de carga e descarga;Aeroporto Costa;yuricarvalho@example.com;08/11/1939;86;12/12/2024;839;12,58;Vendendor_B
+585961;Isabela Azevedo;025.437.189-23;Souza Paulista;Soldador;Parque de Lopes, 156;gaelpastor@example.net;13/01/1999;26;17/01/2025;715;10,72;Vendendor_C
+915781;Maria Sophia da Costa;845.026.713-71;Azevedo;Montador de negativos;Rua de Pastor, 28;gabreu@example.net;07/05/2019;6;03/06/2025;519;7,79;Vendedor_E
+351628;Ayla Pires;862.719.503-02;da Cunha das Flores;Operador de telemarketing;Passarela de Macedo, 837;rmartins@example.org;17/03/2016;9;31/03/2025;451;6,76;Vendedor_E
+916371;Srta. Olivia Leão;830.459.721-79;Andrade;Esgrimista;Viaduto Pinto, 9;pachecotheo@example.org;15/07/1973;52;20/01/2025;597;8,96;Vendendor_C
+634417;Thiago Jesus;597.380.621-95;Montenegro do Campo;Odontopediatra;Rodovia de Oliveira, 73;nicolas44@example.net;27/07/2023;2;11/09/2025;527;7,9;Vendendor_C
+128226;Henrique Machado;574.631.289-46;Fonseca do Sul;Karateca;Trecho de Lima, 975;luiz-henrique82@example.net;28/05/1976;49;07/06/2025;818;12,27;Vendendor_B
+518047;Laís da Rosa;420.738.591-60;Freitas de Minas;Engenheiro de processos;Campo de Farias, 393;rezendejoao@example.net;16/02/1969;56;18/09/2025;87;1,3;Vendedor_D
+468664;Francisco Cavalcante;851.469.203-89;Rezende;Maquiador;Viaduto Allana Lima, 170;gomesmariane@example.com;08/01/2012;13;10/11/2025;795;11,92;Vendendor_A
+917948;Dom da Conceição;074.592.813-79;Porto;Escoteiro;Vila da Rosa, 16;otaviosantos@example.net;29/12/1992;33;05/10/2025;134;2,01;Vendendor_C
+807094;Luiz Gustavo Freitas;275.341.069-07;da Cunha;Jornalista;Largo de Marques, 66;salesaugusto@example.com;17/11/2011;14;07/03/2025;96;1,44;Vendendor_A
+463583;Josué Dias;901.436.285-42;Silveira;Luthier;Colônia Ana Luiza Ramos, 68;oliveiragabriel@example.org;07/12/1919;106;02/12/2024;563;8,45;Vendendor_A
+472903;Sra. Stephany Moraes;109.572.863-68;Garcia;Engenheiro físico;Praça Cardoso, 22;vianamaria-cecilia@example.net;04/05/1983;42;07/12/2024;539;8,08;Vendendor_B
+576535;Caroline Albuquerque;957.384.201-79;Lima da Praia;Paisagista;Campo Luigi Cunha, 18;jda-cunha@example.org;29/04/1946;79;04/11/2025;22;0,33;Vendendor_A
+594108;Isadora Macedo;154.097.638-66;Lopes;Limpador de vidros;Núcleo Moraes;hadassa99@example.com;10/10/1928;97;08/11/2025;797;11,96;Vendendor_B
+796733;Allana da Rocha;743.251.608-17;Caldeira da Mata;Barman;Quadra Nicole Abreu, 23;wmoura@example.net;23/03/1995;30;18/11/2024;75;1,12;Vendendor_B
+164332;Isabela Carvalho;628.093.157-95;Pires;Lavador de veículos;Setor Thiago Moura, 13;hadassa74@example.com;20/04/2001;24;01/04/2025;219;3,28;Vendendor_C
+960670;Isabela Carvalho;824.913.706-03;da Mota das Pedras;Engenheiro agrônomo;Área Mendes, 956;nascimentomaria-sophia@example.net;10/11/1910;115;18/12/2024;408;6,12;Vendedor_D
+834093;Lucas Dias;036.518.297-40;Abreu;Dentista;Lagoa Bella Silveira, 127;thiagocaldeira@example.org;29/08/2011;14;17/02/2025;859;12,88;Vendendor_A
+848599;Heitor Almeida;732.154.689-64;Machado de Campos;Motofrete;Parque Benicio Cavalcante, 511;abreumaria-liz@example.net;15/03/1930;95;09/05/2025;187;2,8;Vendedor_D
+409949;Fernando Silveira;762.403.981-87;Câmara;Músico;Sítio Maria Liz Pimenta, 3;ssampaio@example.net;15/09/1976;49;11/01/2025;195;2,92;Vendendor_C
+419446;Emilly Pinto;821.960.547-20;Leão Paulista;Intérprete de Bíblias;Esplanada Thiago Barbosa, 81;leandro50@example.org;05/10/2024;1;10/04/2025;808;12,12;Vendendor_B
+300860;Igor Oliveira;068.734.925-74;Barros;Designer de interiores;Setor Souza, 63;ayla03@example.net;04/03/1965;60;11/09/2025;899;13,48;Vendedor_E
+363113;Rael Ferreira;723.096.458-00;Cassiano dos Dourados;Dublador;Chácara Marques, 99;pereiramilena@example.net;29/03/1970;55;25/05/2025;778;11,67;Vendedor_D
+617869;Dr. Lucas Silveira;297.653.148-09;Nascimento;Rebarbador de metal;Avenida Carvalho, 16;danilomoreira@example.org;14/03/2011;14;10/10/2025;812;12,18;Vendendor_B
+764815;João Lucas Fernandes;975.326.180-21;Duarte da Mata;Orçamentista;Residencial de Mendonça, 12;natalia71@example.org;23/04/1930;95;18/08/2025;666;9,99;Vendendor_A
+808694;Yuri Araújo;026.874.935-38;Costela de Viana;Instrutor;Lagoa Thiago Montenegro, 3;matteo97@example.org;05/12/1910;115;04/10/2025;669;10,04;Vendendor_A
+737561;Erick Cassiano;425.639.710-80;Marques de Minas;Retificador;Trecho Yan Pereira;zoecarvalho@example.com;06/05/1956;69;16/09/2025;421;6,31;Vendendor_B
+231992;Olívia Correia;136.785.249-82;Macedo;Cobaia Médica;Viela Viana, 87;leaojuan@example.com;01/01/1992;33;18/03/2025;677;10,15;Vendendor_B
+689490;Sarah Andrade;051.392.768-95;Santos da Serra;Laboratorista;Núcleo Asafe Jesus, 64;sampaiojoao-gabriel@example.org;03/07/1983;42;28/03/2025;954;14,31;Vendedor_D
+801302;Bento Aragão;795.834.210-14;Araújo de Viana;Arquivista;Vale Asafe Cavalcanti, 67;isaque86@example.net;21/01/1919;106;29/07/2025;687;10,3;Vendendor_C
+283158;Sr. Otávio Jesus;346.289.175-82;Araújo das Pedras;DJ;Viela Lima, 395;lopesasafe@example.com;25/03/1980;45;15/08/2025;218;3,27;Vendedor_D
+382178;Dom Mendonça;084.175.963-48;Martins do Oeste;Paisagista;Lagoa Novaes, 55;raquelcardoso@example.com;06/11/1927;98;08/11/2025;991;14,87;Vendedor_D
+403190;Stella das Neves;923.851.746-00;da Cunha Grande;Gerente de inovações ou novos negócios;Condomínio de Sá;casa-grandecarolina@example.com;23/07/1913;112;05/04/2025;577;8,65;Vendendor_C
+215157;Thiago Nunes;962.837.401-03;Araújo;Corretor da bolsa de valores;Viela Cardoso, 822;gnunes@example.org;23/08/1977;48;22/09/2025;358;5,37;Vendendor_B
+296101;Maria Fernanda Pimenta;432.956.710-52;Carvalho;Editor;Estação Nina Pereira, 50;melina11@example.org;12/08/1964;61;21/07/2025;652;9,78;Vendedor_E
+643370;Mathias Cavalcante;140.597.326-99;Barros;Museólogo;Estrada da Costa, 11;leo36@example.org;29/05/1948;77;11/07/2025;76;1,14;Vendendor_C
+315939;Yago da Cunha;987.423.150-50;Azevedo Grande;Designer gráfico;Trecho Dias, 52;theodoromontenegro@example.com;15/01/1998;27;16/09/2025;488;7,32;Vendendor_C
+197462;Sra. Maria Júlia Porto;765.310.948-93;da Rosa do Amparo;Auditor;Rua Siqueira;jfogaca@example.com;15/06/1938;87;08/12/2024;576;8,64;Vendendor_A
+308954;Raul Rocha;163.784.509-00;da Mota;Telefonista;Favela João Pedro Camargo, 215;cassianoluara@example.com;07/08/2006;19;15/02/2025;595;8,92;Vendedor_E
+398582;Sarah Peixoto;510.846.293-05;Araújo;Designer gráfico;Viela Guerra;sofiadias@example.com;13/08/1945;80;05/12/2024;725;10,88;Vendendor_B
+472660;Clarice Araújo;279.134.058-05;Barbosa;Piloto de avião;Rua Davi Miguel Barbosa, 17;diegoda-mota@example.org;14/04/1955;70;17/03/2025;260;3,9;Vendendor_A
+532744;Srta. Isadora Borges;524.180.796-94;Rocha;Obstetra;Parque Gabriela Câmara, 47;ypereira@example.org;31/01/2001;24;20/06/2025;553;8,29;Vendendor_B
+228321;Valentina Almeida;532.761.498-00;da Rocha das Pedras;Conferente de recebimento;Setor Daniel Camargo, 6;maria-sophiagomes@example.org;26/10/2012;13;29/05/2025;727;10,9;Vendendor_B
+717319;Dra. Allana Abreu;695.842.071-30;Borges da Praia;Educador integrado à saúde pública;Fazenda Melo;beniciogoncalves@example.org;08/01/1957;68;25/11/2024;260;3,9;Vendedor_E
+366818;Beatriz Duarte;640.871.923-69;Pinto;Subprefeito;Viaduto Benício Alves, 842;salesmaria-fernanda@example.com;15/06/1950;75;04/06/2025;77;1,16;Vendendor_A
+572526;Pietro Costela;087.562.934-29;Câmara;Bombeiro;Distrito Pacheco, 29;marcelanascimento@example.com;10/05/1991;34;13/06/2025;615;9,22;Vendedor_E
+613855;Ayla Cavalcanti;946.753.028-74;Marques;DJ;Praça Fernando Cassiano, 2;saraferreira@example.org;26/08/1996;29;06/11/2025;126;1,89;Vendedor_E
+486290;Heitor Moreira;015.382.496-42;Albuquerque;Carteiro;Trevo Joaquim Nascimento, 41;camarasamuel@example.org;04/08/1968;57;26/02/2025;886;13,29;Vendedor_D
+483332;Luara da Mata;780.546.931-84;Porto da Prata;Cartazeiro;Avenida Pereira, 66;oalves@example.net;29/10/1977;48;09/05/2025;488;7,32;Vendedor_D
+526787;Hellena da Paz;539.127.840-60;Freitas;Bancário;Condomínio Vasconcelos, 18;gabriel51@example.org;02/12/1999;26;19/09/2025;489;7,33;Vendendor_A
+760773;João Pedro Dias;498.325.701-23;Ramos;Percursionista;Morro Isabelly Rocha, 67;maraujo@example.net;07/01/1984;41;29/04/2025;860;12,9;Vendendor_C
+217520;Manuela Caldeira;637.052.489-10;Martins de Minas;Jogador de basquete;Núcleo Albuquerque, 95;aragaocamila@example.org;31/05/2021;4;02/03/2025;205;3,07;Vendendor_C
+747538;Sophia Ramos;843.279.650-65;da Costa da Praia;Senador;Pátio de Guerra, 39;mendoncajoao-miguel@example.org;21/08/2022;3;02/02/2025;564;8,46;Vendedor_D
+887275;Hellena Rocha;718.234.506-44;Costela de Aparecida;Barman;Parque Macedo, 242;gabrielferreira@example.org;01/11/1922;103;05/10/2025;120;1,8;Vendendor_B
+184400;Jade Siqueira;876.052.314-07;Pires;Desenhista;Parque de Rios, 355;rezendebarbara@example.com;05/07/1944;81;22/05/2025;499;7,48;Vendedor_D
+736214;Fernando Silva;451.726.038-08;da Cruz do Campo;Controller;Loteamento Cirino, 2;guerraleandro@example.net;21/11/1942;83;04/05/2025;362;5,43;Vendedor_E
+784476;Maria Luísa Sousa;918.270.456-20;Pereira do Galho;Cartunista;Estrada de Caldeira, 50;fernando40@example.org;14/12/1968;57;17/07/2025;996;14,94;Vendedor_D
+265821;Antonella Barros;987.352.146-19;Camargo;Técnico em tratamento de água;Residencial Gonçalves, 74;mourabenicio@example.org;06/01/2014;11;19/06/2025;183;2,75;Vendendor_A
+568967;João Miguel Macedo;963.147.520-43;Siqueira;Trilheiro ou músico de cinema;Morro Pacheco, 57;ibrito@example.net;24/03/2000;25;26/07/2025;669;10,04;Vendendor_C
+336443;Ravi Porto;972.831.650-02;Sousa das Flores;Modelo;Alameda Moraes, 56;xpires@example.org;13/08/1957;68;07/06/2025;94;1,41;Vendendor_C
+640462;Murilo Aragão;273.518.640-71;Barros do Norte;Geólogo;Avenida de Aparecida;joao-felipemendonca@example.com;22/05/1968;57;13/05/2025;995;14,92;Vendendor_B
+834179;Hadassa Abreu;894.312.076-13;Garcia;Ufólogo;Largo de Garcia, 18;pachecoayla@example.org;04/10/1972;53;16/09/2025;724;10,86;Vendedor_E
+475825;Mirella Souza;934.820.561-70;Alves;Jornalista;Rodovia Ágatha Vieira, 921;pereiraluisa@example.com;17/04/1990;35;19/07/2025;785;11,78;Vendedor_E
+418901;Lara Ramos;692.371.085-59;Novais;Gandula;Loteamento de Aparecida;gcastro@example.com;11/01/1943;82;22/08/2025;100;1,5;Vendedor_D
+838050;Luana Cunha;987.401.325-79;Cavalcanti;Projetista mecânico;Núcleo Ramos, 27;sabrinacavalcanti@example.org;01/08/2002;23;20/07/2025;429;6,43;Vendendor_A
+727545;Anthony Gabriel Cirino;964.728.053-00;da Mota de Souza;Técnico em aviação;Núcleo Diego Aparecida;brenocassiano@example.org;23/09/1948;77;21/09/2025;140;2,1;Vendendor_C
+123117;Manuela Ferreira;759.830.241-32;Freitas;Cirurgião bucal;Recanto Thomas Machado, 6;mpires@example.net;23/10/2018;7;01/08/2025;490;7,35;Vendendor_A
+521574;Gabriel Azevedo;054.179.862-67;Rodrigues;Fotógrafo;Setor Azevedo, 1;maria-liz63@example.net;02/01/2017;8;30/03/2025;422;6,33;Vendendor_C
+823169;Bárbara da Mota;807.235.164-80;das Neves de Novaes;Supervisor;Passarela Cavalcante, 14;kda-rosa@example.net;08/05/1976;49;18/08/2025;541;8,12;Vendendor_A
+911833;João Lucas da Luz;380.179.264-13;Oliveira de Pimenta;Lutador de luta livre;Travessa Otávio Sousa, 400;carvalhokaique@example.org;13/04/1945;80;12/08/2025;866;12,99;Vendendor_B
+313606;Vinicius Costa;208.543.961-60;Melo de da Rosa;Torneiro mecânico;Distrito de Cavalcanti, 26;yuri49@example.net;25/08/1994;31;26/07/2025;612;9,18;Vendendor_C
+605281;Lorena Montenegro;329.810.754-97;Lopes;Selecionador de pessoal;Passarela de Barros, 49;evasconcelos@example.net;08/08/1922;103;07/02/2025;457;6,85;Vendedor_E
+797672;Ana Laura da Rosa;193.265.074-16;Pires de Sampaio;Farmacêutico;Viela Benjamin Sousa, 23;pirescaleb@example.com;28/02/2004;21;03/09/2025;233;3,49;Vendendor_A
+564268;Sr. Igor Pastor;281.643.509-15;Araújo;Babysitter;Colônia de Barros, 48;xcamara@example.org;08/12/1978;47;09/12/2024;644;9,66;Vendendor_C
+383159;Maria Cecília Alves;405.627.981-02;da Paz do Amparo;Engenheiro mecatrônico;Condomínio de Silveira, 47;marcelafogaca@example.org;02/11/2012;13;23/12/2024;886;13,29;Vendendor_A
+451332;Mathias Camargo;589.306.472-00;Casa Grande;Cenotécnico;Trecho Stella Mendes, 78;maria-luisa53@example.com;28/06/1931;94;17/03/2025;397;5,96;Vendendor_C
+722296;Alana da Cunha;485.307.612-35;Montenegro de Minas;Bailarina;Viela de Abreu;hda-mota@example.org;05/04/1977;48;09/03/2025;885;13,28;Vendendor_B
+325356;João Vitor Macedo;426.987.531-37;Rodrigues;Implantodontista;Vila de Pacheco, 237;julia97@example.com;19/08/1991;34;28/05/2025;725;10,88;Vendedor_D
+545969;Diogo Andrade;278.359.610-59;Abreu;Estivador;Viela de Cassiano, 7;zdas-neves@example.net;22/05/2013;12;18/03/2025;252;3,78;Vendendor_B
+502207;Srta. Clara Mendes;205.816.974-30;Costela do Amparo;Enólogo;Recanto da Cruz, 118;abreuvitor-gabriel@example.com;24/05/1938;87;11/02/2025;435;6,52;Vendendor_B
+299610;Luiz Henrique Melo;094.815.637-66;Sampaio;Baixista;Morro de Vieira, 7;britofernanda@example.org;04/09/2022;3;09/06/2025;109;1,64;Vendedor_E
+597877;Marcela da Rocha;280.514.736-71;Montenegro;Estatístico;Esplanada Martins, 73;vlima@example.org;09/03/1991;34;13/10/2025;925;13,88;Vendendor_A
+152393;Dante Mendes;739.102.458-97;Santos;Jogador de bocha;Quadra Porto, 98;moraesmaria-luisa@example.net;13/05/1948;77;03/05/2025;607;9,11;Vendedor_E
+608103;Juliana Caldeira;085.723.614-80;Lopes;Guincheiro;Lago de Barros, 568;isabel26@example.com;30/10/2005;20;17/07/2025;917;13,75;Vendedor_D
+913292;Renan Carvalho;436.098.712-96;Rezende Verde;Atleta de arremesso de peso;Esplanada Bryan Câmara, 899;borgesheloisa@example.com;08/06/1955;70;07/05/2025;744;11,16;Vendedor_E
+634935;Sra. Maitê Costela;675.403.219-70;Pastor Paulista;Hostess;Jardim de Nogueira;marcos-vinicius35@example.org;01/03/2025;0;01/12/2024;251;3,76;Vendendor_A
+585101;Nina Nunes;728.453.910-05;Pimenta de da Costa;Jogador de vôlei;Quadra Casa Grande, 44;anogueira@example.com;20/01/1958;67;27/12/2024;152;2,28;Vendedor_E
+593580;Ana Júlia Cunha;120.954.763-52;Brito;Telefonista;Avenida de Novaes, 947;da-conceicaoenzo@example.com;11/12/1933;92;11/02/2025;667;10,0;Vendedor_D
+698783;Ian Dias;935.472.106-07;Melo da Praia;Cumim;Rua Catarina Borges, 55;barrosmurilo@example.com;29/12/1954;71;21/08/2025;666;9,99;Vendedor_E
+182583;Enrico Ramos;325.871.096-12;da Rocha;Ambulante;Rodovia Campos, 91;portohenry@example.com;13/06/2000;25;01/12/2024;65;0,97;Vendendor_A
+982760;Maria Eduarda Lima;406.725.918-20;Pastor;Musicoterapeuta;Estação de da Luz, 1;joaquimcasa-grande@example.com;01/09/1973;52;27/02/2025;347;5,21;Vendedor_E
+480496;Rodrigo Fonseca;234.091.568-60;Cardoso do Oeste;Ortopedista;Largo Mendes;fogacamarcelo@example.org;24/12/2014;11;22/02/2025;487;7,3;Vendedor_D
+449148;Clara Rocha;409.123.658-89;Brito do Amparo;Engenheiro agrônomo;Estrada Ramos, 77;montenegrojuliana@example.com;18/03/1975;50;02/07/2025;464;6,96;Vendendor_A
+562059;Dra. Eloá Albuquerque;786.403.125-08;Brito de Mendonça;Tapeceiro;Praia da Luz, 14;davi-luiz13@example.org;11/07/1919;106;18/06/2025;822;12,33;Vendendor_B
+986549;Asafe da Rocha;378.109.462-69;Nogueira do Oeste;Papiloscopista;Vereda Letícia Guerra, 88;vda-conceicao@example.org;17/02/1956;69;01/12/2024;784;11,76;Vendedor_D
+539523;Lorena Ramos;613.547.028-08;Novaes de Moura;Manicure;Jardim Isaac Machado, 78;ribeirocaroline@example.org;15/06/2013;12;27/09/2025;546;8,19;Vendendor_B
+515413;Gabrielly Cavalcante;921.486.507-85;Nogueira;Contábil;Praça Gomes, 7;arthur-gabrielgarcia@example.org;20/11/1962;63;23/06/2025;368;5,52;Vendendor_B
+230420;Maria Mendonça;395.874.612-82;Moraes;Cineasta;Ladeira de Barbosa, 43;josueda-rocha@example.net;22/07/1958;67;11/09/2025;672;10,08;Vendendor_B
+979870;Esther Pacheco;036.472.819-13;Machado das Pedras;Técnico em arquivo;Trevo Agatha Viana, 97;leonardo85@example.com;02/04/1918;107;19/02/2025;32;0,48;Vendendor_B
+783627;Théo Alves;683.259.410-06;Ribeiro;Office-boy;Travessa Camila Sales, 39;garcialavinia@example.org;18/12/1978;47;30/06/2025;986;14,79;Vendendor_A
+728748;Dr. Caleb Cardoso;479.685.032-56;Nunes;Historiador;Conjunto Vargas, 95;nsousa@example.net;17/11/1932;93;19/02/2025;601;9,01;Vendendor_B
+923159;Bento Borges;687.145.392-09;da Rocha;Traumatologista;Favela Moreira, 8;maria75@example.net;21/05/1940;85;04/11/2025;367;5,5;Vendendor_A
+133014;Júlia Leão;517.326.490-06;Mendonça de Nunes;Cenotécnico;Praça da Mota, 194;luiz-miguel09@example.com;24/11/1923;102;24/01/2025;804;12,06;Vendedor_E
+808439;Maria Júlia Peixoto;089.357.641-75;Gonçalves;Tecnólogo em negócios imobiliários;Sítio de Moreira, 608;xrezende@example.net;09/03/1959;66;07/09/2025;308;4,62;Vendendor_A
+126208;Srta. Milena Novaes;159.463.270-70;Jesus das Flores;Quadrinista;Fazenda Farias, 1;gcaldeira@example.org;18/09/1955;70;25/04/2025;349;5,23;Vendedor_D
+818554;Marcos Vinicius Rocha;634.501.782-53;Costela de Aragão;Locutor;Favela de Borges, 35;araujodaniel@example.org;29/03/1959;66;12/11/2024;368;5,52;Vendendor_B
+634530;Sra. Isabel Novais;413.567.089-00;Pastor;Acupunturista;Largo de Guerra, 282;eduarda61@example.net;16/06/1961;64;31/10/2025;486;7,29;Vendedor_E
+262653;Apollo Costa;034.972.185-88;Machado;Supervisor;Jardim Alana Montenegro, 23;pedro-henriquemendonca@example.com;21/01/1969;56;22/07/2025;632;9,48;Vendendor_C
+268951;Gael Henrique Ribeiro;684.519.702-49;Dias;Jardineiro;Trecho Igor Gomes, 49;qda-cunha@example.com;02/01/1971;54;29/09/2025;467;7,0;Vendedor_D
+175928;Ana Julia Santos;934.261.850-24;Rezende do Amparo;Figurante;Viaduto de da Mata, 58;riosluiz-felipe@example.com;19/08/1963;62;12/08/2025;404;6,06;Vendendor_B
+491944;Sr. Ravi Lucca Nogueira;513.064.798-00;Barros da Prata;Locutor;Rodovia Bárbara Montenegro, 11;isabel11@example.org;18/11/1919;106;05/02/2025;247;3,71;Vendendor_A
+156775;Srta. Isabella Fogaça;340.728.156-08;Nogueira do Amparo;Office-boy;Fazenda Maria Luísa Martins, 9;pbrito@example.org;22/08/1946;79;18/06/2025;676;10,14;Vendendor_A
+467029;Léo Viana;497.638.250-83;Azevedo de Minas;Carteiro;Esplanada Maria Flor Moreira, 7;dmoraes@example.net;04/02/1994;31;04/08/2025;784;11,76;Vendendor_A
+721163;João Miguel Fernandes;195.036.872-68;Gomes;Contábil;Vereda Theo Campos, 6;silvajoao-lucas@example.org;06/12/2022;3;10/08/2025;114;1,71;Vendedor_D
+905946;Amanda da Cunha;410.379.586-75;Viana;Veterinário;Estação da Mata, 50;isisgoncalves@example.net;08/09/1981;44;28/09/2025;828;12,42;Vendedor_D
+734517;João Borges;530.829.176-40;Sousa de Peixoto;Massoterapeuta;Praça Thomas Lopes, 4;davi-lucca33@example.net;11/01/1934;91;02/08/2025;707;10,61;Vendedor_D
+378180;Kevin Azevedo;954.263.071-99;Albuquerque;Clínico geral;Vila de Cavalcante;borgesguilherme@example.com;12/12/1940;85;06/02/2025;108;1,62;Vendedor_D
+565337;Luana Porto;670.395.481-00;Barbosa;Biblioteconomista;Lago de Azevedo, 33;blopes@example.org;30/03/1917;108;04/06/2025;818;12,27;Vendendor_C
+443409;Cauã Fonseca;458.316.029-15;Silva dos Dourados;Lixeiro/Coletor de lixo;Rua Silveira, 209;hporto@example.org;07/10/2009;16;14/01/2025;256;3,84;Vendendor_A
+130133;Srta. Nicole Cirino;189.650.372-12;da Rosa;Engenheiro civil;Distrito Diogo Rezende, 16;sousaluiza@example.net;20/09/2008;17;07/11/2025;7;0,1;Vendedor_D
+412156;Isaac Ferreira;345.291.670-70;Pinto;Transcritor;Ladeira de Vasconcelos, 16;bcardoso@example.net;20/01/2001;24;22/09/2025;499;7,48;Vendendor_B
+442975;Dr. Vicente Macedo;064.925.837-10;Novais;Flautista;Morro de Campos, 754;das-nevesbenjamin@example.org;20/05/1940;85;15/05/2025;929;13,93;Vendedor_D
+484592;Sr. Kevin Vargas;548.072.163-17;Câmara;Físico nuclear;Condomínio de Novaes, 98;da-costamathias@example.com;27/09/1928;97;12/12/2024;742;11,13;Vendendor_A
+304311;Davi Miguel Ribeiro;018.276.594-67;Oliveira Verde;Cientista de alimentos;Estação Souza;rafaeljesus@example.org;26/05/1911;114;10/01/2025;511;7,67;Vendendor_A
+806274;Yan Macedo;205.981.376-02;Caldeira;Broker/Corretor da bolsa de valores;Sítio Ribeiro, 77;diasanna-liz@example.com;04/07/1914;111;11/12/2024;171;2,56;Vendedor_E
+759149;Dr. Luiz Miguel Pacheco;157.280.694-01;Carvalho;Publicitário;Avenida Novaes, 4;brayanguerra@example.org;14/04/1947;78;15/02/2025;50;0,75;Vendedor_D
+260447;Samuel Correia;041.867.925-85;Fonseca do Norte;Policial militar;Campo João Felipe Lima, 3;kcaldeira@example.org;12/05/1949;76;26/12/2024;858;12,87;Vendendor_A
+254161;Kevin Martins;796.215.048-30;Cunha do Norte;Piloto de avião;Travessa da Cruz, 72;luanaalves@example.com;08/01/1933;92;03/03/2025;36;0,54;Vendendor_B
+327760;Dra. Luísa Pereira;762.934.158-09;Lima da Prata;Garimpeiro;Parque da Costa, 75;ester04@example.com;02/11/1938;87;30/10/2025;997;14,96;Vendedor_D
+729628;Fernanda Marques;706.139.452-80;Gonçalves da Mata;Profissional de relações públicas;Núcleo Caldeira, 658;maria-helena94@example.org;11/05/1927;98;20/03/2025;568;8,52;Vendedor_E
+758496;Srta. Yasmin Novais;629.573.401-43;da Costa;Jogador de badminton;Sítio de Almeida, 20;qsousa@example.com;20/11/2013;12;28/06/2025;486;7,29;Vendendor_B
+258557;Joaquim Silveira;076.284.953-38;Sampaio;Engraxate;Passarela Borges;ramosmaria-luisa@example.net;25/05/1938;87;21/11/2024;885;13,28;Vendendor_A
+609562;Rodrigo Vieira;684.571.290-58;Moura Alegre;Lapidário;Residencial Nathan Marques, 48;xferreira@example.org;17/06/2021;4;06/07/2025;901;13,51;Vendendor_C
+173452;Lorena Porto;958.276.304-38;Barbosa;Lutador de jiu-jitsu;Praia Jesus;lda-rosa@example.net;21/07/1971;54;12/03/2025;802;12,03;Vendendor_B
+825736;Danilo Barros;810.329.657-03;Novais;Tenente;Setor de Pires, 4;albuquerquevitor-hugo@example.org;19/04/1941;84;30/01/2025;686;10,29;Vendendor_A
+679838;Bernardo Monteiro;517.089.364-75;da Rocha do Sul;Levantador de peso;Rodovia Davi Lucca da Mata, 709;hadassacardoso@example.com;21/08/1982;43;04/10/2025;966;14,49;Vendendor_B
+664844;Srta. Ana Júlia Cardoso;458.690.132-24;Ferreira;Catador de carangueijos;Favela Costa, 94;marcos-viniciusabreu@example.org;16/07/2009;16;15/03/2025;973;14,59;Vendendor_A
+359744;Mariana Vargas;493.617.085-20;Monteiro;Penhorista;Rodovia Josué Fogaça, 95;gfreitas@example.com;05/03/2012;13;19/10/2025;359;5,38;Vendedor_E
+537561;Gael Silveira;824.063.597-00;Casa Grande;Maestro;Alameda Cirino, 88;luiz-felipe25@example.com;29/09/1911;114;29/11/2024;250;3,75;Vendendor_C
+504680;Dante Caldeira;501.782.634-35;das Neves;Filósofo;Praia Ana Júlia da Conceição, 6;esternunes@example.org;03/03/1972;53;31/01/2025;243;3,65;Vendendor_A
+932772;Dr. Ravi Rocha;361.740.259-34;da Cunha;Jogador de vôlei;Jardim Catarina Gonçalves, 58;maite83@example.net;29/04/2024;1;05/09/2025;465;6,97;Vendedor_E
+196146;Levi Aparecida;398.250.764-29;Rios do Campo;Gastrônomo;Travessa Ribeiro, 638;barbosakaique@example.com;03/12/1999;26;05/01/2025;801;12,01;Vendendor_C
+217227;Leandro Garcia;312.549.607-16;Ramos;Triatleta;Ladeira Monteiro;dpinto@example.net;04/10/2000;25;31/05/2025;382;5,73;Vendendor_B
+223105;Luiz Felipe Teixeira;031.295.487-50;Moraes;Repositor;Alameda Fernandes, 35;riosluan@example.org;18/05/2013;12;28/09/2025;72;1,08;Vendendor_C
+739032;Luna Nascimento;208.379.164-96;Melo;Ginasta rítmica;Esplanada Kaique Novais, 27;pereiranina@example.com;02/10/1946;79;24/03/2025;395;5,92;Vendendor_A
+611235;Sr. Rhavi Oliveira;253.419.670-70;Marques de Minas;Juiz de direito;Morro Ana Sophia Abreu, 29;dom54@example.net;21/05/2003;22;05/01/2025;753;11,29;Vendendor_B
+242930;Ágatha Carvalho;140.789.235-50;Vasconcelos;Cobrador de ônibus;Travessa Costa, 318;antonycarvalho@example.com;27/12/2015;10;19/11/2024;532;7,98;Vendendor_B
+720879;Vitor Hugo Pires;386.941.702-13;Montenegro;Terapeuta Holístico;Núcleo Caleb Pastor, 36;da-cruzvitor-hugo@example.com;25/02/1965;60;07/11/2025;661;9,91;Vendendor_A
+382764;Srta. Hadassa Moreira;316.792.408-03;Jesus;Policial militar;Via Macedo, 74;alexia50@example.net;07/07/1933;92;13/04/2025;479;7,18;Vendedor_D
+853158;Gabriela Fonseca;209.134.785-04;Silveira do Sul;Almirante;Jardim de Campos, 1;bryandias@example.net;30/03/2004;21;14/04/2025;264;3,96;Vendendor_C
+458821;Dra. Ana Clara Guerra;368.579.420-56;da Luz de Santos;Profissional de áudio;Distrito Peixoto, 99;zferreira@example.net;17/02/1971;54;17/08/2025;919;13,79;Vendedor_D
+965331;Guilherme Câmara;374.958.016-20;da Mota;Ourives;Parque de Melo, 4;henriqueabreu@example.org;30/05/1939;86;19/01/2025;212;3,18;Vendendor_B
+594302;Dra. Emanuelly Vasconcelos;170.248.963-96;Novaes de Rodrigues;Meteorologista;Campo de da Costa;mateus61@example.org;13/09/1991;34;18/04/2025;832;12,48;Vendendor_B
+173252;Natália Alves;729.356.148-28;Fonseca das Flores;Editor de mesa de corte;Praia de Pacheco;daparecida@example.org;29/10/1969;56;25/12/2024;641;9,62;Vendendor_C
+603781;Dr. Diogo Machado;753.218.049-23;Fonseca de Vasconcelos;Estatístico;Área Maria Júlia Vasconcelos, 9;ramosrafael@example.org;07/07/2012;13;03/07/2025;739;11,08;Vendendor_C
+447493;Srta. Juliana Campos;870.631.549-66;Barbosa;Frentista;Travessa Barbosa, 5;ian94@example.org;30/07/1994;31;29/01/2025;261;3,92;Vendendor_A
+375365;Ravi Lucca Lopes;238.910.546-70;da Mota Alegre;Pediatra;Estação de Garcia, 39;noahda-cruz@example.net;20/10/1938;87;23/02/2025;241;3,61;Vendedor_E
+194114;Maria Liz Jesus;509.742.168-01;Mendes;Chaveiro;Chácara de Andrade;luiz-felipe53@example.org;31/05/1993;32;16/12/2024;467;7,0;Vendendor_B
+525281;Isabella Mendonça;075.946.813-39;Costa;Remador;Setor de Porto, 614;sara70@example.org;01/01/1931;94;23/06/2025;617;9,25;Vendendor_C
+297554;João Guilherme da Rosa;304.928.657-10;Cavalcante;Tapeceiro;Chácara Brito, 33;alicialima@example.org;23/06/1933;92;16/03/2025;182;2,73;Vendendor_C
+743689;Elisa Fogaça;062.714.853-08;Casa Grande de Freitas;Salva-vidas;Residencial Mariane Lopes, 667;luccasantos@example.net;01/04/1925;100;06/12/2024;915;13,72;Vendendor_B
+585554;Sr. Luiz Felipe Vasconcelos;602.487.931-87;Cirino;Fiscal;Largo Ágatha Sampaio;bcorreia@example.org;16/08/1985;40;29/06/2025;577;8,65;Vendendor_B
+407041;Bruno Cassiano;026.174.985-49;Dias do Sul;Cameraman;Rodovia Nathan Montenegro;silvaeloa@example.org;05/07/2019;6;12/02/2025;75;1,12;Vendendor_C
+112554;Luiz Gustavo Fonseca;931.845.672-73;Rios;Engenheiro aeronáutico;Sítio Alana Rios, 27;aparecidamaria-julia@example.net;16/05/1981;44;04/08/2025;741;11,12;Vendendor_A
+845710;Davi Lucca Dias;193.407.865-48;Dias das Pedras;Dentista;Chácara Novaes, 81;luisapastor@example.com;25/02/1929;96;07/04/2025;528;7,92;Vendedor_D
+880657;Daniel Rodrigues;390.814.276-87;Jesus Verde;Pedagogo;Feira Maria Alice Borges, 24;lorenzo66@example.com;05/06/1945;80;12/10/2025;817;12,25;Vendedor_E
+977767;Marcelo Costa;531.876.924-19;Vasconcelos do Galho;Necromaquiador;Avenida Aragão, 36;iribeiro@example.com;08/05/2007;18;11/02/2025;694;10,41;Vendedor_D
+948483;Carolina Machado;590.826.137-86;Azevedo;Filósofo;Trecho Gonçalves, 69;tviana@example.org;22/11/1977;48;30/09/2025;683;10,24;Vendedor_D
+437777;Dra. Ana Laura Duarte;268.573.190-30;Gomes de Sales;Tapeceiro;Fazenda Sousa, 66;laviniapereira@example.net;05/09/1914;111;10/03/2025;690;10,35;Vendendor_B
+864214;Sra. Bianca Dias;943.178.650-84;Rios da Mata;Clínico geral;Rodovia Luiza Abreu, 2;fcunha@example.com;10/11/2004;21;12/03/2025;328;4,92;Vendendor_A
+575381;Maitê Moura;136.759.248-82;da Mata;Baterista;Alameda João Guilherme Farias, 2;lais51@example.com;16/04/2019;6;20/12/2024;951;14,26;Vendedor_D
+653211;Ana Clara Vieira;539.178.602-95;Camargo;Carpinteiro;Lago de das Neves, 556;bernardocavalcanti@example.net;17/07/1963;62;27/09/2025;92;1,38;Vendendor_C
+476904;Sr. Davi Miguel Costa;641.082.597-85;Sá;Prefeito;Setor Enzo Gabriel Marques, 58;santosisadora@example.org;12/03/1983;42;23/03/2025;783;11,74;Vendendor_C
+278976;Gabrielly Fogaça;085.793.612-30;Peixoto Paulista;Desenhista;Vila Novaes, 50;ferreiraantony@example.org;20/04/1926;99;09/09/2025;139;2,08;Vendendor_C
+667879;Miguel Silva;591.687.423-55;Borges do Amparo;Engenheiro de produção agroindustrial;Praça Rocha, 15;da-rosakaique@example.net;30/09/1994;31;25/10/2025;213;3,19;Vendendor_B
+439847;Luan Castro;351.286.749-91;Cirino da Serra;Gestor ambiental;Parque Garcia, 9;arthurmoreira@example.com;18/11/2012;13;19/12/2024;288;4,32;Vendendor_A
+784768;Srta. Larissa Cardoso;540.397.628-00;Santos da Serra;Operador de telemarketing;Ladeira Caleb Viana;eduardonogueira@example.net;27/07/1996;29;05/08/2025;337;5,05;Vendendor_A
+883248;Alana Sales;457.621.308-35;Brito;Empregado doméstico;Residencial de Cavalcante, 36;leaomarina@example.org;15/07/2005;20;26/11/2024;694;10,41;Vendedor_E
+270911;Rafael Costela;176.320.859-12;da Luz da Mata;Quitandeiro;Viela de Nascimento, 66;lorena64@example.net;16/02/1962;63;17/04/2025;47;0,7;Vendendor_A
+178348;Ian Souza;237.410.895-32;Pereira do Campo;Bibliotecário;Alameda Vargas, 313;riosallana@example.org;24/07/1916;109;07/01/2025;573;8,59;Vendedor_D
+747231;Dra. Catarina Novais;079.612.358-68;Mendes Alegre;Eletricista de automóveis;Viaduto José Pedro Mendonça, 66;luizapimenta@example.org;19/12/1921;104;01/06/2025;888;13,32;Vendendor_C
+184064;João Felipe Carvalho;132.065.894-60;Machado do Sul;Consultor de moda;Ladeira Rafael Rezende, 84;icamara@example.org;09/03/1971;54;04/12/2024;804;12,06;Vendendor_A
+660889;Esther Fonseca;946.320.581-06;Cavalcante de Novais;Policial militar;Campo Correia, 32;abreujade@example.net;03/07/1970;55;19/10/2025;776;11,64;Vendedor_D
+499294;Arthur Gabriel Duarte;307.548.921-23;Almeida Verde;Barman;Fazenda de Aparecida, 1;souzaana-julia@example.com;26/05/2003;22;19/06/2025;307;4,6;Vendendor_C
+214994;Maria Luísa Gonçalves;750.621.934-43;da Costa;Cartunista;Pátio Davi Lucca Lima, 95;lopesana-liz@example.com;03/01/1973;52;21/07/2025;274;4,11;Vendendor_C
+574973;Henry Pereira;274.983.015-04;da Mata;Capataz;Conjunto Pedro Miguel Abreu, 924;fda-cunha@example.org;18/05/1926;99;25/01/2025;32;0,48;Vendedor_E
+939144;Dra. Daniela das Neves;425.860.719-30;Campos;Profissional de manutenção industrial;Rua de Sampaio, 741;siqueirabella@example.com;12/05/1966;59;11/10/2025;406;6,09;Vendendor_A
+596716;João Vitor da Conceição;046.278.193-31;Fernandes Grande;Manobrista;Estação Ester Rocha, 6;luiz-felipe12@example.com;27/01/1997;28;15/11/2024;962;14,43;Vendedor_E
+445735;Sr. Enzo Araújo;941.203.758-97;Vieira;Catador de carangueijos;Vale Pimenta, 607;dnunes@example.net;02/05/1966;59;09/01/2025;25;0,38;Vendedor_D
+608881;Nicolas Souza;528.941.736-28;Rios de Freitas;Restaurador;Aeroporto de Ferreira, 2;nlima@example.org;18/01/1967;58;16/12/2024;782;11,73;Vendendor_A
+873999;Eduarda Santos;047.596.182-01;Duarte da Serra;Estivador;Alameda Rios, 83;diasmaria-vitoria@example.net;11/05/1941;84;31/07/2025;595;8,92;Vendedor_D
+448255;Joana Câmara;406.185.923-42;Teixeira do Campo;Caixa;Vila Lucas Silva, 914;rodrigueseduarda@example.org;17/12/2014;11;17/09/2025;836;12,54;Vendendor_B
+529709;Sra. Bárbara Pimenta;176.320.589-40;Ramos;Agente de combate à endemias;Morro Benjamin das Neves, 30;maria-cecilia14@example.net;21/11/1952;73;02/03/2025;949;14,23;Vendendor_C
+976715;Dra. Maria Sophia Cunha;671.984.325-73;Costa de Mendonça;Forneiro;Ladeira de Cunha, 19;enzo-gabrielnascimento@example.net;25/12/1951;74;16/04/2025;575;8,62;Vendendor_A
+746691;Srta. Alice Casa Grande;769.230.814-40;Câmara;Atleta de arremesso de peso;Favela Castro, 235;nataliapereira@example.net;30/10/1988;37;23/12/2024;681;10,21;Vendedor_E
+617807;Bella Ferreira;528.491.730-88;Nogueira;Meredeira;Fazenda de Porto, 65;macedocamila@example.com;23/08/2013;12;28/04/2025;111;1,67;Vendedor_D
+309548;Joaquim Cardoso;071.482.963-31;Nunes;Pintor;Colônia Maya Rocha, 69;davi-lucas13@example.org;04/07/1938;87;12/06/2025;938;14,07;Vendendor_B
+455234;João Ramos;531.927.680-02;Costela;Transcritor;Núcleo Maria Alice Oliveira, 33;ferreiratheodoro@example.org;30/10/1974;51;08/01/2025;970;14,55;Vendedor_E
+922426;Francisco Moraes;805.731.964-00;Mendes da Prata;Jóquei;Alameda da Rosa, 12;bryanalmeida@example.net;19/11/1920;105;18/01/2025;45;0,67;Vendendor_C
+939904;Srta. Letícia Dias;368.759.241-37;Garcia Paulista;Supervisor;Pátio de Brito, 735;jda-rocha@example.net;01/01/1954;71;26/10/2025;603;9,04;Vendendor_B
+377186;Bento Sampaio;576.403.192-34;Nogueira de Cavalcanti;Engenheiro têxtil;Área de Cirino, 23;ravi-lucca98@example.org;28/05/1977;48;07/09/2025;816;12,24;Vendedor_D
+824216;Yago Pastor;923.415.678-19;Fonseca;Prático;Distrito Andrade, 776;zvargas@example.com;21/08/1930;95;16/03/2025;959;14,38;Vendedor_E
+709343;Sr. Augusto Jesus;961.537.084-39;Correia;Montador;Passarela Hadassa Farias, 3;caroline40@example.org;31/12/2021;4;12/12/2024;966;14,49;Vendedor_E
+804556;Nicole Brito;287.654.190-49;Almeida;Aviador;Vila Dom Aragão, 36;caio94@example.com;03/08/1955;70;21/10/2025;95;1,43;Vendedor_D
+867403;Dr. Gustavo Sá;957.213.406-06;Costela;Técnico em edificações;Vereda Anthony Gabriel Gonçalves;ecardoso@example.com;23/02/2001;24;31/05/2025;269;4,04;Vendedor_E
+968573;Gustavo Viana;729.140.853-97;Porto;Papiloscopista;Distrito Lívia Novaes, 8;maria-eduarda30@example.com;10/08/2009;16;29/11/2024;549;8,23;Vendendor_A
+890315;Srta. Marina Pinto;810.467.952-01;Gomes;Psicopedagogo;Rua Aparecida, 90;da-pazjose-pedro@example.net;03/08/1965;60;20/01/2025;56;0,84;Vendedor_E
+118490;Sra. Maysa Albuquerque;782.106.354-17;da Luz da Mata;Filósofo;Morro Kevin Mendes, 96;mcardoso@example.net;20/06/1981;44;28/10/2025;310;4,65;Vendedor_E
+219102;Antony Brito;841.576.239-91;Lima de Peixoto;Massagista;Largo Cirino, 8;alvesisaac@example.net;22/02/1998;27;21/12/2024;465;6,97;Vendedor_E
+906288;Sr. João Guilherme Ferreira;529.803.647-38;Alves de Mendes;Digitador;Vereda Lucas Gabriel Siqueira, 76;andradeluiz-felipe@example.com;23/09/1939;86;19/08/2025;502;7,53;Vendedor_D
+811361;Maria Isis Sampaio;871.209.645-85;Cassiano;Taxista;Favela de Castro, 92;jose-miguelazevedo@example.com;25/09/1947;78;22/06/2025;443;6,64;Vendedor_D
+622179;Srta. Sophia Novaes;367.582.419-55;Pereira Grande;Barbeiro;Núcleo da Mota, 459;da-paznicolas@example.org;03/08/2003;22;04/03/2025;81;1,21;Vendedor_D
+709879;Yuri Moraes;340.589.721-14;Cavalcante;Engenheiro metalúrgico;Residencial Caio Rocha;gsiqueira@example.net;10/02/1919;106;27/07/2025;718;10,77;Vendedor_E
+442865;Augusto Farias;027.435.169-25;Oliveira Verde;Imunologista;Estrada de Pereira, 72;fda-cruz@example.net;02/08/1949;76;04/03/2025;556;8,34;Vendedor_E
+114767;Anthony Gabriel Pacheco;497.120.368-04;Nogueira Alegre;Pecuarista;Alameda Giovanna Costa, 6;daparecida@example.org;02/02/1941;84;18/05/2025;986;14,79;Vendedor_D
+937113;Luiz Otávio Carvalho;794.068.523-65;Pastor Grande;Embaixador;Núcleo Vieira, 675;kda-mota@example.com;01/08/1945;80;19/06/2025;952;14,28;Vendedor_D
+827466;Antony Macedo;732.905.481-04;Moura;Percursionista;Feira de Ribeiro, 680;felipe18@example.net;28/10/1912;113;15/05/2025;47;0,7;Vendendor_A
+680731;Lara Siqueira;367.895.021-30;Ferreira de Minas;Cartunista;Praça Valentim da Mota, 9;da-mataisis@example.net;03/05/2013;12;23/10/2025;664;9,96;Vendedor_D
+461919;Juliana Casa Grande;731.894.065-10;Novaes;Fundidor de placa de gesso;Praça Yan Carvalho, 769;josueoliveira@example.org;28/03/2010;15;30/04/2025;290;4,35;Vendendor_B
+427435;Maria Melo;329.407.861-78;Lopes;Redator;Núcleo de Gonçalves, 87;gael-henrique20@example.org;16/04/1931;94;04/05/2025;704;10,56;Vendendor_B
+811283;Catarina Mendonça;324.087.956-56;Correia do Galho;Cenógrafo;Chácara Siqueira;barrosstephany@example.net;06/06/1979;46;16/05/2025;447;6,71;Vendedor_E
+469403;João Nogueira;961.403.872-13;Cavalcanti;Operador de vídeo;Quadra de da Cruz, 47;enzo-gabrielvieira@example.net;16/05/1911;114;01/03/2025;514;7,71;Vendendor_A
+146211;Emilly Cardoso;843.752.960-38;da Paz;Artesão;Fazenda Pacheco;luiz-felipe26@example.org;13/06/1994;31;30/06/2025;688;10,32;Vendendor_B
+894074;Srta. Rafaela Casa Grande;805.749.362-38;Barbosa Verde;Almoxarife;Fazenda Maria Laura Brito, 84;benicio09@example.org;11/02/1967;58;04/10/2025;586;8,79;Vendedor_E
+898471;Nicolas Ramos;926.873.145-28;Pinto;Babá;Passarela Maitê Vasconcelos, 61;bianca75@example.net;13/12/1909;116;04/10/2025;422;6,33;Vendendor_C
+530878;Dra. Luana Fernandes;924.378.560-56;Abreu;Instrumentador cirúrgico;Alameda Jesus;pcaldeira@example.org;11/10/1988;37;27/01/2025;550;8,25;Vendedor_D
+279548;Maitê Teixeira;364.705.219-16;Moreira de Castro;Despachante;Vereda Matheus Martins, 7;silvakamilly@example.net;27/01/1931;94;17/10/2025;987;14,8;Vendendor_A
+298579;Paulo Freitas;349.270.165-52;Rodrigues;Cerimonialista;Passarela Andrade, 59;costelaclarice@example.com;09/01/1968;57;26/11/2024;417;6,25;Vendendor_C
+128192;Cauã Moraes;596.741.028-76;Siqueira;Biomédico;Viaduto Mendes, 33;tpires@example.org;30/05/2006;19;30/08/2025;758;11,37;Vendendor_B
+937598;André Fonseca;718.240.365-07;da Rocha de Azevedo;Tapeceiro;Distrito Gabrielly Nunes, 34;psilveira@example.com;18/09/1957;68;12/08/2025;943;14,14;Vendedor_D
+474664;Dom da Mata;413.925.806-33;Santos do Galho;Profissional de comércio exterior;Avenida Noah Vargas, 31;pintobruna@example.net;23/03/1930;95;08/02/2025;784;11,76;Vendendor_C
+995336;Srta. Eduarda da Cruz;865.237.140-71;Andrade dos Dourados;Numerólogo;Morro Danilo Andrade, 15;esther83@example.com;19/08/1935;90;02/07/2025;657;9,86;Vendedor_E
+210640;Ana Lívia Barros;786.501.432-53;Martins dos Dourados;Laboratorista;Chácara Pinto, 62;rioscalebe@example.net;06/06/2015;10;16/02/2025;362;5,43;Vendedor_D
+741178;Maria Eduarda Sales;364.102.589-33;Fonseca;Marceneiro;Setor Kaique Moura, 25;amanda92@example.net;16/09/1954;71;23/02/2025;961;14,41;Vendendor_C
+728473;Mariana da Cruz;137.695.280-77;Jesus;Preparador de máquinas;Praia de Vasconcelos, 3;barbosaluiz-fernando@example.com;23/10/1973;52;10/04/2025;560;8,4;Vendedor_E
+564443;Yasmin Cavalcanti;139.057.482-23;Lima de Minas;Pediatra;Estação Nunes;xaragao@example.org;12/05/1983;42;19/12/2024;787;11,8;Vendedor_E
+889123;Ana Julia da Conceição;653.792.140-61;Marques;Conferente de recebimento;Via Levi Aragão, 42;montenegrogabriela@example.net;23/01/1916;109;24/07/2025;769;11,54;Vendendor_B
+318630;João Guilherme Gomes;301.792.465-34;da Conceição Verde;Tecnólogo em silvicultura;Setor de da Mata, 58;isadoravieira@example.net;03/03/1988;37;02/07/2025;572;8,58;Vendendor_A
+333474;Vitor Hugo Vieira;085.197.426-02;Borges de Teixeira;Navegador;Pátio Carvalho, 18;lais00@example.net;03/09/1920;105;28/03/2025;480;7,2;Vendedor_E
+531522;Aylla Vargas;269.781.405-11;Rezende;Pára-quedista;Núcleo Léo da Costa;da-matamaria-fernanda@example.com;25/11/1959;66;02/03/2025;133;1,99;Vendedor_D
+612315;Stella Moraes;795.462.018-20;Cavalcanti;Assessor de imprensa;Praça de das Neves, 97;portodiogo@example.com;17/08/1998;27;12/12/2024;178;2,67;Vendendor_C
+385402;Melissa da Paz;957.612.803-02;Aparecida de Brito;Auxiliar de serviços gerais;Estação Vieira;sampaiolais@example.com;03/07/2025;0;02/11/2025;207;3,1;Vendendor_B
+499431;Matteo Cavalcanti;019.428.356-98;Correia;Lubrificador de máquinas;Praia de da Mota, 76;vicenterodrigues@example.com;30/08/1965;60;22/11/2024;163;2,44;Vendendor_C
+646441;Josué Santos;392.450.617-52;da Paz Grande;Odontologista legal;Campo Souza, 26;dborges@example.com;29/10/2020;5;05/10/2025;347;5,21;Vendedor_D
+754049;Aurora Rodrigues;384.925.610-33;Ferreira das Flores;Conferente de expedição;Feira Cavalcante, 17;emanuellyvargas@example.com;19/07/2000;25;14/12/2024;696;10,44;Vendedor_E
+184459;João Marques;297.138.405-50;Borges de Oliveira;Meteorologista;Vereda Leão, 24;diogo30@example.org;20/05/1931;94;09/01/2025;940;14,1;Vendedor_D
+701949;Srta. Ana Sophia Marques;307.264.519-16;Pastor de Castro;Diretor de produção;Fazenda da Conceição, 55;maria-luisacavalcanti@example.org;13/12/1931;94;21/05/2025;623;9,34;Vendedor_D
+858498;Daniel Rios;493.581.076-93;Carvalho;Engenheiro de computação;Trevo Rael Sales, 60;alanabarbosa@example.org;26/01/1998;27;30/04/2025;965;14,47;Vendedor_D
+814804;Antônio da Luz;841.529.306-24;Sampaio;Somelier;Travessa de Costa, 3;marcela71@example.org;07/10/1950;75;18/10/2025;560;8,4;Vendedor_D
+821462;Melina Camargo;159.873.604-39;Pastor Alegre;Atleta de canoagem;Praia Novais;thiago60@example.com;05/07/2001;24;08/04/2025;365;5,47;Vendendor_B
+817801;Catarina Moura;762.093.814-13;Teixeira;Atendente;Feira Peixoto;kamilly77@example.net;24/07/1918;107;18/09/2025;403;6,04;Vendedor_D
+752230;Matteo Cardoso;675.834.021-07;Garcia da Praia;Dermatologista;Travessa de Machado;noah51@example.com;13/09/1944;81;03/09/2025;631;9,46;Vendendor_B
+906507;Raul Macedo;786.249.051-76;Rocha;Cenógrafo;Largo Natália Lima, 1;dpeixoto@example.net;27/08/1966;59;28/02/2025;223;3,34;Vendendor_B
+628549;Alexia Montenegro;716.259.034-99;Abreu;Agente comunitário de saúde;Área Lucas Sales, 5;imartins@example.com;09/04/1975;50;09/02/2025;480;7,2;Vendendor_A
+397328;Eduarda Melo;810.795.264-20;Freitas Verde;Engenheiro naval;Esplanada de Campos, 826;andrecasa-grande@example.org;02/05/2019;6;24/01/2025;918;13,77;Vendendor_B
+216935;Hellena Garcia;357.419.680-66;da Cruz de Dias;Tecnólogo em silvicultura;Aeroporto Vieira, 24;sarah62@example.net;23/01/2002;23;16/02/2025;974;14,61;Vendedor_E
+187336;Sra. Manuela Brito;370.461.295-25;Barros;Representante comercial;Recanto de Leão, 73;lucas58@example.org;07/02/1991;34;15/01/2025;277;4,16;Vendendor_B
+794386;Allana Barbosa;580.942.713-88;Pimenta;Auxiliar administrativo;Pátio de Garcia, 7;vieirapietra@example.net;23/03/1958;67;24/06/2025;841;12,62;Vendedor_D
+104357;Kaique Duarte;954.073.826-10;da Cruz;Sapateiro;Passarela Correia, 43;vargasmaysa@example.org;21/04/1947;78;14/10/2025;464;6,96;Vendendor_A
+269639;Hadassa Moreira;537.192.840-50;Sampaio de Vargas;Engenheiro de aquicultura;Conjunto Arthur Gabriel Gonçalves, 8;nascimentosamuel@example.com;10/08/1992;33;07/02/2025;800;12,0;Vendendor_B
+617451;Murilo da Mota;978.504.261-85;Garcia;Assessor parlamentar;Colônia da Cruz, 46;fbrito@example.org;17/03/1928;97;12/08/2025;169;2,53;Vendedor_E
+218145;Otto Pimenta;847.162.509-11;da Paz da Prata;Ambientalista;Esplanada de das Neves, 4;luana44@example.com;26/03/1911;114;20/06/2025;609;9,13;Vendendor_C
+513316;Bernardo Barros;189.624.507-20;Pereira do Galho;Ascensorista;Pátio Vieira;cavalcantilavinia@example.org;01/05/2022;3;17/11/2024;752;11,28;Vendedor_D
+892590;Emilly da Mota;349.712.068-50;da Cruz;Editor;Conjunto Benício Cavalcante, 47;diego79@example.com;11/05/1940;85;27/01/2025;516;7,74;Vendedor_D
+122020;Srta. Ana Sophia Brito;943.210.768-03;Aragão de Albuquerque;Engenheiro agrimensor;Lagoa Joana Teixeira, 45;renan46@example.net;03/10/2010;15;07/08/2025;598;8,97;Vendendor_A
+151042;Eduarda Guerra;591.630.742-06;Guerra do Sul;Peixeiro;Aeroporto de Abreu, 94;snunes@example.net;18/04/2022;3;02/04/2025;25;0,38;Vendedor_E
+771014;Natália Siqueira;196.825.374-28;Andrade das Pedras;Datilógrafo;Vila de Monteiro, 74;freitasnicolas@example.net;24/05/1999;26;30/11/2024;611;9,16;Vendendor_B
+357135;Pedro Miguel Alves;406.158.273-90;Garcia;Microfonista;Praia Azevedo, 17;lucas-gabriel59@example.org;08/07/1990;35;04/08/2025;995;14,92;Vendendor_C
+485610;Sr. Otávio Moura;428.019.635-42;Cirino do Sul;Cientista;Vila Ana Carolina Casa Grande, 432;gael-henrique53@example.org;09/07/2022;3;21/10/2025;592;8,88;Vendendor_A
+392193;Lucca Leão;046.958.371-10;Aragão;Mergulhador;Conjunto Matheus Ribeiro;maria-cecilia08@example.com;26/04/1960;65;20/04/2025;651;9,76;Vendedor_E
+172465;Dra. Cecília Ramos;514.760.283-62;Azevedo do Oeste;Velejador;Avenida Fonseca, 4;ucavalcanti@example.org;22/06/1911;114;22/03/2025;270;4,05;Vendedor_E
+422039;Francisco Brito;143.769.025-43;Correia da Serra;Jogador de boliche;Alameda de Nunes, 34;xbrito@example.com;06/01/1967;58;21/07/2025;246;3,69;Vendedor_D
+745035;Gabriela Melo;640.398.152-89;da Luz das Flores;Capoeirista;Aeroporto de das Neves, 103;azevedoliam@example.net;17/02/1937;88;02/02/2025;776;11,64;Vendendor_B
+954777;Dr. João Guilherme Vasconcelos;879.062.134-40;Lima de Pereira;Profissional de marketing;Vereda Antony Peixoto, 33;pietrocasa-grande@example.org;11/07/1970;55;12/01/2025;331;4,96;Vendendor_A
+376734;Ísis Campos;308.164.257-44;Cunha;Conferente de recebimento;Avenida Sampaio, 27;manuela18@example.net;02/04/1965;60;09/02/2025;631;9,46;Vendendor_B
+953514;Emanuella Nascimento;025.713.964-80;Marques;Lamboteiro;Núcleo Pereira, 8;samurilo@example.org;09/02/1923;102;15/09/2025;189;2,83;Vendendor_C
+859710;Danilo Moreira;194.057.862-02;Brito da Serra;Escriturário;Estação Cecília da Cunha, 29;costelavitor@example.net;22/12/1929;96;13/11/2024;328;4,92;Vendedor_D
+604123;Emanuelly Azevedo;804.321.576-62;Andrade do Sul;Classificador contábil;Trevo Maria Júlia Pires, 16;barrosbella@example.net;27/12/1931;94;01/11/2025;318;4,77;Vendendor_A
+767718;Luara Moreira;429.673.815-19;Campos de Porto;Cabeleireiro;Setor Kamilly Souza, 30;brenocunha@example.org;19/09/1922;103;30/06/2025;813;12,2;Vendendor_B
+169423;Maria Luiza da Rosa;930.452.816-05;Casa Grande do Oeste;Frentista;Viaduto da Rosa, 2;aylla30@example.com;21/05/1946;79;20/07/2025;282;4,23;Vendendor_C
+649864;Dra. Alana Pimenta;542.819.603-33;Vargas;Capitão;Praça Luiz Miguel Teixeira, 26;azevedomaria@example.net;03/02/1979;46;17/06/2025;943;14,14;Vendendor_A
+677455;Levi Leão;196.057.248-20;da Cunha;Produtor fonográfico;Viela Novais, 338;guilhermegoncalves@example.net;12/07/2019;6;12/03/2025;999;14,98;Vendendor_A
+963539;Leonardo Fogaça;056.194.372-99;Fernandes do Oeste;Gerente de riscos em seguros;Trevo de Sá, 60;hnogueira@example.org;03/03/1921;104;27/07/2025;750;11,25;Vendedor_E
+122686;Sra. Letícia Viana;913.687.042-04;Machado das Flores;Tecnólogo em rochas ornamentais;Favela Andrade;brenoaparecida@example.net;25/07/1999;26;14/10/2025;743;11,14;Vendendor_A
+957991;Davi Castro;724.309.816-96;Farias;Tecnólogo em jogos digitais;Praça Cavalcante, 738;nascimentoleonardo@example.net;26/05/2001;24;15/10/2025;398;5,97;Vendedor_D
+200100;Yan da Rocha;307.129.645-25;Vieira do Amparo;Pianista;Condomínio Barros, 40;hsilva@example.net;16/04/2009;16;14/07/2025;344;5,16;Vendendor_B
+553195;Manuela da Rosa;967.045.832-38;Gonçalves;Assistente administrativo;Pátio de Rios, 908;tcamara@example.org;24/11/1975;50;16/04/2025;987;14,8;Vendendor_B
+393091;Pedro Lucas Sá;213.846.095-98;Alves do Sul;Jogador de vôlei;Viaduto Cirino, 12;agathagarcia@example.org;21/10/1973;52;28/03/2025;404;6,06;Vendendor_A
+534460;Marcos Vinicius Pimenta;078.964.523-83;Souza de Pastor;Engenheiro naval;Feira de Rodrigues;hbarros@example.org;13/08/2018;7;13/08/2025;533;8,0;Vendendor_C
+870104;Aurora Pimenta;419.036.578-57;Duarte Paulista;Ferreiro;Praça Augusto Cavalcanti, 383;qcaldeira@example.org;06/06/1931;94;20/12/2024;162;2,43;Vendendor_A
+338215;Maria Farias;601.895.432-05;Cardoso;Cobaia Médica;Viaduto Sales;bbrito@example.net;03/09/1924;101;16/08/2025;533;8,0;Vendendor_C
+482224;Gustavo Henrique Gomes;186.543.709-39;da Cunha;Limpador de vidros;Praça de Moura, 14;uporto@example.com;19/12/1944;81;21/12/2024;18;0,27;Vendendor_B
+494339;Pedro da Rosa;812.560.374-35;Castro de Freitas;Administrador público;Residencial da Costa, 61;gcirino@example.org;18/08/1912;113;24/12/2024;229;3,44;Vendedor_D
+265490;João Felipe Araújo;712.095.834-88;Montenegro de da Conceição;Escultor;Ladeira Peixoto, 70;dante23@example.net;03/03/1974;51;01/04/2025;867;13,0;Vendendor_C
+472299;Gustavo Vieira;156.907.243-43;Guerra;Marcador de luz;Avenida de Lopes, 4;beniciorios@example.com;23/12/1934;91;07/02/2025;800;12,0;Vendedor_E
+327686;Dra. Melina Oliveira;489.275.631-82;Pereira;Profissional de relações internacionais;Via de Ribeiro, 322;leo12@example.com;14/04/1991;34;25/11/2024;705;10,57;Vendedor_E
+245421;Calebe Ribeiro;416.389.075-01;Pinto da Serra;Clínico geral;Vila Luiz Henrique Freitas, 94;almeidabento@example.com;10/05/1979;46;04/09/2025;145;2,17;Vendendor_B
+510817;Igor Garcia;587.462.130-07;Garcia;Perfumista;Viaduto Diego Araújo, 11;stephanyazevedo@example.org;01/11/2018;7;31/08/2025;991;14,87;Vendedor_E
+503899;Maria Alice Teixeira;159.470.238-14;Souza;Vigilante noturno/diurno;Esplanada Castro, 12;mendoncahadassa@example.net;08/07/2013;12;03/05/2025;380;5,7;Vendendor_C
+815752;Daniel da Conceição;160.583.972-86;Carvalho;Engenheiro têxtil;Trevo Souza;sarabrito@example.org;14/11/2018;7;06/06/2025;843;12,64;Vendendor_C
+828431;Murilo Guerra;638.201.745-08;Carvalho;Major;Condomínio de Marques, 990;gabrielcamargo@example.com;29/04/1944;81;09/04/2025;56;0,84;Vendendor_C
+386875;Esther da Mata;501.239.867-02;Campos da Praia;Engenheiro mecatrônico;Residencial de Lima, 46;camaraolivia@example.com;14/01/2019;6;08/06/2025;827;12,4;Vendendor_B
+717336;Luísa Monteiro;107.935.428-04;Pimenta Grande;Arrumadeira;Vila Matheus Rios;theooliveira@example.net;29/03/1922;103;15/01/2025;43;0,65;Vendedor_E
+568340;Gustavo Vargas;769.845.302-29;Porto;Engenheiro cartográfico;Vila Alves, 3;npimenta@example.com;03/05/1950;75;29/10/2025;936;14,04;Vendendor_A
+142029;Camila Barbosa;012.463.789-22;Machado;Zootecnista;Distrito Dante Porto, 88;carolinada-cruz@example.net;15/08/1931;94;11/07/2025;268;4,02;Vendendor_C
+963896;Maria Julia Leão;275.834.910-88;Pereira;Terapeuta ocupacional;Viaduto Sampaio, 64;oliviavieira@example.com;15/08/1948;77;16/11/2024;62;0,93;Vendendor_B
+110767;Bruno Lopes;950.784.263-29;Brito da Serra;Fisiculturista;Conjunto Ana Vitória Pinto, 526;camilarios@example.net;25/09/1916;109;08/06/2025;369;5,54;Vendedor_D
+965357;Lorenzo Cardoso;938.261.507-59;Mendonça do Sul;Policial federal;Residencial de Correia, 36;montenegrosofia@example.net;28/12/1952;73;05/08/2025;844;12,66;Vendendor_C
+784234;Gabrielly Moraes;628.743.051-62;Borges das Pedras;Confeiteiro;Rodovia Luana Caldeira, 4;yancasa-grande@example.com;03/11/2016;9;10/01/2025;321;4,81;Vendendor_B
+921798;Ágatha Nogueira;694.730.158-01;Ferreira da Mata;Escultor;Vale de Borges, 69;costamateus@example.org;05/03/1965;60;19/05/2025;906;13,59;Vendendor_B
+709434;Dra. Maria Júlia Monteiro;902.183.765-02;Moura de Goiás;Auxiliar de reprografia;Chácara Isabella Campos;liam20@example.org;29/03/1942;83;16/05/2025;753;11,29;Vendendor_B
+523886;Luiz Otávio Marques;475.130.968-48;Fernandes dos Dourados;Podólogo;Vale de Jesus, 69;vianacarolina@example.org;25/11/1967;58;18/06/2025;309;4,63;Vendendor_A
+492655;Pedro Albuquerque;681.704.359-00;Novaes;Hostess;Praça Rhavi Ferreira;joao-miguelguerra@example.org;12/05/2019;6;05/01/2025;258;3,87;Vendendor_B
+171455;Henry Ferreira;785.214.903-05;Fogaça;Prático;Estrada de Rezende;rochabenjamim@example.com;22/09/1923;102;30/12/2024;200;3,0;Vendendor_A
+795833;Lucas Albuquerque;931.576.280-03;da Costa de Minas;Mecanógrafo;Travessa Azevedo, 35;ana-lizcamara@example.net;27/07/1939;86;22/10/2025;724;10,86;Vendedor_D
+190695;Srta. Alícia Câmara;870.249.516-30;Rocha;Empregado doméstico;Travessa Miguel Dias, 616;martinsian@example.org;22/11/2000;25;10/03/2025;564;8,46;Vendedor_D
+408076;Bárbara Borges;102.483.957-50;Peixoto dos Dourados;Transportador;Avenida Mendonça, 20;scosta@example.net;16/09/1943;82;07/04/2025;5;0,07;Vendedor_E
+843402;Jade Barbosa;469.821.357-64;Fonseca;Profissional de reciclagem;Travessa Fogaça, 3;danteleao@example.net;07/05/1922;103;21/05/2025;757;11,36;Vendendor_C
+119440;Apollo Cavalcanti;725.619.348-37;Macedo;DJ;Parque Silva, 97;maria-fernandada-cruz@example.com;21/01/1949;76;16/04/2025;425;6,38;Vendendor_A
+211898;Levi Cavalcanti;815.930.264-98;Aparecida;Endocrinologista;Residencial de da Luz, 25;garciaester@example.com;16/05/2013;12;29/11/2024;286;4,29;Vendedor_E
+991620;Ana Carolina Rocha;768.920.435-00;Gonçalves;Engenheiro agrícola;Avenida de Araújo;noahfernandes@example.net;14/12/1961;64;22/01/2025;4;0,06;Vendedor_E
+527244;Vitor Campos;863.712.954-46;Novais do Sul;Encanador;Ladeira Sá, 833;apollopastor@example.com;01/04/2020;5;09/04/2025;359;5,38;Vendedor_E
+609880;Danilo Casa Grande;023.795.468-00;Vieira;Gestor ambiental;Campo de da Mata, 43;enzo77@example.org;14/07/1960;65;07/03/2025;496;7,44;Vendedor_E
+698222;Dr. Felipe Costa;945.068.273-92;Casa Grande dos Dourados;Lavador;Via Cassiano, 68;igoncalves@example.org;23/12/1936;89;02/05/2025;922;13,83;Vendedor_D
+542142;Isaac Alves;024.795.863-83;Cardoso;Leiteiro;Área Rael da Mota, 27;da-cunhaana-beatriz@example.org;24/11/2009;16;08/12/2024;871;13,06;Vendendor_C
+546863;Eloá Leão;259.473.081-50;Cirino de Pereira;Líder comunitário;Morro João Lucas Camargo, 79;marcos-viniciussilveira@example.net;17/05/2008;17;27/01/2025;452;6,78;Vendendor_C
+684209;Ana Laura Sousa;940.238.615-70;Andrade de Viana;Terapeuta ocupacional;Colônia Moreira, 12;anthonybrito@example.net;24/08/2008;17;03/10/2025;822;12,33;Vendendor_B
+562716;Carolina Cirino;172.403.865-62;Mendonça da Praia;Administrador;Jardim Caleb Rios, 502;vitor-hugoalmeida@example.com;07/04/1950;75;26/10/2025;681;10,21;Vendendor_C
+714397;Catarina Souza;483.192.670-13;da Luz;Entalhador;Alameda da Rosa, 661;dazevedo@example.net;17/08/1911;114;02/03/2025;306;4,59;Vendendor_A
+181639;Isabel da Paz;601.239.754-25;Câmara Paulista;Arquivista;Campo Sousa, 65;teixeiraana-livia@example.org;31/08/1959;66;19/03/2025;298;4,47;Vendedor_E
+922026;Cecília Montenegro;915.380.476-75;Guerra;Gastroenterologista;Recanto de Aragão, 787;antonysouza@example.net;08/12/2022;3;02/11/2025;541;8,12;Vendendor_A
+735799;Srta. Manuella Casa Grande;438.126.579-37;Porto do Campo;Técnico de som;Lagoa Rafael Oliveira, 906;joao-vitor87@example.com;31/03/1915;110;08/05/2025;263;3,94;Vendedor_D
+799225;Ana Cecília Vieira;629.058.374-38;Ribeiro Alegre;Engenheiro naval;Campo de Borges, 55;csales@example.net;26/10/1967;58;27/11/2024;271;4,06;Vendedor_D
+689476;Eloá Abreu;097.125.486-94;Farias;Engenheiro metalúrgico;Favela de Albuquerque, 6;rafaela66@example.net;03/07/1964;61;12/01/2025;311;4,67;Vendedor_E
+968635;Valentina Farias;150.894.763-57;Borges;Geradorista;Morro de Teixeira, 80;agathada-paz@example.org;10/12/2017;8;07/01/2025;515;7,72;Vendedor_D
+265321;Davi Lucas Borges;940.127.583-14;Gomes;Açougueiro;Quadra Araújo, 12;bernardosilveira@example.net;29/12/1976;49;26/08/2025;298;4,47;Vendendor_B
+283037;Yasmin Pimenta;973.614.850-57;Vasconcelos de Silveira;Dermatologista;Chácara Vitor Gabriel Fogaça, 221;davi-luccavasconcelos@example.org;19/10/1917;108;25/07/2025;28;0,42;Vendedor_E
+915661;Sr. Anthony Gabriel Campos;254.683.901-24;Mendonça;Capoeirista;Vereda Vitor Gabriel da Paz, 11;maria-cecilia80@example.org;08/09/1975;50;29/10/2025;523;7,84;Vendendor_C
